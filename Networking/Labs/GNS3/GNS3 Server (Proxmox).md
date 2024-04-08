@@ -6,7 +6,7 @@ This documentation provides a step-by-step guide to help you set up the GNS3 VM 
 
 1. Visit the GNS3 download page at [https://www.gns3.com/software/download-vm](https://www.gns3.com/software/download-vm).
 
-2. Select the option for ESXi and download the GNS3 VM OVA file.
+2. Select the option for ESXi and download the GNS3 VM OVA file. (We will convert this to qcow for more info on what this means [[ESXi to Proxmox]])
 
 ## Step 2: Transfer the OVA File to Your Proxmox Server
 
