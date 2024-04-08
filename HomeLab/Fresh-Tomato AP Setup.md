@@ -1,7 +1,7 @@
 
 
 ---
-
+Tags [[DD-WRT AP Setup]] [[Aruba IAP Config]] [[Open-WRT AP Setup]]
 # Configuring Router as a Dumb Access Point (AP)
 
 This guide outlines the steps to configure a router to function as a Dumb Access Point (AP) within an existing network. By following these instructions, you can repurpose a router to act as a switch or additional access point, extending your network coverage.

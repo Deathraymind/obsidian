@@ -1,5 +1,7 @@
 ### Operating System Upgrade and Aruba Instant Access Points Configuration Documentation
 
+You will need a tftp server [[TFTP Server (Debian)]]
+Links [[Fresh-Tomato AP Setup]] [[DD-WRT AP Setup]] [[Open-WRT AP Setup]] 
 #### 1. Upgrade OS Command:
 
 During the upgrade process of the operating system (OS) for Aruba Instant Access Points (IAPs), follow these steps:
@@ -19,7 +21,7 @@ During the upgrade process of the operating system (OS) for Aruba Instant Access
 
   - These commands initiate the OS upgrade on the IAPs.
   - `os 0` and `os 1` specify separate partitions for the new OS on each AP.
-  - `172.16.1.13` is the IP address where the new OS image is located.
+  - `172.16.1.13` is the IP address where the new OS image is located[[TFTP Server (Debian)]].
   - `/ArubaInstant_Taurus_6.5.4.15_73677` denotes the exact location and filename of the new OS image.
 
 #### 2. Proginv System Ccode Command:

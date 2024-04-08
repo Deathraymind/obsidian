@@ -1,5 +1,5 @@
 # Configuring an OpenWrt Access Point
-
+Tags [[Aruba IAP Config]] [[DD-WRT AP Setup]] [[Fresh-Tomato AP Setup]]
 ## Overview
 This guide covers the steps to configure an OpenWrt router as a wireless access point (AP), including network settings, disabling unnecessary services, and finalizing the configuration.
 

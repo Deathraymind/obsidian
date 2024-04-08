@@ -1,5 +1,7 @@
 **DD-WRT Router Configuration Guide**
 
+Tags [[Open-WRT AP Setup]] [[Aruba IAP Config]] [[Fresh-Tomato AP Setup]]
+
 This guide will walk you through the process of configuring your DD-WRT router to ensure optimal performance and security. Please follow each step carefully to avoid any issues.
 
 **Step 1: Hard Reset**
