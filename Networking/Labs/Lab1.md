@@ -1,7 +1,5 @@
-![basic top](https://github.com/Deathraymind/LearningNetworking/blob/main/Screenshot%20from%202024-02-18%2020-49-37.png)
+![[Pasted image 20240408081716.png]]
 
-
-Absolutely! Here's the formatted version of the instructions with brief descriptions for each command:
 
 ---
 
