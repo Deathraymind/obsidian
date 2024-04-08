@@ -12,7 +12,7 @@ Before proceeding, ensure you have the following:
 - Physical access to the Cisco device.
 - A console cable to connect your computer to the device.
 - A terminal emulator program (e.g., PuTTY, Tera Term, or HyperTerminal) installed on your computer.
-- A TFTP (Trivial File Transfer Protocol) server with the correct firmware image you want to load onto the device.
+- A [[TFTP Server (Debian)]] File Transfer Protocol) server with the correct firmware image you want to load onto the device.
 
 ### Accessing ROMMON Mode:
 
