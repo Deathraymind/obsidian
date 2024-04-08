@@ -1,7 +1,8 @@
 ### Operating System Upgrade and Aruba Instant Access Points Configuration Documentation
-
+#AP 
 You will need a tftp server [[TFTP Server (Debian)]]
 Links [[Fresh-Tomato AP Setup]] [[DD-WRT AP Setup]] [[Open-WRT AP Setup]] 
+
 #### 1. Upgrade OS Command:
 
 During the upgrade process of the operating system (OS) for Aruba Instant Access Points (IAPs), follow these steps:
