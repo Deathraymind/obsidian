@@ -1,1 +1,1 @@
-#scolerships 
+#scholarships [[STOKES]]
