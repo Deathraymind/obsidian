@@ -1,7 +1,7 @@
 **Bug Documentation: Spice Server Contact Issue with Looking Glass on Windows 10/11**
 
 ---
-
+#KVM 
 **Description:**
 When using Looking Glass with Windows 10 or 11, users may encounter a bug where the Spice server fails to establish proper contact if no physical monitor is connected to the system. This documentation provides steps to resolve this issue by installing a virtual display driver and configuring monitor options.
 

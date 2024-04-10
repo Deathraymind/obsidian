@@ -1,3 +1,4 @@
+#KVM
 Its simple to pin cpus to be used for the OS just add this too the XML file for the VM
 ```
  <currentMemory unit="KiB">16580608</currentMemory>

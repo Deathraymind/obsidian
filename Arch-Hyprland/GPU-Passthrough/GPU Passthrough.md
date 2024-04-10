@@ -1,8 +1,8 @@
-Sure, here's your text with corrected grammar and improved clarity:
+
 
 ---
 
-Okay, so now I want you to keep my outputs and explanations as to why and how I got the information I needed. For instance, running `lspci -nn` and observing its output helped me find the GPU numbers I needed.
+#KVM 
 
 ```bash
 sudo nano /etc/default/grub
