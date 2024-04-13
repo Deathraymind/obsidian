@@ -1,4 +1,4 @@
-To properly set up a PXE server and configure it for your needs, here are the steps you'll want to follow, laid out in a clearer manner:
+
 
 ### 1. Accessing the PXE Server
 - First, determine the IP address of your PXE server. This can usually be found in the server's documentation or by checking the network topology. If you're using Proxmox, you can obtain the IP by running `ip a` in the proxy VM.
