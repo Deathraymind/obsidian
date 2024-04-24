@@ -18,4 +18,4 @@ boot
 ```
 
 
-now you really want to pay attention as the device boots and look for a option called baud rate, this is important as some people like to chnage this and it makes it a real pain to accses the switch as it boots and you will see random symbols. 
+now you really want to pay attention as the device boots and look for a option called baud rate, this is important as some people like to chnage this and it makes it a real pain to accses the switch as it boots and you will see random symbols. so look for something like setting console baud rate to 57600 now look back at the [[Consoling]] settings and change the baudrate from
