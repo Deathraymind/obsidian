@@ -25,3 +25,13 @@ write erase
 ```arduino
 erase startup-config
 ```
+
+
+```
+reload
+```
+
+you will sometimes see thatthe baudrate is still what it was before so in this cas unplug and plug the switch back in.
+
+
+If the switch IOS is indeed broken then you will need to upload the ios image via xmodem through serial since its layer two
