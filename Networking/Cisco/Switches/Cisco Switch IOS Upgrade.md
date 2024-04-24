@@ -57,4 +57,9 @@ config terminal
 boot system flash:ios-image.bin
 end
 ```
+```arduino
+write memory
+```
+
+
 
