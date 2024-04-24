@@ -1,4 +1,4 @@
-Certainly! Here's a nicely formatted document detailing the steps for entering Cisco switch recovery mode and recovering the switch:
+
 
 ---
 
@@ -61,5 +61,3 @@ If the switch IOS is broken, follow these steps to upload the IOS image via Xmod
 3. **Initiate Xmodem Transfer**: Follow the prompts to initiate the Xmodem transfer. In Minicom, press `Ctrl + A` then `S` to select the file to upload. This process may take several hours.
 
 ---
-
-Follow these steps carefully to successfully recover your Cisco switch.
