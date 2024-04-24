@@ -48,7 +48,8 @@ copy tftp: flash:
 
 
 ```sql
-copy flash:ios-image.bin system:
+boot system flash:c2960-lanbasek9-mz.150-2.SE11.bin
+```
 ```
 
 
