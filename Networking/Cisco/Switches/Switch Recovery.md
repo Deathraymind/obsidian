@@ -18,3 +18,4 @@ boot
 ```
 
 
+now you really want to pay attention as the device boots and look for a option called baud rate, this is important as some people like to chnage this and it makes it a real pain to accses the switch as it boots and you will see random symbols. 
