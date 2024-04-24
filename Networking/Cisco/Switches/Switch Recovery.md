@@ -1,37 +1,65 @@
-to enter a Cisco switch recovery system is different froma  routers recovery system called rommon so on the switch hold the mode button at the front of the switch while booting you want to be sure you are consoled into the device using these configs [[Consoling]] you will boot into a system with a switch: option now you want to run these commands. ```
+Certainly! Here's a nicely formatted document detailing the steps for entering Cisco switch recovery mode and recovering the switch:
+
+---
+
+# Cisco Switch Recovery Procedure
+
+Recovering a Cisco switch involves accessing the recovery system, which differs from a router's recovery system known as ROMMON. Follow the steps below to recover a Cisco switch.
+
+## Entering Switch Recovery Mode
+
+1. **Locate the Mode Button**: At the front of the switch, find the mode button.
+2. **Hold Mode Button While Booting**: Hold down the mode button while booting the switch.
+3. **Console into the Device**: Ensure you are consoled into the device using the following configurations:
+
+    ```
+    Consoling settings:
+    - Baud rate: 9600
+    ```
+
+4. **Boot into System with Switch Option**: Upon booting, you will enter a system with a switch option.
+
+## Switch Recovery Commands
+
+Execute the following commands after booting into the system with the switch option:
+
+```bash
 flash_init
-
-```arduino
 del flash:config.text
-```
-
-
-```css
 del flash:vlan.dat
-```
-
-
-
-
-```
 boot
 ```
 
+## Adjusting Baud Rate
 
-now you really want to pay attention as the device boots and look for a option called baud rate, this is important as some people like to chnage this and it makes it a real pain to accses the switch as it boots and you will see random symbols. so look for something like setting console baud rate to 57600 now look back at the [[Consoling]] settings and change the baudrate from 9600 to 57600 and you sould see some deciferable text, so lets set it back to 9600 as its a good standard. so enable then ```arduino
-write erase
-```
+1. **Pay Attention During Boot**: While the device boots, pay attention to the baud rate option.
+2. **Set Baud Rate to 57600**: If necessary, change the baud rate to 57600 for decipherable text.
+3. **Revert to Standard Baud Rate (9600)**: Once you have confirmed decipherable text, set the baud rate back to 9600. Use the following commands:
 
-```arduino
-erase startup-config
-```
+    ```bash
+    enable
+    write erase
+    erase startup-config
+    reload
+    ```
 
+4. **Verify Baud Rate**: Ensure that the baud rate has been set to 9600. If not, unplug and plug the switch back in.
 
-```
-reload
-```
+## Uploading IOS Image via Xmodem
 
-you will sometimes see thatthe baudrate is still what it was before so in this cas unplug and plug the switch back in.
+If the switch IOS is broken, follow these steps to upload the IOS image via Xmodem through serial:
 
+1. **Enter Recovery Mode**: Hold the mode button during boot.
+2. **Run Command**: Execute the following command:
 
-If the switch IOS is indeed broken then you will need to upload the ios image via xmodem through serial since its layer two. this can be simple. so hold mode on boot and run this command.  copy xmodem: flash:<filename> replace the file name with the actaul bin file name in my case c2960-lanbasek9-mz.150-2.SE11.bin so itd look liek this copy xmodem: flash:c2960-lanbasek9-mz.150-2.SE11.bin now it will say something x
+    ```
+    copy xmodem: flash:<filename>
+    ```
+
+    Replace `<filename>` with the actual name of the IOS image file (e.g., `c2960-lanbasek9-mz.150-2.SE11.bin`).
+
+3. **Initiate Xmodem Transfer**: Follow the prompts to initiate the Xmodem transfer. In Minicom, press `Ctrl + A` then `S` to select the file to upload. This process may take several hours.
+
+---
+
+Follow these steps carefully to successfully recover your Cisco switch.
