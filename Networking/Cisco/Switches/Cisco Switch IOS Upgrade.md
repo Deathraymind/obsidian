@@ -41,3 +41,20 @@ show interface GigabitEthernet0/1
 ```lua
 show interfaces status
 ```
+
+```go
+copy tftp: flash:
+```
+
+
+```sql
+copy flash:ios-image.bin system:
+```
+
+
+```arduino
+config terminal
+boot system flash:ios-image.bin
+end
+```
+
