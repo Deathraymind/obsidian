@@ -1,7 +1,7 @@
 # Documentation: Downloading and Running qFlipper 1.3.3 on Linux Ff
 - ## Introduction
   This guide provides step-by-step instructions for downloading and running qFlipper version 1.3.3 on a Linux system. qFlipper is the official software used for updating the Flipper Zero device firmware. This guide assumes the use of automated keyboard commands for executing the process.
-- ## Prerequisites
+- ## Prerequisitess
 - A Linux-based operating system.
 - Internet connectivity to download qFlipper.
 - Sudo privileges for the executing user.
