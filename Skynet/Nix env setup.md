@@ -1,5 +1,5 @@
-# Pytorch/Skynet
-
+# Pytorch/Skynet 
+#nix
 
 python3
 
@@ -15,7 +15,7 @@ rocmPackages.hipfft
 
 rocmPackages.hipcub
 
-  
+
 
 rocm-opencl-runtime
 
