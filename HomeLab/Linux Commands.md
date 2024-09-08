@@ -1,6 +1,6 @@
 # Proxmox Network Configuration Guide
-
-This guide covers the steps to configure network settings in Proxmox using either DHCP or a static IP address.
+#linux
+- This guide covers the steps to configure network settings in Proxmox using either DHCP or a static IP address.
 - ## DHCP Configuration
 - ### 1. Identify Your Network Interface
 - Default network interface in Proxmox is often named `ens18`.
