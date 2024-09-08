@@ -1,4 +1,5 @@
 ## Adding a Cisco IOS Image to GNS3
+#gns3
 
 This guide will walk you through the process of adding a Cisco IOS image (.image or .bin file) to GNS3. The process involves selecting an appropriate Cisco IOS image, configuring GNS3 to use this image for network simulations, and addressing any common issues you might encounter. Following these steps allows you to simulate network configurations and scenarios using the specified Cisco device model.
 - ### Prerequisites
