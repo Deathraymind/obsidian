@@ -1,6 +1,6 @@
 # Documentation: Setting Up a Steam Cache Server on TrueNAS SCALE
 - ## Introduction
-  
+  #homelab 
   This guide explains how to set up a Steam cache server using TrueNAS SCALE. This setup will store game content locally, reducing bandwidth and speeding up downloads across your network.
 - ## Prerequisites
 - TrueNAS SCALE server
