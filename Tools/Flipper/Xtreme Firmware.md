@@ -1,5 +1,4 @@
 # Documentation: Installing Xtreme Firmware (XFW) on Flipper Zero
-#flipper
 - ## Introduction
   Xtreme Firmware (XFW) is a custom firmware for the Flipper Zero device, offering enhanced features and capabilities. This guide will walk you through the steps to install XFW from its GitHub repository.
 - ## Prerequisites
