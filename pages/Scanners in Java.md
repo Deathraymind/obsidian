@@ -1,5 +1,5 @@
 ### Documentation for the Java Program: **Casting `double` to `int`**
-- #### Overview:
+- #### Overview: #java 
   This Java program demonstrates how to take user input as a `double`, perform casting to an `int`, modify the double, and cast it again. It uses the `Scanner` class to get input from the console and shows how to convert a floating-point number to an integer.
 - #### Code Breakdown:
   
@@ -75,5 +75,4 @@
   5.2  // After adding 0.5
   5  // Cast to int after adding 0.5
   ```
-  
-  This simple program provides a basic example of how to manage user input, cast between types, and perform arithmetic operations in Java.
+- This simple program provides a basic example of how to manage user input, cast between types, and perform arithmetic operations in Java.
