@@ -1,5 +1,5 @@
 ## Documentation: Configuring VLANs on a Switch
-- ### Objective: 
+- ### Objective: #switch #brocade
   This documentation outlines the steps to configure VLANs on a network switch, specifically tagging and untagging ports for VLAN 10.
 - ### Prerequisites:
 - Access to the switch's command line interface (CLI) or management interface.
