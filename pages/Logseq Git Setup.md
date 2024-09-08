@@ -1,5 +1,5 @@
 ### Setting Up Git Hooks for Logseq
-
+[[Setting up Obsidian GIT]] 
 Follow these steps to set up Git hooks for your Logseq repository. These hooks will ensure your repository is up-to-date before committing and push changes automatically after committing.
 
 1. **Clone Your Git Repository:**
