@@ -1,4 +1,5 @@
 # Proxmox Network Configuration Guide
+#linux
 - This guide covers the steps to configure network settings in Proxmox using either DHCP or a static IP address.
 - ## DHCP Configuration
 - ### 1. Identify Your Network Interface
