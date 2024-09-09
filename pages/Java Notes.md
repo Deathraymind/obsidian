@@ -41,3 +41,4 @@
 	- boolean
 - References
 	- unlike primative values references store complex objects instead of simple values
+	- references store varaibles or data in memory and then use pointers to point back to the memory address, this means if the val
