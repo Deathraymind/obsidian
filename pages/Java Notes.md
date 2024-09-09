@@ -4,5 +4,6 @@
 		- inside of the perenthsies of void nameoffuntion() goes the parameters
 		- the main function needs to exist so it gets called
 - class
-	-
+	- is a container for related functions
+	- in java we define a class with
 -
