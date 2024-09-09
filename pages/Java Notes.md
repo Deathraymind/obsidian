@@ -1,9 +1,22 @@
 ### Function (Java) #card #java
+card-last-interval:: 4
+card-repeats:: 1
+card-ease-factor:: 2.36
+card-next-schedule:: 2024-09-13T11:16:43.736Z
+card-last-reviewed:: 2024-09-09T11:16:43.737Z
+card-last-score:: 3
+collapsed:: true
 	- A block of code that completes a specific goal.
 		- First, specify the return type of the function (often `void`).
 		- Inside the parentheses of `void nameOfFunction()`, include the parameters.
 		- The `main` function needs to exist so that it gets called.
 - ### Class #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-09-13T11:16:53.279Z
+  card-last-reviewed:: 2024-09-09T11:16:53.280Z
+  card-last-score:: 3
 	- A container for related functions.
 		- In Java, we define a class with the keyword `class` followed by curly braces `{}`.
 		- When a function is outside of a class, it's referred to as a function. Inside a class, it's referred to as a **method**.
@@ -21,6 +34,12 @@
 - ### Packages
 - Groups of classes are contained within packages.
 - ### System.out.println #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-09-13T11:16:55.323Z
+  card-last-reviewed:: 2024-09-09T11:16:55.323Z
+  card-last-score:: 3
 	- `System` is the class.
 	- `out` is the member.
 	- `println` is the method.
@@ -29,8 +48,20 @@
   
   ---
 - ### Variables #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-09-13T11:16:57.523Z
+  card-last-reviewed:: 2024-09-09T11:16:57.524Z
+  card-last-score:: 3
 	- Temporarily store data in computer memory.
 - ### Primitive Types #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-09-13T11:16:59.252Z
+  card-last-reviewed:: 2024-09-09T11:16:59.252Z
+  card-last-score:: 3
 	- `byte`
 	- `short` (3 bytes)
 	- `int` (5 bytes)
@@ -40,6 +71,12 @@
 	- `char`
 	- `boolean`
 - ### References #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-09-13T11:17:02.650Z
+  card-last-reviewed:: 2024-09-09T11:17:02.651Z
+  card-last-score:: 3
 	- Unlike primitive types, references store complex objects instead of simple values.
 	- References store variables or data in memory and use pointers to reference memory addresses. If a value is changed at the referenced location, other pointers referencing that location will reflect the change.
 	  
