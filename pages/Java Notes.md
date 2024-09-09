@@ -30,4 +30,9 @@
 -
 - Varaibles
 	- temp store data in computer memory
-- Primative
+- Primative types
+	- byte
+	- short 2 bytes
+	- int 4 byte
+	- long
+	-
