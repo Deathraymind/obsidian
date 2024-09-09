@@ -5,6 +5,8 @@
 		- the main function needs to exist so it gets called
 - class
 	- is a container for related functions
-	- in java we define a class with class and closed parentheses
+	- in java we define a class with class and closed  squiggly parentheses
 	- when a function is out of class its refereed to as a function but when its in a class its refereed to as a method.
+	- all classes sould have a acsess modifier
+		- is a special keyword if other classes can call these methodes
 -
