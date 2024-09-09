@@ -2,4 +2,7 @@
 	- a block of code that completes a goal
 		- First specify the return type of the function this is often void
 		- inside of the perenthsies of void nameoffuntion() goes the parameters
+		- the main function needs to exist so it gets called
+- class
+	-
 -
