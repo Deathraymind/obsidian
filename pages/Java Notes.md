@@ -28,7 +28,7 @@
 - The command `javac main.java` compiles the `.java` file into Java bytecode, which can be run on any OS with a Java runtime. The JVM (Java Virtual Machine) translates the Java bytecode so the OS can run the program.
   
   ---
-- ### Variables
+- ### Variables #card
 - Temporarily store data in computer memory.
 - ### Primitive Types
 - `byte`
@@ -62,6 +62,6 @@
   String message = "hello" + " world";
   System.out.println(message.endsWith("world"));
   ```
-- The previous example creates a variable `message` with the string "hello world". It accesses the `endsWith()` which is a  method of the `String` class to check if the string ends with the provided suffix ("world"). Since it does, the terminal prints `true`.
+- The previous example creates a variable `message` with the string "hello world". It accesses the `endsWith()` method of the `String` class to check if the string ends with the provided suffix ("world"). Since it does, the terminal prints `true`.
   
   ---
