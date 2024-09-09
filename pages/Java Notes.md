@@ -20,4 +20,5 @@
   	}
   }
   ```
-- Methodes sould use the PascalNamingConvention while methodes sould use the camelNaming
+- Methods should use the PascalNamingConvention while methods should use the camelNamingConventions.
+-
