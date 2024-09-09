@@ -22,3 +22,5 @@
   ```
 - Methods should use the PascalNamingConvention while methods should use the camelNamingConventions.
 - Packages contain groups of classes
+- System.out.println
+	- System is the
