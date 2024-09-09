@@ -1,0 +1,4 @@
+- Function
+	- a block of code that completes a goal
+		- First speci
+-
