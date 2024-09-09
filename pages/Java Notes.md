@@ -40,4 +40,4 @@
 	- char
 	- boolean
 - References
-	- unlike primative val
+	- unlike primative values references store complex objects instead of simple values
