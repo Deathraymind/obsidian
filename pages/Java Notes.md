@@ -62,4 +62,4 @@
   String messege = "hello" + " world";
   System.out.println(messege.endsWith("world"));
   ```
-- the previose creates a variable with the string hellow world, this variable is named messege and can act as a class so
+- the previose creates a variable with the string hellow world, this variable is named messege and can act as a class so the print line looks at the class messege and apends the endsWith which looks for a provided suffix and returns a boolean in this class our suffi
