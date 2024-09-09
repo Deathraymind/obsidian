@@ -26,3 +26,4 @@
 	- System is the class
 	- out is the member
 	- println is a methode
+- The command javac main.java compiles the .java file into java byte code which can be ran on any OS with java
