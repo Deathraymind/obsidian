@@ -12,7 +12,12 @@
 		- public private ect
 - This is a basic structure of a java program
   ```public class Main {
-    public void main() {
-  }
+  public class Main {
+  	public void main() {
+      
+      ...
+      
+  	}
   }
   ```
+-
