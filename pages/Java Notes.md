@@ -20,4 +20,4 @@
   	}
   }
   ```
--
+- Methodes sould use the PascalNamingConvention while methodes sould use the camelNaming
