@@ -30,4 +30,4 @@
 -
 - Varaibles
 	- temp store data in computer memory
-	-
+- Primative
