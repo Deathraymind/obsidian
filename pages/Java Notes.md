@@ -42,3 +42,17 @@
 - References
 	- unlike primative values references store complex objects instead of simple values
 	- references store varaibles or data in memory and then use pointers to point back to the memory address, this means if the value of x is changed in a point and another pointer calls the previose pointer it will go to the address instead.
+	- ```
+	  import java.awt.*;
+	  
+	  public class Main {
+	      public static void main(String[] args) {
+	          Point point1 = new Point(1, 2);
+	          Point point2 = point1;
+	          System.out.println(point2);
+	  
+	      }
+	  }
+	  ```
+-
+-
