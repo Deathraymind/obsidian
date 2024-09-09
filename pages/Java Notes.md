@@ -55,4 +55,4 @@
 	  }
 	  ```
 -
-- primatives are copt
+- primitives are copied by their value while references are referenced by their locations
