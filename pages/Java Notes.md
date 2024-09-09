@@ -1,9 +1,9 @@
-### Function (Java)
-- A block of code that completes a specific goal.
-	- First, specify the return type of the function (often `void`).
-	- Inside the parentheses of `void nameOfFunction()`, include the parameters.
-	- The `main` function needs to exist so that it gets called.
-- ### Class
+### Function (Java) #card #java
+	- A block of code that completes a specific goal.
+		- First, specify the return type of the function (often `void`).
+		- Inside the parentheses of `void nameOfFunction()`, include the parameters.
+		- The `main` function needs to exist so that it gets called.
+- ### Class #card
 	- A container for related functions.
 		- In Java, we define a class with the keyword `class` followed by curly braces `{}`.
 		- When a function is outside of a class, it's referred to as a function. Inside a class, it's referred to as a **method**.
@@ -20,10 +20,10 @@
 - **Classes** should use the **PascalNamingConvention** while **methods** should use the **camelNamingConvention**.
 - ### Packages
 - Groups of classes are contained within packages.
-- ### System.out.println
-- `System` is the class.
-- `out` is the member.
-- `println` is the method.
+- ### System.out.println #card
+	- `System` is the class.
+	- `out` is the member.
+	- `println` is the method.
 - ### Compilation
 - The command `javac main.java` compiles the `.java` file into Java bytecode, which can be run on any OS with a Java runtime. The JVM (Java Virtual Machine) translates the Java bytecode so the OS can run the program.
   
