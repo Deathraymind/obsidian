@@ -58,3 +58,8 @@
 - primitives are copied by their value while references are referenced by their locations
 -
 - we can create a string with such and call it with a class and run a methode with it
+- ```
+  String messege = "hello" + " world";
+  System.out.println(messege.endsWith("world"));
+  ```
+- the previose creates a variable with the string hellow world, this variable is named messege and can act as a class so
