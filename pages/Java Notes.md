@@ -4,11 +4,11 @@
 	- Inside the parentheses of `void nameOfFunction()`, include the parameters.
 	- The `main` function needs to exist so that it gets called.
 - ### Class
-- A container for related functions.
-	- In Java, we define a class with the keyword `class` followed by curly braces `{}`.
-	- When a function is outside of a class, it's referred to as a function. Inside a class, it's referred to as a **method**.
-	- All classes should have an **access modifier**.
-		- Access modifiers determine if other classes can call these methods (e.g., `public`, `private`, etc.).
+	- A container for related functions.
+		- In Java, we define a class with the keyword `class` followed by curly braces `{}`.
+		- When a function is outside of a class, it's referred to as a function. Inside a class, it's referred to as a **method**.
+		- All classes should have an **access modifier**.
+			- Access modifiers determine if other classes can call these methods (e.g., `public`, `private`, etc.).
 - ### Basic Structure of a Java Program
   ```java
   public class Main {
@@ -29,31 +29,31 @@
   
   ---
 - ### Variables #card
-- Temporarily store data in computer memory.
-- ### Primitive Types
-- `byte`
-- `short` (3 bytes)
-- `int` (5 bytes)
-- `long` (9 bytes)
-- `float`
-- `double`
-- `char`
-- `boolean`
-- ### References
-- Unlike primitive types, references store complex objects instead of simple values.
-- References store variables or data in memory and use pointers to reference memory addresses. If a value is changed at the referenced location, other pointers referencing that location will reflect the change.
-  
-  ```java
-  import java.awt.*;
-  
-  public class Main {
-    public static void main(String[] args) {
-        Point point1 = new Point(1, 2);
-        Point point2 = point1;
-        System.out.println(point2);
-    }
-  }
-  ```
+	- Temporarily store data in computer memory.
+- ### Primitive Types #card
+	- `byte`
+	- `short` (3 bytes)
+	- `int` (5 bytes)
+	- `long` (9 bytes)
+	- `float`
+	- `double`
+	- `char`
+	- `boolean`
+- ### References #card
+	- Unlike primitive types, references store complex objects instead of simple values.
+	- References store variables or data in memory and use pointers to reference memory addresses. If a value is changed at the referenced location, other pointers referencing that location will reflect the change.
+	  
+	  ```java
+	  import java.awt.*;
+	  
+	  public class Main {
+	    public static void main(String[] args) {
+	        Point point1 = new Point(1, 2);
+	        Point point2 = point1;
+	        System.out.println(point2);
+	    }
+	  }
+	  ```
 - Primitives are copied by value, while references are copied by their memory location.
 - ### Strings
 - We can create a string using the `String` class and call methods on it.
