@@ -26,4 +26,5 @@
 	- System is the class
 	- out is the member
 	- println is a methode
-- The command javac main.java compiles the .java file into java byte code which can be ran on any OS with java
+- The command javac main.java compiles the .java file into java byte code which can be ran on any OS with java runtime which runs the code in JVM or java virtual machine which translates the java byte code so the OS can run things.
+	-
