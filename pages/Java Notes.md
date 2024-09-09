@@ -1,4 +1,5 @@
 - Function
 	- a block of code that completes a goal
 		- First specify the return type of the function this is often void
-		- inside of the
+		- inside of the perenthsies of void nameoffuntion() goes the parameters
+-
