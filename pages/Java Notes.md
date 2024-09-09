@@ -34,5 +34,9 @@
 	- byte
 	- short 2 bytes
 	- int 4 byte
-	- long
+	- long 8 Byte
+	- float
+	- double
+	- char
+	- boolean
 	-
