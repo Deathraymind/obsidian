@@ -5,5 +5,6 @@
 		- the main function needs to exist so it gets called
 - class
 	- is a container for related functions
-	- in java we define a class with
+	- in java we define a class with class and closed parentheses
+	- when a function is out of class its refereed to as a function but when its in a class its refereed to as a method.
 -
