@@ -55,4 +55,4 @@
 	  }
 	  ```
 -
--
+- primatives are copt
