@@ -192,4 +192,6 @@ collapsed:: true
 - Implicit Casting
 	- we dont worry about it its automatic
 		- This happens when were converting byte > short > long  basically a smaller data type into a larger one.
--
+	- Another example of this is
+	- ```
+	  ```
