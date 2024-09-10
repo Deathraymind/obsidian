@@ -169,6 +169,10 @@ collapsed:: true
 		  ```
 			- This = 3 because it can not be a decimal as its not a double or a float
 		- ```
-		     double result = 10 / 3
+		     double result = 10 / 3;
 		  ```
-			- This is
+			- This will also result in a 3 as their are two integers within the double
+		- ```
+		     int result = (double)10 / (double)3;
+		  
+		  ```
