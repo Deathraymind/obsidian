@@ -1,1 +1,2 @@
-- For this projrct i had to input a priniciple the anual intrest rate and
+- For this project i had to input a principle the anaul interest rate and period in years
+-
