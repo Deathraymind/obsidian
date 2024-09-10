@@ -205,4 +205,5 @@ collapsed:: true
 	  double x = 1.1;
 	  int y = (int)x +2;
 	  ```
-	- we have to cast x to an int manually in this expresion in order to add 2
+	- we have to cast x to an int manually in this expression in order to add 2 and store it in an int
+-
