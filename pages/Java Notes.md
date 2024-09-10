@@ -212,4 +212,6 @@ collapsed:: true
 	  String x = "1";
 	  int y = Intager.pasreInt(x) + 2;
 	  ```
-		- In this we have a class which is a reference type called Integer. and in this we have a method called parseInt.
+		- In this we have a class which is a reference type called Integer. and in this we have a methode called parseInt.
+- Math Class
+	-
