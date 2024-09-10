@@ -249,4 +249,4 @@ collapsed:: true
 	      }
 	  }
 	  ```
-		- This
+		- This basically is when we chain multiple methodes together. the above example is creating a string variable and is uising the class NumberFormat and methode getPercentInstance
