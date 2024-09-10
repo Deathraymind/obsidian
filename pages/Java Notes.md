@@ -119,4 +119,4 @@ collapsed:: true
 	      }
 	  }
 	  ```
-	- We have a int{}
+	- We have a int[] named numbers this variable holds new int[5] which means it has 5 other placs which are filled with number[0] = 1 which says
