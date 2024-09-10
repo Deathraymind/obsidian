@@ -80,5 +80,37 @@
   
   ---
 -
--
+- ```java
+  import java.util.Scanner;
+  import java.text.NumberFormat;
+  
+  public class Mortgage {
+  
+      public static void main (String[] args){
+          Scanner scanner = new Scanner(System.in);
+          byte PERCENT = 100;
+          byte MONTHS_IN_YEAR = 12;
+  
+          // Step 1: Get User Input
+          System.out.print("Principal:");
+          int principal = scanner.nextInt();
+  
+          System.out.print("Annual Interest Rate: ");
+          double monthlyInterestRate = scanner.nextDouble() / PERCENT / MONTHS_IN_YEAR;
+  
+          System.out.print("Period (Years): ");
+          int periodYears = scanner.nextInt();
+  
+          // Step 2: Calculate the mortgage
+          double numerator = monthlyInterestRate * Math.pow(1.0 + monthlyInterestRate, MONTHS_IN_YEAR * periodYears);
+          double denominator = Math.pow(1.0 + monthlyInterestRate, MONTHS_IN_YEAR * periodYears) - 1.0;
+          double monthlyPayment = (numerator / denominator) * principal;
+  
+          // Step 3: Format and display result as currency
+          NumberFormat currency = NumberFormat.getCurrencyInstance();
+          System.out.println(currency.format(monthlyPayment));
+      }
+  }
+  
+  ```
 -
