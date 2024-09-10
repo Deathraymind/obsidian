@@ -219,7 +219,8 @@ collapsed:: true
 		- Math.ceil this prints the smallest integer that is equal too or greater than the provided number
 - Formatting Numbers
 	- ```
-	  NumberFormat currency new NumberFormat();
+	  import java.text.NumberFormat;
 	  ```
+		- this has alot of classes nuch as get
 - Abstract Class
 	- A class that can not be used with a new operator to create an instance with them.
