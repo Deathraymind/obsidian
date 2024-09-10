@@ -176,7 +176,7 @@ collapsed:: true
 		     double result = (double)10 / (double)3;
 		  ```
 			- This will result in 3.33333 as its a variable double contain two doubles in an expression
-		- x++; is called the incramant
+		- x++; is called the increment operator
 - Expression
 	- A piece of code that produces a value.
 - Casting
