@@ -210,7 +210,7 @@ collapsed:: true
 	- Integers/primitives and strings/references are not compatible to be casted so we must use wrapper classes like such
 	- ```
 	  String x = "1";
-	  
+	  Intager.pasreInt(x);
 	  int y = (int)x + 2;
 	  ```
-		- In this we have a class which is a reference type called Integer. and in this we have a methode called
+		- In this we have a class which is a reference type called Integer. and in this we have a methode called parseInt.
