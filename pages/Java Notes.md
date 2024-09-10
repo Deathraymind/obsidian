@@ -237,3 +237,16 @@ collapsed:: true
 			- This prints out $12,345,667.66 due to the class and methode used above.
 - Abstract Class
 	- A class that can not be used with a new operator to create an instance with them.
+- Methode Chaining
+	- ```
+	  import java.util.Arrays;
+	  import java.text.NumberFormat;
+	  
+	  public class Main {
+	      public static void main(String[] args) {
+	         String percent = NumberFormat.getPercentInstance().format(.1);
+	         System.out.println(percent);
+	      }
+	  }
+	  ```
+		- This
