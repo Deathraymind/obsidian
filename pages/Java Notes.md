@@ -189,6 +189,7 @@ collapsed:: true
 	- ```
 	   double result = (double)10 / (double)3;
 	  ```
-- Implisit Casting
+- Implicit Casting
 	- we dont worry about it its automatic
-		- This happens when were converting byte
+		- This happens when were converting byte > short > long  basically a smaller data type into a larger one.
+-
