@@ -206,4 +206,5 @@ collapsed:: true
 	  int y = (int)x +2;
 	  ```
 	- we have to cast x to an int manually in this expression in order to add 2 and store it in an int
--
+- String to intager casting
+	- they are two different data types string
