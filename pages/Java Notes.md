@@ -222,5 +222,7 @@ collapsed:: true
 	  import java.text.NumberFormat;
 	  ```
 		- this has alot of classes such as getCurrencyInstance()
+		- ```
+		  ```
 - Abstract Class
 	- A class that can not be used with a new operator to create an instance with them.
