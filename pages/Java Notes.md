@@ -137,4 +137,4 @@ collapsed:: true
 	- Arrays have a fixed length
 	- You can sort arrays with Arrays.sort
 - Multi Dimensional Arrays
-	-
+	- These are basically matrixs
