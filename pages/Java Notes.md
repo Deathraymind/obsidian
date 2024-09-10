@@ -120,4 +120,5 @@ collapsed:: true
 	  }
 	  ```
 	- We have a int[] named numbers this variable holds new int[5] which means it has 5 other placs which are filled with number[0] = 1 which says fill the first block of the array with 1 and so on.
-	- We can not print this array variable by itself instead we need to use a classes methode in this case we import java.util.a
+	- We can not print this array variable by itself instead we need to use a classes methode in this case we import java.util.Arrays and then call that class and methode within the print line with Arrays.toString and we want the arraay numbers this converts our array table into a list of numbers.
+-
