@@ -177,4 +177,6 @@ collapsed:: true
 		  ```
 			- This will result in 3.33333 as its a variable double contain two doubles in an expression
 - Expression
-	- A equations resulting in
+	- A piece of code that produces a value.
+- Casting
+	- changing a data type into n
