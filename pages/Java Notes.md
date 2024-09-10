@@ -222,4 +222,4 @@ collapsed:: true
 	  NumberFormat currency new NumberFormat();
 	  ```
 - Abstract Class
-	- A class that can not
+	- A class that can not be used with a new operator to create an instance with them.
