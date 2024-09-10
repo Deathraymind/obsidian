@@ -173,10 +173,15 @@ collapsed:: true
 		  ```
 			- This will also result in a 3 as their are two integers within the double
 		- ```
-		     int result = (double)10 / (double)3;
+		     double result = (double)10 / (double)3;
 		  ```
 			- This will result in 3.33333 as its a variable double contain two doubles in an expression
+		- x++; is called the incramant
 - Expression
 	- A piece of code that produces a value.
 - Casting
-	- changing a data type into n
+	- changing a data type into another like turning an int into a double
+	- ```
+	   double result = (double)10 / (double)3;
+	  ```
+-
