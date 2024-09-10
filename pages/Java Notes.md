@@ -218,4 +218,8 @@ collapsed:: true
 		- Math.round
 		- Math.ceil this prints the smallest integer that is equal too or greater than the provided number
 - Formatting Numbers
-	-
+	- ```
+	  NumberFormat currency new NumberFormat();
+	  ```
+- Abstract Class
+	- A class that can not
