@@ -178,6 +178,10 @@ collapsed:: true
 			- This will result in 3.33333 as its a variable double contain two doubles in an expression
 		- x++; is called the increment operator
 	- Order of operations
+		- ()
+		- */
+		- +-
+		- and it would be left to right
 - Expression
 	- A piece of code that produces a value.
 - Casting
@@ -185,4 +189,4 @@ collapsed:: true
 	- ```
 	   double result = (double)10 / (double)3;
 	  ```
--
+		-
