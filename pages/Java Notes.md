@@ -207,4 +207,6 @@ collapsed:: true
 	  ```
 	- we have to cast x to an int manually in this expression in order to add 2 and store it in an int
 - String to intager casting
-	- they are two different data types string
+	- Intagers and strings are not compatable to be casted so we must use wrapper classes like such
+	- ```
+	  ```
