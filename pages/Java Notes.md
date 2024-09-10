@@ -165,4 +165,10 @@ collapsed:: true
 	- +  * % / -
 	- its important to not this
 		- ```
+		  int result = 10 / 3
 		  ```
+			- This = 3 because it can not be a decimal as its not a double or a float
+		- ```
+		     double result = 10 / 3
+		  ```
+			- This is
