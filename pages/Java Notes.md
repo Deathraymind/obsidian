@@ -194,4 +194,8 @@ collapsed:: true
 		- This happens when were converting byte > short > long  basically a smaller data type into a larger one.
 	- Another example of this is
 	- ```
+	  double x = 1.1;
+	  double y = x + 2;
 	  ```
+		- After this the the result will be 3.3 for y
+			- This is because were taking 1.1 a double and adding it to an intger 1
