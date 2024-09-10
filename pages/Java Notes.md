@@ -280,6 +280,7 @@ collapsed:: true
 		  		Scanner scanner = new Scanner(System.in);
 		  ```
 	- To scan for an input use
-	- ```
-	          byte age = scanner.nextByte();
-	  ```
+		- ```
+		   byte age = scanner.nextByte();
+		  ```
+		-
