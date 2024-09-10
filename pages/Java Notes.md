@@ -149,4 +149,5 @@ collapsed:: true
 	      }
 	  }
 	  ```
-	- This is a two dimensional array int [][] means we have 2 dimensions
+	- This is a two dimensional array int [][] means we have 2 dimensions but we need to have to other brackets on the other side [2][3] this defines our row and colloms
+	- to print this out we cant use toString
