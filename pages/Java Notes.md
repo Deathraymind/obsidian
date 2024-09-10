@@ -202,4 +202,7 @@ collapsed:: true
 - Explicit Casting
 	- This is when we convert a larger data type into a smaller one manually
 	- ```
+	  double x = 1.1;
+	  int y = (int)x +2;
 	  ```
+	- we have to cast x to an int manually in this expresion in order to add 2
