@@ -159,4 +159,5 @@ collapsed:: true
 	- ```
 	      final float PI = 3.14F;
 	  ```
-	- the
+	- the final means that the variable can not be changed later in the code
+		- be sure to all caps final
