@@ -135,4 +135,6 @@ collapsed:: true
 	- We have an array and values defined with int[] numbers = {2, 3, 4, 5, 6};
 		- now to print the amount of items we have in numbers we use numbers.length length is not a method but is a field.
 	- Arrays have a fixed length
+	- You can sort arrays with Arrays.sort
+- Multi Dimensional Arrays
 	-
