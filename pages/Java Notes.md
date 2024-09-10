@@ -217,4 +217,5 @@ collapsed:: true
 	- this is a class with a bunch of math methodes
 		- Math.round
 		- Math.ceil this prints the smallest integer that is equal too or greater than the provided number
-		-
+- Formatting Numbers
+	-
