@@ -209,4 +209,8 @@ collapsed:: true
 - String to intager casting
 	- Intagers and strings are not compatable to be casted so we must use wrapper classes like such
 	- ```
+	  String x = "1";
+	  
+	  int y = (int)x + 2;
 	  ```
+		- In this we have a class which is a referebce type called
