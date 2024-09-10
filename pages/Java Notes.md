@@ -165,7 +165,7 @@ collapsed:: true
 	- +  * % / -
 	- its important to not this
 		- ```
-		  int result = 10 / 3
+		  int result = 10 / 3;
 		  ```
 			- This = 3 because it can not be a decimal as its not a double or a float
 		- ```
@@ -174,5 +174,7 @@ collapsed:: true
 			- This will also result in a 3 as their are two integers within the double
 		- ```
 		     int result = (double)10 / (double)3;
-		  
 		  ```
+			- This will result in 3.33333 as its a variable double contain two doubles in an expression
+- Expression
+	- A equations resulting in
