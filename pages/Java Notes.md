@@ -276,5 +276,10 @@ collapsed:: true
 		  inport java.util.Scanner;
 		  ```
 	- Add this line so the scanner can be used within the Main fucntions
-		-
-		- Scanner scanner = new Scanner(System.in);
+		- ```
+		  		Scanner scanner = new Scanner(System.in);
+		  ```
+	- To scan for an input use
+	- ```
+	          byte age = scanner.nextByte();
+	  ```
