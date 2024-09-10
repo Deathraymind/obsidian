@@ -1,0 +1,1 @@
+- For this projrct i had to input a priniciple the anual intrest rate and
