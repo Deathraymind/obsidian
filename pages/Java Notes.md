@@ -161,4 +161,6 @@ collapsed:: true
 	  ```
 	- the final means that the variable can not be changed later in the code
 		- be sure to all caps final variables.
--
+- Arithmetic Expressions
+	- +  * % / -
+	-
