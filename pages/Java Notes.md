@@ -223,6 +223,17 @@ collapsed:: true
 	  ```
 		- this has alot of classes such as getCurrencyInstance()
 		- ```
+		  import java.util.Arrays;
+		  import java.text.NumberFormat;
+		  
+		  public class Main {
+		      public static void main(String[] args) {
+		         NumberFormat currency = NumberFormat.getCurrencyInstance();
+		         String result = currency.format(12345667.657);
+		         System.out.println(result);
+		      }
+		  }
 		  ```
+			- This prints out $12,345,667.66 due to the class and methode used above.
 - Abstract Class
 	- A class that can not be used with a new operator to create an instance with them.
