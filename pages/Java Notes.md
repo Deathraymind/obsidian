@@ -198,4 +198,5 @@ collapsed:: true
 	  double y = x + 2;
 	  ```
 		- After this the the result will be 3.3 for y
-			- This is because were taking 1.1 a double and adding it to an intger 1
+			- This is because were taking 1.1 a double and adding it to an integer 2. What java does is implicit casting to convert that 2 into a double 2.0  then adding it to the other double.
+	-
