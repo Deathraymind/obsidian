@@ -275,4 +275,6 @@ collapsed:: true
 		- ```
 		  inport java.util.Scanner;
 		  ```
-	- To create a
+	- Add this line so the scanner can be used within the Main fucntions
+		-
+		- Scanner scanner = new Scanner(System.in);
