@@ -249,4 +249,4 @@ collapsed:: true
 	      }
 	  }
 	  ```
-		- This basically is when we chain multiple methodes together. the above example is creating a string variable and is uising the class NumberFormat and methode getPercentInstance
+		- This basically is when we chain multiple methodes together. the above example is creating a string variable and is uising the class NumberFormat and methode getPercentInstance() but it then needs to be formated so instead of calling the variable in another line and isng the methode we just add .format and then the number
