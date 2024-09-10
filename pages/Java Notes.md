@@ -199,4 +199,7 @@ collapsed:: true
 	  ```
 		- After this the the result will be 3.3 for y
 			- This is because were taking 1.1 a double and adding it to an integer 2. What java does is implicit casting to convert that 2 into a double 2.0  then adding it to the other double.
-	-
+- Explicit Casting
+	- This is when we convert a larger data type into a smaller one manually
+	- ```
+	  ```
