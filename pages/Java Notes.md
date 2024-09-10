@@ -250,4 +250,29 @@ collapsed:: true
 	  }
 	  ```
 		- This basically is when we chain multiple methods together. the above example is creating a string variable and is using the class NumberFormat and method getPercentInstance() but it then needs to be formatted so instead of calling the variable in another line and uisng the method we just add .format and then the number right to the end.
--
+- Reading input
+	- ```
+	  import java.util.Scanner;
+	  
+	  public class Main {
+	      public static void main(String[] args) {
+	          Scanner scanner = new Scanner(System.in);
+	          System.out.print("Age:");
+	          // using print instead of printls will make it so that they
+	          // user input will be on the same line as the age strings
+	          // this is because println prints the string then presses enter.
+	          byte age = scanner.nextByte();
+	          // byte age is the variable type and name and scanner calls the varaible above Which
+	          // calls the scanner class and methode for in or inputs
+	          // it then stores it as a byte
+	          System.out.println(age + "You are");
+	          // when we add a string to a byrte it uses inexplicit castings
+	          // to turn the byte into a string and then prints it out. 
+	      }
+	  }
+	  ```
+	- To import a scanner use
+		- ```
+		  inport java.util.Scanner;
+		  ```
+	- To create a
