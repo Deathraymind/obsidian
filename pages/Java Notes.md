@@ -151,4 +151,9 @@ collapsed:: true
 	  ```
 	- This is a two dimensional array int [][] means we have 2 dimensions but we need to have to other brackets on the other side [2][3] this defines our row and colloms
 	- to print this out we cant use toString wee have to use a different methode in the Arrays class called deepToString and then define the array you want to print.
-	- if you want to define a multidimensional array
+	- if you want to define a multidimensional array use the following.
+	- ```
+	          int[][] numbers = { { 1, 2, 3}, { 4, 5, 6} }; 
+	  ```
+- Constants
+	-
