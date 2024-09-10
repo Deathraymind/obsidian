@@ -102,3 +102,21 @@ collapsed:: true
 - The previous example creates a variable `message` with the string "hello world". It accesses the `endsWith()` method of the `String` class to check if the string ends with the provided suffix ("world"). Since it does, the terminal prints `true`.
   
   ---
+- Arrays
+	- Arrays are variables that hold multiple values look at the code below
+	- ```
+	  import java.util.Arrays;
+	  
+	  public class Main {
+	      public static void main(String[] args) {
+	          int[] numbers = new int[5];
+	          numbers[0] = 1;
+	          numbers[1] = 2;
+	          numbers[2] = 3;
+	          numbers[3] = 4;
+	          numbers[4] = 5;
+	          System.out.println(Arrays.toString(numbers));
+	      }
+	  }
+	  ```
+	- We have a int{}
