@@ -215,5 +215,5 @@ collapsed:: true
 		- In this we have a class which is a reference type called Integer. and in this we have a methode called parseInt.
 - Math Class
 	- this is a class with a bunch of math methodes
-		- math.round
-		- math.
+		- Math.round
+		- Math.ceil this prints the smallest intager that is equal too or gr
