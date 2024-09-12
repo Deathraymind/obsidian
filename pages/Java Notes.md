@@ -316,3 +316,19 @@ collapsed:: true
   ```
 - Constructers
 	- Constructors are called when an object of a class is called. It is used to set default values of class attributes.
+	- ```java
+	  public class Main {
+	    int x;  // Create a class attribute
+	  
+	    // Create a class constructor for the Main class
+	    public Main() {
+	      x = 5;  // Set the initial value for the class attribute x
+	    }
+	  
+	    public static void main(String[] args) {
+	      Main myObj = new Main(); // Create an object of class Main (This will call the constructor)
+	      System.out.println(myObj.x); // Print the value of x
+	    }
+	  }
+	  ```
+	-
