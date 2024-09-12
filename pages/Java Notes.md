@@ -287,4 +287,6 @@ collapsed:: true
 	- || or
 	- ! reverts bollean
 	- && and
-	-
+- Ternary Operator
+	- ```
+	  ```
