@@ -292,3 +292,26 @@ collapsed:: true
 	  String className = x > 1 ? "more than one" : "less than one";
 	  ```
 	- Cretes a string named className and looks at the intager value of x if it is bigger than one it pritns more than one if its smaller than it types less than one.
+- Switch Statements
+- ```java
+  import java.util.Arrays;
+  import java.text.NumberFormat;
+  
+  public class Main {
+      public static void main(String[] args) {
+          String role = "admin";
+          
+          switch (role) {
+              case "admin":
+                  System.out.println("You are admin");
+              break;
+              case "moderator":
+                  System.out.println("moderator");
+              break;
+              default:
+              System.out.println("Loser");
+          }
+      }
+  }
+  ```
+-
