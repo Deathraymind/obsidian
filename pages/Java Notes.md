@@ -345,7 +345,7 @@ collapsed:: true
     }
   
     public static void main(String[] args) {
-      Main myObj = new Main(5);
+      Main myObj = new Main(5); //sets the value of y and their for the value of x.
       System.out.println(myObj.x);
     }
   }
