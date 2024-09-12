@@ -289,4 +289,6 @@ collapsed:: true
 	- && and
 - Ternary Operator
 	- ```
+	  String className = x > 1 ? "more than one" : "less than one";
 	  ```
+	- Cretes a string named className and looks at the intager value of x if it is bigger than one
