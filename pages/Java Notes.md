@@ -315,4 +315,4 @@ collapsed:: true
   }
   ```
 - Constructers
-	- Constructers are called when an object of a class
+	- Constructors are called when an object of a class is called. It is used to set default values of class attributes.
