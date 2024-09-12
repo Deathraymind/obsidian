@@ -284,4 +284,7 @@ collapsed:: true
 		   byte age = scanner.nextByte();
 		  ```
 - comparison operators
+	- || or
+	- ! reverts bollean
+	- && and
 	-
