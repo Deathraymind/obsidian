@@ -383,3 +383,5 @@ collapsed:: true
   }
   
   ```
+- Static vs Public
+	- A static class does not require you to create an object public does
