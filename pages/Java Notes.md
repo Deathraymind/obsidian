@@ -283,4 +283,4 @@ collapsed:: true
 		- ```
 		   byte age = scanner.nextByte();
 		  ```
-		-
+-
