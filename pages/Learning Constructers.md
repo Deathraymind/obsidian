@@ -1,4 +1,5 @@
 - ```java
+  // Car.java
   public class Car {
   
       private String color;
@@ -25,6 +26,7 @@
   ```
 - This is in a file called Car.java this creates a class, we define variables or parameters in the top with private String or other data type. This will print when the object is called and  the atributes are defined.
 - ```java
+  // Car.java
   public String toString() {
           return "A " + color + " car with " + " with " + numSeats + " seats " + "is yellow plate: " + (yellowPlate ? "yes" : "no");
           
@@ -70,4 +72,4 @@
 		          
 		          Car bob = new Car(5, 4);
 		  ```
-			- This calls the
+			- This calls the constructor to create an object with numSeats and numDoors but the default parameters are set.
