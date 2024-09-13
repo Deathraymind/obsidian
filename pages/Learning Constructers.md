@@ -23,4 +23,11 @@
   
   }
   ```
-- This is in a file called Car.java this creates a class, we define
+- This is in a file called Car.java this creates a class, we define variables or parameters in the top with private String or other data type. This will print when the object is called and  the atributes are defined.
+- ```java
+  public String toString() {
+          return "A " + color + " car with " + " with " + numSeats + " seats " + "is yellow plate: " + (yellowPlate ? "yes" : "no");
+          
+      }
+  ```
+-
