@@ -40,4 +40,4 @@
           
       }
   ```
-- This is the actual  contrscter
+- This is the actual  constructor it sets the order of the attributes this. refers to the variables or atributes defined at the top public.
