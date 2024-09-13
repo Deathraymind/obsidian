@@ -55,4 +55,13 @@
   ```
 -
 - Overloaded Constructors
-	-
+	- you can have a constructer with the same paramters in a different order or with a different numbers of parameters.
+	- ```java
+	      public  Car(int numSeats, int numDoors) { // The signature of the constructer is the parameters 
+	          this.numSeats = numSeats;
+	          this.numDoors = numDoors;
+	          this.color = "Silver";
+	          this.weight = 2000.0;
+	      }
+	  ```
+		- This constructer just has numSeats and numDoors and sets the rest of the paramters default by sett
