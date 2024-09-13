@@ -24,7 +24,7 @@
   
   }
   ```
-- This is in a file called Car.java this creates a class, we define variables or parameters in the top with private String or other data type. This will print when the object is called and  the atributes are defined.
+- This is in a file called Car.java this creates a class, we define variables or parameters in the top with #java private String or other data type. This will print when the object is called and  the attributes are defined.
 - ```java
   // Car.java
   public String toString() {
