@@ -33,7 +33,8 @@
       }
   ```
 - ```java
-   public Car(String color, int numSeats, boolean yellowPlate, double weight, int numDoors){
+  //Car.java
+  public Car(String color, int numSeats, boolean yellowPlate, double weight, int numDoors){
          this.color = color; // this refers to the class atribute
          this.numSeats = numSeats; 
          this.yellowPlate = yellowPlate;
@@ -44,6 +45,7 @@
   ```
 - This is the actual  constructor it sets the order of the attributes this. refers to the variables or atributes defined at the top public.String or other data type.
 - ```java
+  // MyProgram.java
   public class MyProgram {
       public static void main(String[] args) {
           // Write a Car class.  What attributes might it need?
@@ -53,13 +55,15 @@
   }
   ```
 - ```java
+  // MyProgram.java
   Car x = new Car("red", 4, true, 2000.0, 5);
   ```
 -
 - Overloaded Constructors
 	- you can have a constructer with the same paramters in a different order or with a different numbers of parameters.
 	- ```java
-	      public  Car(int numSeats, int numDoors) { // The signature of the constructer is the parameters 
+	  Car.java
+	  public  Car(int numSeats, int numDoors) { // The signature of the constructer is the parameters 
 	          this.numSeats = numSeats;
 	          this.numDoors = numDoors;
 	          this.color = "Silver";
@@ -68,7 +72,8 @@
 	  ```
 		- This constructor just has numSeats and numDoors and sets the rest of the parameters default by setting them bellow.
 		- ```java
-		          // contrsucts car with numSeats and numDoors
+		  //MyProgram.java
+		  // contrsucts car with numSeats and numDoors
 		          
 		          Car bob = new Car(5, 4);
 		  ```
