@@ -40,4 +40,17 @@
           
       }
   ```
-- This is the actual  constructor it sets the order of the attributes this. refers to the variables or atributes defined at the top public.
+- This is the actual  constructor it sets the order of the attributes this. refers to the variables or atributes defined at the top public.String or other data type.
+- ```java
+  public class MyProgram {
+      public static void main(String[] args) {
+          // Write a Car class.  What attributes might it need?
+          Car x = new Car("red", 4, true, 2000.0, 5);
+          System.out.println(x); // Does this work yet?
+      }
+  }
+  ```
+- ```java
+  Car x = new Car("red", 4, true, 2000.0, 5);
+  ```
+-
