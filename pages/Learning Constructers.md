@@ -30,4 +30,14 @@
           
       }
   ```
--
+- ```java
+   public Car(String color, int numSeats, boolean yellowPlate, double weight, int numDoors){
+         this.color = color; // this refers to the class atribute
+         this.numSeats = numSeats; 
+         this.yellowPlate = yellowPlate;
+         this.weight = weight;
+         this.numDoors = numDoors;
+          
+      }
+  ```
+- This is the actual  contrscter
