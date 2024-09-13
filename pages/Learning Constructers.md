@@ -64,4 +64,10 @@
 	          this.weight = 2000.0;
 	      }
 	  ```
-		- This constructer just has numSeats and numDoors and sets the rest of the paramters default by sett
+		- This constructor just has numSeats and numDoors and sets the rest of the parameters default by setting them bellow.
+		- ```java
+		          // contrsucts car with numSeats and numDoors
+		          
+		          Car bob = new Car(5, 4);
+		  ```
+			- This calls the
