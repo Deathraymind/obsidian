@@ -12,4 +12,5 @@
 	- ascend ascent
 - pater
 	- father
-	-
+	- paternity patricide patriotic
+- sens
