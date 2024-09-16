@@ -22,4 +22,9 @@
 - pugna
 	- fight
 	- pugnacious pugilist
-- ten/
+- ten/tent
+	- hold
+	- tentative tenable tenuous
+- vit
+	- life
+	- vital
