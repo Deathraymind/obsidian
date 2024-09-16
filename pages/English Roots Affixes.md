@@ -13,4 +13,9 @@
 - pater
 	- father
 	- paternity patricide patriotic
-- sens
+- sens/scent
+	- feel aware
+	- sensible sentient
+- path
+	- suffering feeiling
+	- smypathy apathy
