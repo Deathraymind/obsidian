@@ -6,4 +6,10 @@
 	- fraternal fratanize
 - voc
 	- call
-	- revoke
+	- revoke invocation vocal convocation
+- scent scend
+	- climb
+	- ascend ascent
+- pater
+	- father
+	-
