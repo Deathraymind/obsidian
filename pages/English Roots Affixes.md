@@ -1,45 +1,46 @@
 - spir #card #ELA12
 	- Breath
 	- Inspire Respiration Conspire perspiration
-- frater
+- frater #card #ELA12
 	- brother
 	- fraternal fratanize
-- voc
+- voc #card #ELA12
 	- call
 	- revoke invocation vocal convocation
-- scent scend
+- scent scend #card #ELA12
 	- climb
 	- ascend ascent
-- pater
+- pater #card #ELA12
 	- father
 	- paternity patricide patriotic
-- sens/scent
+- sens/scent #card #ELA12
 	- feel aware
 	- sensible sentient
-- path
+- path #card #ELA12
 	- suffering feeiling
 	- sympathy apathy  empathy pathology
-- pugna
+- pugna #card #ELA12
+  id:: 66e8c528-71b6-446a-8235-510c57e8fd29
 	- fight
 	- pugnacious pugilist
-- ten/tent
+- ten/tent #card #ELA12
 	- hold
 	- tentative tenable tenuous
-- vit
+- vit #card #ELA12
 	- life
 	- vital revitalize vitamin
-- gam
+- gam #card #ELA12
 	- mariage
 	- monogamy polygamy bigamy
-- mater
+- mater #card #ELA12
 	- mother
 	- maternal maternity matriarchy
-- loc
+- loc #card #ELA12
 	- place
 	- location local
-- cap
+- cap #card #ELA12
 	- take seize
 	- capture captivate capacity
 - bell
 	- war
-	- brll
+	- belligerent bellicose
