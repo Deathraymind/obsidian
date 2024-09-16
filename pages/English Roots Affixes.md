@@ -33,4 +33,13 @@
 	- monogamy polygamy bigamy
 - mater
 	- mother
-	- maternal
+	- maternal maternity matriarchy
+- loc
+	- place
+	- location local
+- cap
+	- take seize
+	- capture captivate capacity
+- bell
+	- war
+	- brll
