@@ -1,3 +1,9 @@
-- spir
+- spir #card #ELA12
 	- Breath
-	- Inspire Respireation Conspire per
+	- Inspire Respiration Conspire perspiration
+- frater
+	- brother
+	- fraternal fratanize
+- voc
+	- call
+	- revoke
