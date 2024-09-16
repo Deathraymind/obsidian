@@ -27,4 +27,10 @@
 	- tentative tenable tenuous
 - vit
 	- life
-	- vital
+	- vital revitalize vitamin
+- gam
+	- mariage
+	- monogamy polygamy bigamy
+- mater
+	- mother
+	- maternal
