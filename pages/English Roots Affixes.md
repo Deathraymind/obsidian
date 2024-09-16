@@ -18,4 +18,8 @@
 	- sensible sentient
 - path
 	- suffering feeiling
-	- smypathy apathy
+	- sympathy apathy  empathy pathology
+- pugna
+	- fight
+	- pugnacious pugilist
+- ten/
