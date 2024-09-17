@@ -1,4 +1,10 @@
 - spir #card #ELA12
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-09-17T15:00:00.000Z
+  card-last-reviewed:: 2024-09-17T00:01:31.059Z
+  card-last-score:: 1
 	- Breath
 	- Inspire Respiration Conspire perspiration
 - frater #card #ELA12
@@ -29,6 +35,12 @@
 	- climb
 	- ascend ascent
 - pater #card #ELA12
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-09-17T15:00:00.000Z
+  card-last-reviewed:: 2024-09-17T00:01:18.807Z
+  card-last-score:: 1
 	- father
 	- paternity patricide patriotic
 - sens/scent #card #ELA12
@@ -79,17 +91,47 @@
 	- life
 	- vital revitalize vitamin
 - gam #card #ELA12
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-09-21T00:01:36.882Z
+  card-last-reviewed:: 2024-09-17T00:01:36.882Z
+  card-last-score:: 3
 	- mariage
 	- monogamy polygamy bigamy
 - mater #card #ELA12
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-09-21T00:01:44.722Z
+  card-last-reviewed:: 2024-09-17T00:01:44.722Z
+  card-last-score:: 3
 	- mother
 	- maternal maternity matriarchy
 - loc #card #ELA12
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-09-21T00:01:04.056Z
+  card-last-reviewed:: 2024-09-17T00:01:04.056Z
+  card-last-score:: 3
 	- place
 	- location local
 - cap #card #ELA12
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-09-21T00:01:24.087Z
+  card-last-reviewed:: 2024-09-17T00:01:24.087Z
+  card-last-score:: 3
 	- take seize
 	- capture captivate capacity
 - bell #card #ELA12
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-09-21T00:00:56.928Z
+  card-last-reviewed:: 2024-09-17T00:00:56.928Z
+  card-last-score:: 3
 	- war
 	- belligerent bellicose
