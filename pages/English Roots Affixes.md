@@ -1,11 +1,10 @@
-- spir
+- spir #card #ELA12
   card-last-score:: 1
   card-repeats:: 1
   card-next-schedule:: 2024-09-17T15:00:00.000Z
   card-last-interval:: -1
   card-ease-factor:: 2.5
   card-last-reviewed:: 2024-09-17T00:01:31.059Z
-  collapsed:: true
 	- Breath
 	- Inspire Respiration Conspire perspiration
 - frater #card #ELA12
