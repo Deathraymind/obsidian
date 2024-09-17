@@ -2,8 +2,8 @@
 card-last-interval:: -1
 card-repeats:: 1
 card-ease-factor:: 2.36
-card-next-schedule:: 2024-09-17T15:00:00.000Z
-card-last-reviewed:: 2024-09-17T00:17:49.598Z
+card-next-schedule:: 2024-09-18T15:00:00.000Z
+card-last-reviewed:: 2024-09-17T22:30:20.541Z
 card-last-score:: 1
 collapsed:: true
 	- A block of code that completes a specific goal.
@@ -14,8 +14,8 @@ collapsed:: true
   card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.36
-  card-next-schedule:: 2024-09-17T15:00:00.000Z
-  card-last-reviewed:: 2024-09-17T00:17:50.867Z
+  card-next-schedule:: 2024-09-18T15:00:00.000Z
+  card-last-reviewed:: 2024-09-17T22:30:20.227Z
   card-last-score:: 1
 	- A container for related functions.
 		- In Java, we define a class with the keyword `class` followed by curly braces `{}`.
@@ -34,12 +34,12 @@ collapsed:: true
 - ### Packages
 - Groups of classes are contained within packages.
 - ### System.out.println #card
-  card-last-interval:: 4
+  card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.36
-  card-next-schedule:: 2024-09-13T11:16:55.323Z
-  card-last-reviewed:: 2024-09-09T11:16:55.323Z
-  card-last-score:: 3
+  card-next-schedule:: 2024-09-18T15:00:00.000Z
+  card-last-reviewed:: 2024-09-17T22:30:16.564Z
+  card-last-score:: 1
 	- `System` is the class.
 	- `out` is the member.
 	- `println` is the method.
@@ -48,20 +48,20 @@ collapsed:: true
   
   ---
 - ### Variables #card
-  card-last-interval:: 4
+  card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.36
-  card-next-schedule:: 2024-09-13T11:16:57.523Z
-  card-last-reviewed:: 2024-09-09T11:16:57.524Z
-  card-last-score:: 3
+  card-next-schedule:: 2024-09-18T15:00:00.000Z
+  card-last-reviewed:: 2024-09-17T22:30:19.066Z
+  card-last-score:: 1
 	- Temporarily store data in computer memory.
 - ### Primitive Types #card
-  card-last-interval:: 4
+  card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.36
-  card-next-schedule:: 2024-09-13T11:16:59.252Z
-  card-last-reviewed:: 2024-09-09T11:16:59.252Z
-  card-last-score:: 3
+  card-next-schedule:: 2024-09-18T15:00:00.000Z
+  card-last-reviewed:: 2024-09-17T22:30:19.567Z
+  card-last-score:: 1
 	- `byte`
 	- `short` (3 bytes)
 	- `int` (5 bytes)
@@ -71,12 +71,12 @@ collapsed:: true
 	- `char`
 	- `boolean`
 - ### References #card
-  card-last-interval:: 4
+  card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.36
-  card-next-schedule:: 2024-09-13T11:17:02.650Z
-  card-last-reviewed:: 2024-09-09T11:17:02.651Z
-  card-last-score:: 3
+  card-next-schedule:: 2024-09-18T15:00:00.000Z
+  card-last-reviewed:: 2024-09-17T22:30:19.928Z
+  card-last-score:: 1
 	- Unlike primitive types, references store complex objects instead of simple values.
 	- References store variables or data in memory and use pointers to reference memory addresses. If a value is changed at the referenced location, other pointers referencing that location will reflect the change.
 	  
