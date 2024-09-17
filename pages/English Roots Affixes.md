@@ -2,18 +2,42 @@
 	- Breath
 	- Inspire Respiration Conspire perspiration
 - frater #card #ELA12
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-09-21T00:00:34.499Z
+  card-last-reviewed:: 2024-09-17T00:00:34.500Z
+  card-last-score:: 3
 	- brother
 	- fraternal fratanize
 - voc #card #ELA12
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-09-21T00:00:43.220Z
+  card-last-reviewed:: 2024-09-17T00:00:43.220Z
+  card-last-score:: 3
 	- call
 	- revoke invocation vocal convocation
 - scent scend #card #ELA12
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-09-21T00:00:49.280Z
+  card-last-reviewed:: 2024-09-17T00:00:49.281Z
+  card-last-score:: 3
 	- climb
 	- ascend ascent
 - pater #card #ELA12
 	- father
 	- paternity patricide patriotic
 - sens/scent #card #ELA12
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-09-21T00:00:04.336Z
+  card-last-reviewed:: 2024-09-17T00:00:04.336Z
+  card-last-score:: 3
 	- feel aware
 	- sensible sentient
 - path #card #ELA12
@@ -37,9 +61,21 @@
 	- fight
 	- pugnacious pugilist
 - ten/tent #card #ELA12
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-09-17T15:00:00.000Z
+  card-last-reviewed:: 2024-09-17T00:00:14.353Z
+  card-last-score:: 1
 	- hold
 	- tentative tenable tenuous
 - vit #card #ELA12
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-09-21T00:00:25.335Z
+  card-last-reviewed:: 2024-09-17T00:00:25.335Z
+  card-last-score:: 3
 	- life
 	- vital revitalize vitamin
 - gam #card #ELA12
