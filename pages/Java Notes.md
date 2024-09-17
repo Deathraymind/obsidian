@@ -1,22 +1,22 @@
 ### Function (Java) #card #java
-card-last-interval:: 4
+card-last-interval:: -1
 card-repeats:: 1
 card-ease-factor:: 2.36
-card-next-schedule:: 2024-09-13T11:16:43.736Z
-card-last-reviewed:: 2024-09-09T11:16:43.737Z
-card-last-score:: 3
+card-next-schedule:: 2024-09-17T15:00:00.000Z
+card-last-reviewed:: 2024-09-17T00:17:49.598Z
+card-last-score:: 1
 collapsed:: true
 	- A block of code that completes a specific goal.
 		- First, specify the return type of the function (often `void`).
 		- Inside the parentheses of `void nameOfFunction()`, include the parameters.
 		- The `main` function needs to exist so that it gets called.
 - ### Class #card
-  card-last-interval:: 4
+  card-last-interval:: -1
   card-repeats:: 1
   card-ease-factor:: 2.36
-  card-next-schedule:: 2024-09-13T11:16:53.279Z
-  card-last-reviewed:: 2024-09-09T11:16:53.280Z
-  card-last-score:: 3
+  card-next-schedule:: 2024-09-17T15:00:00.000Z
+  card-last-reviewed:: 2024-09-17T00:17:50.867Z
+  card-last-score:: 1
 	- A container for related functions.
 		- In Java, we define a class with the keyword `class` followed by curly braces `{}`.
 		- When a function is outside of a class, it's referred to as a function. Inside a class, it's referred to as a **method**.
