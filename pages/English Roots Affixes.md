@@ -5,6 +5,7 @@
   card-last-interval:: 4
   card-ease-factor:: 2.36
   card-last-reviewed:: 2024-09-17T22:17:50.523Z
+  collapsed:: true
 	- Breath
 	- Inspire Respiration Conspire perspiration
 - frater #card #ELA12
@@ -14,6 +15,7 @@
   card-next-schedule:: 2024-09-21T00:00:34.499Z
   card-last-reviewed:: 2024-09-17T00:00:34.500Z
   card-last-score:: 3
+  collapsed:: true
 	- brother
 	- fraternal fratanize
 - voc #card #ELA12
@@ -23,6 +25,7 @@
   card-next-schedule:: 2024-09-21T00:00:43.220Z
   card-last-reviewed:: 2024-09-17T00:00:43.220Z
   card-last-score:: 3
+  collapsed:: true
 	- call
 	- revoke invocation vocal convocation
 - scent scend #card #ELA12
@@ -32,6 +35,7 @@
   card-next-schedule:: 2024-09-21T00:00:49.280Z
   card-last-reviewed:: 2024-09-17T00:00:49.281Z
   card-last-score:: 3
+  collapsed:: true
 	- climb
 	- ascend ascent
 - pater #card #ELA12
