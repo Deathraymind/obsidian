@@ -5,6 +5,7 @@
   card-next-schedule:: 2024-09-17T15:00:00.000Z
   card-last-reviewed:: 2024-09-17T00:01:31.059Z
   card-last-score:: 1
+  collapsed:: true
 	- Breath
 	- Inspire Respiration Conspire perspiration
 - frater #card #ELA12
