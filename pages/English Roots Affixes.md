@@ -1,10 +1,10 @@
 - spir #card #ELA12
-  card-last-score:: 1
-  card-repeats:: 1
-  card-next-schedule:: 2024-09-17T15:00:00.000Z
-  card-last-interval:: -1
-  card-ease-factor:: 2.5
-  card-last-reviewed:: 2024-09-17T00:01:31.059Z
+  card-last-score:: 3
+  card-repeats:: 2
+  card-next-schedule:: 2024-09-21T22:17:50.522Z
+  card-last-interval:: 4
+  card-ease-factor:: 2.36
+  card-last-reviewed:: 2024-09-17T22:17:50.523Z
 	- Breath
 	- Inspire Respiration Conspire perspiration
 - frater #card #ELA12
@@ -35,12 +35,12 @@
 	- climb
 	- ascend ascent
 - pater #card #ELA12
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2024-09-17T15:00:00.000Z
-  card-last-reviewed:: 2024-09-17T00:01:18.807Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-09-21T22:18:13.961Z
+  card-last-reviewed:: 2024-09-17T22:18:13.962Z
+  card-last-score:: 3
 	- father
 	- paternity patricide patriotic
 - sens/scent #card #ELA12
@@ -73,12 +73,12 @@
 	- fight
 	- pugnacious pugilist
 - ten/tent #card #ELA12
-  card-last-interval:: -1
-  card-repeats:: 1
-  card-ease-factor:: 2.5
-  card-next-schedule:: 2024-09-17T15:00:00.000Z
-  card-last-reviewed:: 2024-09-17T00:00:14.353Z
-  card-last-score:: 1
+  card-last-interval:: 4
+  card-repeats:: 2
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-09-21T22:18:02.720Z
+  card-last-reviewed:: 2024-09-17T22:18:02.720Z
+  card-last-score:: 3
 	- hold
 	- tentative tenable tenuous
 - vit #card #ELA12
