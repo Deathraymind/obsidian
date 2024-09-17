@@ -1,2 +1,2 @@
-- [ELA12]
+- [[ELA12]]
 	- {{cards [[English Roots Affixes]] }}
