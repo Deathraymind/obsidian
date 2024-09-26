@@ -2,4 +2,5 @@
 - Restate the prompt or question
 - answer the restatement
 - cite textual evidence
-- Elaborate with basic c
+- Elaborate with basic commentary
+- Summarize thoughts
