@@ -6,4 +6,4 @@
 - ```bash
   nixos-install --impure --flake .#nixos
   ```
-- Then it sould pull from the .nar repostiroty that i
+- Then it sould pull from the .nar repository that i imported into the isos store
