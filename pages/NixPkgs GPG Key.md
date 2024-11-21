@@ -1,21 +1,20 @@
 #### 1.  **Verify Pinentry is Installed**
-
-Ensure that `pinentry` (or a specific variant like `pinentry-gtk` or `pinentry-curses`) is installed:
-
-Edit your `configuration.nix`:
-
-```
-environment.systemPackages = with pkgs; [
-gpg
-pinentry
-];
-```
-
-Then, rebuild your system:
-
-```
-sudo nixos-rebuild switch
-```
+- Ensure that `pinentry` (or a specific variant like `pinentry-gtk` or `pinentry-curses`) is installed:
+  
+  Edit your `configuration.nix`:
+  
+  ```
+  environment.systemPackages = with pkgs; [
+  gpg
+  pinentry
+  ];
+  ```
+  
+  Then, rebuild your system:
+  
+  ```
+  sudo nixos-rebuild switch
+  ```
 - #### 2.  **Set Pinentry Program for GPG**
   
   Specify the `pinentry` program to use in the GPG configuration. First, locate the installed pinentry binary:
@@ -106,5 +105,7 @@ sudo nixos-rebuild switch
   sudo rngd -r /dev/urandom
   ```
 - Now to generate the key:
-- ```bash 
-  ```
+	- ```bash 
+	  gpg --full-generate-key
+	  ```
+	-
