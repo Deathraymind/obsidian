@@ -1,6 +1,6 @@
 #### 1.  **Verify Pinentry is Installed**
 - Ensure that `pinentry` (or a specific variant like `pinentry-gtk` or `pinentry-curses`) is installed:
-  
+  #nix 
   Edit your `configuration.nix`:
   
   ```
