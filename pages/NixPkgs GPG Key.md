@@ -105,5 +105,6 @@ sudo nixos-rebuild switch
   ```
   sudo rngd -r /dev/urandom
   ```
-  
-  ---
+- Now to generate the key:
+- ```bash 
+  ```
