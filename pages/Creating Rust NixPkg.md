@@ -65,4 +65,5 @@
 - ```
     src = "${git}/bowos-settings/src-tauri/";
   ```
-- This allows you to set the directory where the
+- This allows you to set the directory where the lock file is actually located in the directory of the repo.
+- #nix
