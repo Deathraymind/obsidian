@@ -1,10 +1,8 @@
 - ```bash
-  {
-    pkgs ? import (fetchTarball {
-      url = "https://github.com/NixOS/nixpkgs/archive/nixpkgs-unstable.tar.gz";
-      sha256 = "0sr45csfh2ff8w7jpnkkgl22aa89sza4jlhs6wq0368dpmklsl8g";
-    }) { },
-  }:
+  { pkgs ? import (fetchTarball {
+    url = "https://github.com/NixOS/nixpkgs/archive/nixpkgs-unstable.tar.gz";
+    sha256 = "0sr45csfh2ff8w7jpnkkgl22aa89sza4jlhs6wq0368dpmklsl8g";
+  }) {} }:
   
   let
     rustPlatform = pkgs.rustPlatform;
@@ -12,18 +10,20 @@
   in
   rustPlatform.buildRustPackage rec {
     pname = "bowos-settings";
-    version = "v2.0.2";
+    version = "v2.0.4";
   
-    # Point to the directory containing Cargo.toml and Cargo.lock
-  
-    src = ./bowos-settings/src-tauri;
-  
-    cargoLock = {
-      lockFile = ./bowos-settings/src-tauri/Cargo.lock;
+    git = pkgs.fetchFromGitHub {
+      owner = "deathraymind";
+      repo = "bowos-settings";
+      rev = "v2.0.4";
+      hash = "sha256-aJh7Okttcr+pn7XT7COipkqyc1DMhhffva9opolfLBk=";
+      fetchSubmodules = true;
     };
   
+    src = "${git}/bowos-settings/src-tauri/";
+  
     # Use a placeholder for cargoSha256
-    # cargoSha256 = "1MtDUhSQXCI8VDBLfckxLqoIuK9b6wu+HkaHwRGCbZk=";
+    cargoSha256 = "sha256-Ui8g/X/NFHV2wNyC2jisnOw8PmMNnHoo3CGESzgMp+8=";
   
     # Native build inputs
     nativeBuildInputs = [
@@ -31,7 +31,7 @@
       pkgs.pnpm
       pkgs.wrapGAppsHook
       pkgs.pkg-config
-      pkgs.esbuild
+      pkgs.esbuild 
     ];
   
     # Runtime dependencies
@@ -41,8 +41,28 @@
       pkgs.openssl
       pkgs.xdotool
       pkgs.libayatana-appindicator
-      pkgs.webkitgtk_4_1.dev
+      pkgs.webkitgtk_4_1.dev 
     ];
-  }	
+  
+    installPhase = ''
+      mkdir -p $out/bin
+      cp "${git}/result/bin/bowos-settings" $out/bin/
+  
+  
+     
+    '';
+  
+    meta = with lib; {
+      description = "BowOS Settings App";
+      homepage = "https://github.com/deathraymind/bowos-settings";
+      license = licenses.mit;
+      maintainers = with maintainers; [ Deathraymind ];
+    };
+  }
+  
   ```
-- This is an example of a rust package where the cargo.lock is not in the root diretory which. Githubdetch expects it to be and passes that along as the src if you have it set to do so. But if you give it a
+- This is an example of a rust package where the cargo.lock is not in the root diretory which. Githubdetch expects it to be and passes that along as the src if you have it set to do so. But if you give it a different var name and append
+- ```
+    src = "${git}/bowos-settings/src-tauri/";
+  ```
+- This allows you to set the directory where the
