@@ -15,3 +15,5 @@
 		- TODO Week 5: Security Program Management and Oversight
 		  id:: 676fc80b-7795-4e5f-8abd-15dd81dca6d0
 	- [Practice Tests](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests)
+	- Purchase ASAP [!](https://www.professormesser.com/amember/signup/sy0701cnpec)
+	-

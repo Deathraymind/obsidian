@@ -116,7 +116,7 @@
 :block/properties 
 {:id "676fca21-a7fc-4519-95fb-49682c76d0e7"}
 :block/uuid #uuid "676fca21-a7fc-4519-95fb-49682c76d0e7"} 
-{:block/created-at 1735386169807
+{:block/created-at 1735386275939
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -133,7 +133,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [416 65.39061230920427]
+:size [416 65.390625]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -142,9 +142,9 @@
 :point [880 256]
 :parentId "676fc695-044c-4eef-9a48-71aaffd7e244"
 :collapsedHeight 0
-:nonce 1735379640240}}
-:block/updated-at 1735386169807} 
-{:block/created-at 1735385957697
+:nonce 1735379640242}}
+:block/updated-at 1735386275939} 
+{:block/created-at 1735386275944
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -176,9 +176,9 @@
 :decorations 
 {:end "arrow"}
 :parentId "676fc695-044c-4eef-9a48-71aaffd7e244"
-:nonce 1735379687090
+:nonce 1735379687092
 :italic false}}
-:block/updated-at 1735385957697} 
+:block/updated-at 1735386275944} 
 {:block/created-at 1735386165065
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -427,7 +427,14 @@
 :parentId "676fc695-044c-4eef-9a48-71aaffd7e244"
 :nonce 1735386076221
 :italic false}}
-:block/updated-at 1735386100717})
+:block/updated-at 1735386100717} 
+{:block/content "ns"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "676fca21-a7fc-4519-95fb-49682c76d0e7"}
+:block/parent 
+{:block/uuid #uuid "676fc695-044c-4eef-9a48-71aaffd7e244"}
+:block/uuid #uuid "676fe6b2-97f8-4139-923d-2b57832a4ce4"})
 :pages (
 {:block/uuid #uuid "676fc695-044c-4eef-9a48-71aaffd7e244"
 :block/properties 
@@ -495,7 +502,7 @@
 :nonce 1
 :assets []
 :shapes-index ("3c33ff80-c4ff-11ef-a0f2-3fd98551446c" "35f543c0-c501-11ef-a0f2-3fd98551446c" "423b0ca2-c501-11ef-a0f2-3fd98551446c" "a95f50d0-c501-11ef-a0f2-3fd98551446c" "c572f7e2-c501-11ef-a0f2-3fd98551446c" "cbfa9190-c501-11ef-a0f2-3fd98551446c" "d3cd9702-c501-11ef-a0f2-3fd98551446c" "6c0ec2b0-c510-11ef-a0f2-3fd98551446c" "77cb1040-c510-11ef-a0f2-3fd98551446c" "886bced0-c510-11ef-a0f2-3fd98551446c" "9e8eec12-c510-11ef-a0f2-3fd98551446c" "a21812d1-c510-11ef-a0f2-3fd98551446c" "a5a61b92-c510-11ef-a0f2-3fd98551446c")}}
-:block/updated-at 1735386198571
+:block/updated-at 1735386806944
 :block/created-at 1735378581490
 :block/type "whiteboard"
 :block/name "6 month plan"
