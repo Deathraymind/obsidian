@@ -4,7 +4,7 @@
   #cisco #networking
   **Listing All Interfaces:**
   
-  To view all interfaces, ensure you are in the enable terminal, then use the coommand:
+  To view all interfaces, ensure you are in the enable terminal, then use the command:
   
   ```
   show ip interfaces brief
