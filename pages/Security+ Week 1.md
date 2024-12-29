@@ -123,4 +123,5 @@
 	  background-color:: yellow
 		- evaluate the existing systems
 		- identify weaknesses in security or efficiency
+	- ![image.png](../assets/image_1735466683118_0.png){:height 146, :width 262}
 	-
