@@ -116,7 +116,7 @@
 		- Abstraction #card
 			- Adding something in the middle, a user goes with a group
 - # Video 1.2.3: Gap analysis
-	- ### gap analysis
+	- ### gap analysis #card
 	  background-color:: red
 		- is the gap between where you are and where you want to be
 	- Comparison
@@ -131,52 +131,111 @@
 		- Covers every device, every process, every person. Trust no one authenticate at every resource.
 	- Split the network into functional planes
 		- Applies physical, virtual, and cloud components
-	- ### Data Plane
+	- ### Data Plane #card
 	  background-color:: red
 		- process the frames, packets, and network data
 			- Switches
 			- Firewall
 			- Router
 		- processing, forwarding, trunking, encrypting, NAT
-	- ### Control Plane
+	- ### Control Plane #card
 	  background-color:: pink
 		- Manages the actions of the data plane
 		- settings polcies rules for what security a device needs to have
 		- determines how packets sould be forwarded
 		- routing tables, session tables, NAT tables
 		- ![image.png](../assets/image_1735523542877_0.png)
-	- ### Adaptive identity
+	- ### Adaptive identity #card
 	  background-color:: green
 		- Based on the authentication **data**, like where the user is what role they play like ceo or regular employee and what data they are trying to access.
-	- ### Threat scope reduction
+	- ### Threat scope reduction #card
 	  background-color:: red
 		- reducing the entry points into a network
-	- ### Policy-driven access control
+	- ### Policy-driven access control #card
 	  background-color:: blue
 		- combine **adaptive identity** and a **predefined set of rules** based on the adaptive identity data.
-	- ### PEP
+	- ### PEP #card
 	  background-color:: yellow
 		- Policy Enforcement Point
 		- This is the point where users and devices will be evaluated and data will be collected. It does now enforce any security measures, it passes this information to the **PDP**.
 		- ![image.png](../assets/image_1735523982182_0.png)
-	- ### PDP
+	- ### PDP #card
 	  background-color:: red
 		- Policy Decision Point
 		- This takes the data from the **PEP** and enforces a set of predefined security measures.
 		- ![image.png](../assets/image_1735524170821_0.png){:height 232, :width 410}
-	- ### Policy Engine
+	- ### Policy Engine #card
 	  background-color:: green
 		- Evaulutaes each access decision based on policy and other information sources
 		- Grant, Deny, or Revoke
-	- ### Policy Administrator
+	- ### Policy Administrator #card
 	  background-color:: blue
 		- communicates with the polocy Enforcement Point
 		- Generates access tokens or credentials
 		- Tells the **PEP** to allow or disallow access
-	- ![image.png](../assets/image_1735524345460_0.png)
-	-
-	-
-	-
-	-
-	-
-	-
+	- ![image.png](../assets/image_1735524345460_0.png){:height 387, :width 750}
+-
+- # Video 1.2.5: Physical Security
+	- ### Barricades or Bollards
+	  background-color:: yellow
+		- Channel people through a specific access point only allow people and prevent cars and trucks
+	- ### Access control vestibules
+	  background-color:: red
+		- Air lock, One at a time.
+	- ### Fence
+	  background-color:: pink
+		- Build a perimeter see through or not
+	- ### CCTV
+	  background-color:: green
+		- Replaces physical Guards
+		- Closed Circuit Television
+	- ### Security Gaurd
+	  background-color:: blue
+		- Physical protection at the reception or permemter
+	- ### ID
+	  background-color:: purple
+		- This I a identification
+	- ### Light
+	  background-color:: yellow
+		- More security will illuminate the persons face
+		- Avoid Shadow and glares
+	- ### Inferred
+	  background-color:: red
+		- Detects infered radiation in both light and dark
+		- Common in motion detectors
+	- ### Microwave
+	  background-color:: pink
+		- For more area motion detection
+- # Video 1.2.6: Deception and Disruption
+	- ### Honey Pot #card
+	  background-color:: yellow
+		- attract bad guys are trap them
+		- This will allow you to see what they are trying to attack and how
+	- ### Honey Nets
+	  background-color:: red
+		- a network of honeypots
+		- more believable
+	- ### Honey Files #card
+	  background-color:: pink
+		- These are files that have fake infomration
+		- You can even add traceable information and track what and where the attacker uses this fake information
+	- ### Honey Tokens #card
+	  background-color:: green
+		- fake AP I tokens where you can trace where they are used
+	- ### Honey Emails #card
+	  background-color:: blue
+		- Fake Email addresses
+- # Video 1.2.7: Non-repudiation
+	- ### Proof of integrity #card
+	  background-color:: yellow
+		- Make sure the data does not change
+		- often a hash is used
+		- A hash is often compared to a fingerprint
+		- Hash does not say who sent the data
+	- ### Proof of origin #card
+	  background-color:: red
+		- Verify who sent the data
+		- authentication
+		- Digital signature
+			- This is a private key where only the sender knows, it can be verified with a public key.
+		- ![image.png](../assets/image_1735526173356_0.png)
