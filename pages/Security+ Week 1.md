@@ -125,3 +125,58 @@
 		- identify weaknesses in security or efficiency
 	- ![image.png](../assets/image_1735466683118_0.png){:height 146, :width 262}
 	-
+- # Video 1.2.4: Zero Trust
+	- ### Zero Trust #card
+	  background-color:: yellow
+		- Covers every device, every process, every person. Trust no one authenticate at every resource.
+	- Split the network into functional planes
+		- Applies physical, virtual, and cloud components
+	- ### Data Plane
+	  background-color:: red
+		- process the frames, packets, and network data
+			- Switches
+			- Firewall
+			- Router
+		- processing, forwarding, trunking, encrypting, NAT
+	- ### Control Plane
+	  background-color:: pink
+		- Manages the actions of the data plane
+		- settings polcies rules for what security a device needs to have
+		- determines how packets sould be forwarded
+		- routing tables, session tables, NAT tables
+		- ![image.png](../assets/image_1735523542877_0.png)
+	- ### Adaptive identity
+	  background-color:: green
+		- Based on the authentication **data**, like where the user is what role they play like ceo or regular employee and what data they are trying to access.
+	- ### Threat scope reduction
+	  background-color:: red
+		- reducing the entry points into a network
+	- ### Policy-driven access control
+	  background-color:: blue
+		- combine **adaptive identity** and a **predefined set of rules** based on the adaptive identity data.
+	- ### PEP
+	  background-color:: yellow
+		- Policy Enforcement Point
+		- This is the point where users and devices will be evaluated and data will be collected. It does now enforce any security measures, it passes this information to the **PDP**.
+		- ![image.png](../assets/image_1735523982182_0.png)
+	- ### PDP
+	  background-color:: red
+		- Policy Decision Point
+		- This takes the data from the **PEP** and enforces a set of predefined security measures.
+		- ![image.png](../assets/image_1735524170821_0.png){:height 232, :width 410}
+	- ### Policy Engine
+	  background-color:: green
+		- Evaulutaes each access decision based on policy and other information sources
+		- Grant, Deny, or Revoke
+	- ### Policy Administrator
+	  background-color:: blue
+		- communicates with the polocy Enforcement Point
+		- Generates access tokens or credentials
+		- Tells the **PEP** to allow or disallow access
+	- ![image.png](../assets/image_1735524345460_0.png)
+	-
+	-
+	-
+	-
+	-
+	-
