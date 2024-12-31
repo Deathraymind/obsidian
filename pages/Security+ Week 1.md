@@ -16,13 +16,13 @@
 				- example: Security Guards, awareness programs
 			- Physical Controls
 	- ### Deturrent #card
-	  card-last-score:: 1
-	  card-repeats:: 1
-	  card-next-schedule:: 2024-12-29T15:00:00.000Z
+	  card-last-score:: 5
+	  card-repeats:: 2
+	  card-next-schedule:: 2025-01-03T02:49:59.699Z
 	  background-color:: red
-	  card-last-interval:: -1
-	  card-ease-factor:: 2.5
-	  card-last-reviewed:: 2024-12-29T04:13:12.771Z
+	  card-last-interval:: 4
+	  card-ease-factor:: 2.6
+	  card-last-reviewed:: 2024-12-30T02:49:59.700Z
 		- Makes people second guess if they sould do what there about to do
 			- Examples:
 				- Splash Screen when logging into a system
@@ -30,6 +30,12 @@
 				- warning sighs
 	- ### Detective #card
 	  background-color:: pink
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2024-12-30T15:00:00.000Z
+	  card-last-reviewed:: 2024-12-30T02:48:19.625Z
+	  card-last-score:: 1
 		- A way to log an attack, may not prevent or mitigate
 			- Examples:
 				- Login Reports
@@ -37,6 +43,12 @@
 				- enable motion detectors
 	- ### Corrective #card
 	  background-color:: green
+	  card-last-interval:: 2.05
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2025-01-01T03:49:56.086Z
+	  card-last-reviewed:: 2024-12-30T02:49:56.087Z
+	  card-last-score:: 3
 		- Apply a controller after the event has been enacted, this will mitigate the effects of the attack and create less downtime.
 			- Examples:
 				- Computer rollback
@@ -44,6 +56,12 @@
 				- use a fire extinguisher.
 	- ### Compensating #card
 	  background-color:: blue
+	  card-last-interval:: 2.05
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2025-01-01T03:47:03.992Z
+	  card-last-reviewed:: 2024-12-30T02:47:03.993Z
+	  card-last-score:: 3
 		- Control using other means, exisitng controls are noty sufficent.
 			- Examples:
 				- Firewall blocks app with new vulnerability instead of patching the app
@@ -52,12 +70,64 @@
 				- Generator after power outage
 	- ### Directive #card
 	  background-color:: purple
+	  card-last-interval:: 2.05
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2025-01-01T03:49:01.181Z
+	  card-last-reviewed:: 2024-12-30T02:49:01.181Z
+	  card-last-score:: 3
 		- Direct a subject towards security compliance, this is a weak security control.
 		- Examples:
 			- store all sensitive files in a protected folder
 			- create a compliance policies and procedures
 			- train users on proper security policies
 			- post a sign for authorized personnel only
+	- Whats an example of a preventative technical control? #card
+		- Firewall
+	- Whats an example of a deterrent technical control? #card
+		- Splash Screen
+	- Whats an example of a detective technical solution #card
+		- System Logs
+	- Whats an example of a corrective technical control #card
+		- Backup recovery
+	- Whats an example of a compensating technical control #card
+		- Block instead of patch
+	- Whats an example of a directive technical control #card
+		- file storage policies
+	- Whats an example of a preventative managerial control #card
+		- on board policy
+	- Whats an example of a deturent managerial control #card
+		- Demotion
+	- Whats an example of a detective managerial control #card
+		- login reports
+	- Whats an example of a corrective managerial control #card
+		- policies for reporting issues
+	- Whats an example of a compensating managerial control #card
+		- Separation of duties
+	- Whats an example of directive managerial control? #card
+		- Compliance polices
+	- Whats an example of a preventative operational control #card
+		- guard shack
+	- Whats an example of a deterrent operational control #card
+		- reception desk
+	- Whats an example of a detective operational control #card
+		- property patrols
+	- Whats an example of a corrective operational control #card
+		- contact authorties
+	- Whats an example of a compensating operational control #card
+		- require mulltiple staff security
+	- Whats an example of a directive operational control #card
+		- security policy training
+	- Whats an example of deterrent physical control #card
+		- warning signs
+	- Whats an example of a detective physical control #card
+		- motion detectors
+	- Whats an example of a corrective phyiscal control #card
+		- fire extinguisher
+	- Whats an example of a compensating phyiscal control #card
+		- power generator
+	- Whats an example of a directive phyiscal control #card
+		- Sign: Authorized personnel only
 -
 - # Video 1.2.1: CIA Triad
 	- ![image.png](../assets/image_1735446570138_0.png){:height 120, :width 133}
@@ -65,11 +135,23 @@
 	- Also Known as the AIC Triad
 	- ### CIA Triad #card
 	  background-color:: yellow
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2024-12-30T15:00:00.000Z
+	  card-last-reviewed:: 2024-12-30T02:47:32.268Z
+	  card-last-score:: 1
 		- Confidentiality: We need to keep the information Hidden
 		- Integrity: Messages cant be modified without being detected
 		- Availability: Systems and networks must be up and running
 	- ### Confidentiality #card
 	  background-color:: red
+	  card-last-interval:: 2.05
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2025-01-01T03:49:31.702Z
+	  card-last-reviewed:: 2024-12-30T02:49:31.703Z
+	  card-last-score:: 3
 		- Certain information should only be known to certain people.
 		- Encryption helps us do this but giving a key to decrypt to a certain person.
 		- Access Controls
@@ -77,6 +159,12 @@
 		- Two Factor Authentication.
 	- ### Integrity #card
 	  background-color:: pink
+	  card-last-interval:: 2.05
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2025-01-01T03:41:20.843Z
+	  card-last-reviewed:: 2024-12-30T02:41:20.843Z
+	  card-last-score:: 3
 		- Data is stored and tresfered as intended
 		- Hashing
 		- Digital Signature
@@ -86,6 +174,12 @@
 			- provides proof of integrity and origin.
 	- ### Availability #card
 	  background-color:: green
+	  card-last-interval:: 2.05
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2025-01-01T03:41:10.022Z
+	  card-last-reviewed:: 2024-12-30T02:41:10.022Z
+	  card-last-score:: 3
 		- Always running
 		- Fault tolerance
 			- System will continue ti run even when failure occurs, redundant.
@@ -93,31 +187,85 @@
 - # Video 1.2.2: AAA
 	- AAA Framework #card
 	  background-color:: yellow
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2024-12-30T15:00:00.000Z
+	  card-last-reviewed:: 2024-12-30T02:48:32.242Z
+	  card-last-score:: 1
 		- Authentication #card
+		  card-last-interval:: -1
+		  card-repeats:: 1
+		  card-ease-factor:: 2.5
+		  card-next-schedule:: 2024-12-30T15:00:00.000Z
+		  card-last-reviewed:: 2024-12-30T02:47:50.306Z
+		  card-last-score:: 1
 			- Prove you are who you say, identification
 		- Authorization #card
+		  card-last-interval:: 2.05
+		  card-repeats:: 1
+		  card-ease-factor:: 2.36
+		  card-next-schedule:: 2025-01-01T03:47:18.002Z
+		  card-last-reviewed:: 2024-12-30T02:47:18.003Z
+		  card-last-score:: 3
 			- Based on youre identification and authentificatio, what accsess do you have
 		- Accounting #card
+		  card-last-interval:: -1
+		  card-repeats:: 1
+		  card-ease-factor:: 2.5
+		  card-next-schedule:: 2024-12-30T15:00:00.000Z
+		  card-last-reviewed:: 2024-12-30T02:42:45.684Z
+		  card-last-score:: 1
 			- Resources used, when you logged, the data sent and received, logout time.
 	- AAA Examples #card
 	  background-color:: red
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2024-12-30T15:00:00.000Z
+	  card-last-reviewed:: 2024-12-30T02:48:12.939Z
+	  card-last-score:: 1
 		- client connects to a the internet and to a vpn, the firewall will ask for the user and pass and will send them to a AAA Server which actually verifies the user and passes them through the firewall if approved.
 		- ![image.png](../assets/image_1735465309562_0.png){:height 180, :width 277}
 	- Authenticate Devices
 	  background-color:: pink
 		- A computer needs to prove they are allowed to be on the network. We can do this with a certificate
 		- CA #card
+		  card-last-interval:: 2.05
+		  card-repeats:: 1
+		  card-ease-factor:: 2.36
+		  card-next-schedule:: 2025-01-01T03:49:08.612Z
+		  card-last-reviewed:: 2024-12-30T02:49:08.613Z
+		  card-last-score:: 3
 			- A certificate authority digitally sighs a certificate with the organizations CA
 			- This certificate can now be included as part of the authentication method
 	- Authorize a device #card
 	  background-color:: green
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2024-12-30T15:00:00.000Z
+	  card-last-reviewed:: 2024-12-30T02:42:16.587Z
+	  card-last-score:: 1
 		- Now that we have authenticated a device or user, we now put them into **groups** these groups will have a set of permissions, this makes it easy to scale permissions
 		- ![image.png](../assets/image_1735465925018_0.png){:height 191, :width 720}
 		- Abstraction #card
+		  card-last-interval:: 4
+		  card-repeats:: 1
+		  card-ease-factor:: 2.6
+		  card-next-schedule:: 2025-01-03T02:42:29.250Z
+		  card-last-reviewed:: 2024-12-30T02:42:29.250Z
+		  card-last-score:: 5
 			- Adding something in the middle, a user goes with a group
 - # Video 1.2.3: Gap analysis
 	- ### gap analysis #card
 	  background-color:: red
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-03T02:47:06.616Z
+	  card-last-reviewed:: 2024-12-30T02:47:06.616Z
+	  card-last-score:: 5
 		- is the gap between where you are and where you want to be
 	- Comparison
 	  background-color:: yellow
@@ -128,11 +276,23 @@
 - # Video 1.2.4: Zero Trust
 	- ### Zero Trust #card
 	  background-color:: yellow
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-03T02:42:20.333Z
+	  card-last-reviewed:: 2024-12-30T02:42:20.334Z
+	  card-last-score:: 5
 		- Covers every device, every process, every person. Trust no one authenticate at every resource.
 	- Split the network into functional planes
 		- Applies physical, virtual, and cloud components
 	- ### Data Plane #card
 	  background-color:: red
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2024-12-30T15:00:00.000Z
+	  card-last-reviewed:: 2024-12-30T02:41:31.660Z
+	  card-last-score:: 1
 		- process the frames, packets, and network data
 			- Switches
 			- Firewall
@@ -140,6 +300,12 @@
 		- processing, forwarding, trunking, encrypting, NAT
 	- ### Control Plane #card
 	  background-color:: pink
+	  card-last-interval:: 2.05
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2025-01-01T03:49:40.557Z
+	  card-last-reviewed:: 2024-12-30T02:49:40.558Z
+	  card-last-score:: 3
 		- Manages the actions of the data plane
 		- settings polcies rules for what security a device needs to have
 		- determines how packets sould be forwarded
@@ -147,29 +313,71 @@
 		- ![image.png](../assets/image_1735523542877_0.png)
 	- ### Adaptive identity #card
 	  background-color:: green
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-03T02:42:01.670Z
+	  card-last-reviewed:: 2024-12-30T02:42:01.671Z
+	  card-last-score:: 5
 		- Based on the authentication **data**, like where the user is what role they play like ceo or regular employee and what data they are trying to access.
 	- ### Threat scope reduction #card
 	  background-color:: red
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-03T02:41:52.621Z
+	  card-last-reviewed:: 2024-12-30T02:41:52.622Z
+	  card-last-score:: 5
 		- reducing the entry points into a network
 	- ### Policy-driven access control #card
 	  background-color:: blue
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2024-12-30T15:00:00.000Z
+	  card-last-reviewed:: 2024-12-30T02:42:38.468Z
+	  card-last-score:: 1
 		- combine **adaptive identity** and a **predefined set of rules** based on the adaptive identity data.
 	- ### PEP #card
 	  background-color:: yellow
+	  card-last-interval:: 2.05
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2025-01-01T03:47:43.050Z
+	  card-last-reviewed:: 2024-12-30T02:47:43.050Z
+	  card-last-score:: 3
 		- Policy Enforcement Point
 		- This is the point where users and devices will be evaluated and data will be collected. It does now enforce any security measures, it passes this information to the **PDP**.
 		- ![image.png](../assets/image_1735523982182_0.png)
 	- ### PDP #card
 	  background-color:: red
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2024-12-30T15:00:00.000Z
+	  card-last-reviewed:: 2024-12-30T02:47:59.058Z
+	  card-last-score:: 1
 		- Policy Decision Point
 		- This takes the data from the **PEP** and enforces a set of predefined security measures.
 		- ![image.png](../assets/image_1735524170821_0.png){:height 232, :width 410}
 	- ### Policy Engine #card
 	  background-color:: green
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2024-12-30T15:00:00.000Z
+	  card-last-reviewed:: 2024-12-30T02:49:23.924Z
+	  card-last-score:: 1
 		- Evaulutaes each access decision based on policy and other information sources
 		- Grant, Deny, or Revoke
 	- ### Policy Administrator #card
 	  background-color:: blue
+	  card-last-interval:: 2.05
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2025-01-01T03:41:49.593Z
+	  card-last-reviewed:: 2024-12-30T02:41:49.593Z
+	  card-last-score:: 3
 		- communicates with the polocy Enforcement Point
 		- Generates access tokens or credentials
 		- Tells the **PEP** to allow or disallow access
@@ -209,6 +417,12 @@
 - # Video 1.2.6: Deception and Disruption
 	- ### Honey Pot #card
 	  background-color:: yellow
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-03T02:49:11.711Z
+	  card-last-reviewed:: 2024-12-30T02:49:11.712Z
+	  card-last-score:: 5
 		- attract bad guys are trap them
 		- This will allow you to see what they are trying to attack and how
 	- ### Honey Nets
@@ -217,25 +431,69 @@
 		- more believable
 	- ### Honey Files #card
 	  background-color:: pink
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-03T02:40:58.085Z
+	  card-last-reviewed:: 2024-12-30T02:40:58.086Z
+	  card-last-score:: 5
 		- These are files that have fake infomration
 		- You can even add traceable information and track what and where the attacker uses this fake information
 	- ### Honey Tokens #card
 	  background-color:: green
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-03T02:40:55.716Z
+	  card-last-reviewed:: 2024-12-30T02:40:55.716Z
+	  card-last-score:: 5
 		- fake AP I tokens where you can trace where they are used
 	- ### Honey Emails #card
 	  background-color:: blue
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-03T02:42:40.595Z
+	  card-last-reviewed:: 2024-12-30T02:42:40.596Z
+	  card-last-score:: 5
 		- Fake Email addresses
 - # Video 1.2.7: Non-repudiation
 	- ### Proof of integrity #card
 	  background-color:: yellow
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-03T02:42:08.111Z
+	  card-last-reviewed:: 2024-12-30T02:42:08.111Z
+	  card-last-score:: 5
 		- Make sure the data does not change
 		- often a hash is used
 		- A hash is often compared to a fingerprint
 		- Hash does not say who sent the data
 	- ### Proof of origin #card
 	  background-color:: red
+	  card-last-interval:: 2.05
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2025-01-01T03:48:49.711Z
+	  card-last-reviewed:: 2024-12-30T02:48:49.711Z
+	  card-last-score:: 3
 		- Verify who sent the data
 		- authentication
 		- Digital signature
 			- This is a private key where only the sender knows, it can be verified with a public key.
-		- ![image.png](../assets/image_1735526173356_0.png)
+		- ![image.png](../assets/image_1735526173356_0.png){:height 253, :width 720}
+- # Video 1.3.1: Change Management
+	- A formal process for changing stuff
+		- Things need to stay updated
+		- But their is risk in updating computers, so you need to balance the risk
+			- If a company is busy at a certain time maybe don't make the change then
+			- This would be called finding a good maintenance window
+	- Impact analysis
+		- Risk is high medium or low
+	- Backout Plan
+		- How to revert change if it goes bad
+	- SOP
+		- Standard Operating Procedure
+	-
+	-

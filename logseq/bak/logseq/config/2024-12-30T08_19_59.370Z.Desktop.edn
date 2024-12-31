@@ -420,4 +420,4 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :graph/forcesettings {:charge-strength -100
- :charge-range 1300}}
+ :charge-range 900}}
