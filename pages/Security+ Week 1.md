@@ -30,12 +30,12 @@
 				- warning sighs
 	- ### Detective #card
 	  background-color:: pink
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2024-12-30T15:00:00.000Z
-	  card-last-reviewed:: 2024-12-30T02:48:19.625Z
-	  card-last-score:: 1
+	  card-last-interval:: 4
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:43:47.734Z
+	  card-last-reviewed:: 2025-01-01T09:43:47.735Z
+	  card-last-score:: 5
 		- A way to log an attack, may not prevent or mitigate
 			- Examples:
 				- Login Reports
@@ -43,12 +43,12 @@
 				- enable motion detectors
 	- ### Corrective #card
 	  background-color:: green
-	  card-last-interval:: 2.05
-	  card-repeats:: 1
-	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2025-01-01T03:49:56.086Z
-	  card-last-reviewed:: 2024-12-30T02:49:56.087Z
-	  card-last-score:: 3
+	  card-last-interval:: 4
+	  card-repeats:: 2
+	  card-ease-factor:: 2.46
+	  card-next-schedule:: 2025-01-05T10:09:41.016Z
+	  card-last-reviewed:: 2025-01-01T10:09:41.017Z
+	  card-last-score:: 5
 		- Apply a controller after the event has been enacted, this will mitigate the effects of the attack and create less downtime.
 			- Examples:
 				- Computer rollback
@@ -56,12 +56,12 @@
 				- use a fire extinguisher.
 	- ### Compensating #card
 	  background-color:: blue
-	  card-last-interval:: 2.05
+	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2025-01-01T03:47:03.992Z
-	  card-last-reviewed:: 2024-12-30T02:47:03.993Z
-	  card-last-score:: 3
+	  card-next-schedule:: 2025-01-01T15:00:00.000Z
+	  card-last-reviewed:: 2025-01-01T10:08:51.020Z
+	  card-last-score:: 1
 		- Control using other means, exisitng controls are noty sufficent.
 			- Examples:
 				- Firewall blocks app with new vulnerability instead of patching the app
@@ -70,12 +70,12 @@
 				- Generator after power outage
 	- ### Directive #card
 	  background-color:: purple
-	  card-last-interval:: 2.05
+	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2025-01-01T03:49:01.181Z
-	  card-last-reviewed:: 2024-12-30T02:49:01.181Z
-	  card-last-score:: 3
+	  card-next-schedule:: 2025-01-01T15:00:00.000Z
+	  card-last-reviewed:: 2025-01-01T10:09:21.955Z
+	  card-last-score:: 1
 		- Direct a subject towards security compliance, this is a weak security control.
 		- Examples:
 			- store all sensitive files in a protected folder
@@ -83,50 +83,188 @@
 			- train users on proper security policies
 			- post a sign for authorized personnel only
 	- Whats an example of a preventative technical control? #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:37:00.398Z
+	  card-last-reviewed:: 2025-01-01T09:37:00.398Z
+	  card-last-score:: 5
 		- Firewall
 	- Whats an example of a deterrent technical control? #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:33:33.044Z
+	  card-last-reviewed:: 2025-01-01T09:33:33.046Z
+	  card-last-score:: 5
 		- Splash Screen
 	- Whats an example of a detective technical solution #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:38:57.863Z
+	  card-last-reviewed:: 2025-01-01T09:38:57.863Z
+	  card-last-score:: 5
 		- System Logs
 	- Whats an example of a corrective technical control #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:36:34.880Z
+	  card-last-reviewed:: 2025-01-01T09:36:34.880Z
+	  card-last-score:: 5
 		- Backup recovery
 	- Whats an example of a compensating technical control #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:36:18.081Z
+	  card-last-reviewed:: 2025-01-01T09:36:18.082Z
+	  card-last-score:: 5
 		- Block instead of patch
 	- Whats an example of a directive technical control #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:38:51.615Z
+	  card-last-reviewed:: 2025-01-01T09:38:51.616Z
+	  card-last-score:: 5
 		- file storage policies
 	- Whats an example of a preventative managerial control #card
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2025-01-01T15:00:00.000Z
+	  card-last-reviewed:: 2025-01-01T09:41:39.258Z
+	  card-last-score:: 1
 		- on board policy
 	- Whats an example of a deturent managerial control #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:37:10.236Z
+	  card-last-reviewed:: 2025-01-01T09:37:10.236Z
+	  card-last-score:: 5
 		- Demotion
 	- Whats an example of a detective managerial control #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:33:49.055Z
+	  card-last-reviewed:: 2025-01-01T09:33:49.056Z
+	  card-last-score:: 5
 		- login reports
 	- Whats an example of a corrective managerial control #card
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2025-01-01T15:00:00.000Z
+	  card-last-reviewed:: 2025-01-01T09:41:49.192Z
+	  card-last-score:: 1
 		- policies for reporting issues
 	- Whats an example of a compensating managerial control #card
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2025-01-01T15:00:00.000Z
+	  card-last-reviewed:: 2025-01-01T09:31:07.269Z
+	  card-last-score:: 1
 		- Separation of duties
 	- Whats an example of directive managerial control? #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:37:05.379Z
+	  card-last-reviewed:: 2025-01-01T09:37:05.379Z
+	  card-last-score:: 5
 		- Compliance polices
 	- Whats an example of a preventative operational control #card
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2025-01-01T15:00:00.000Z
+	  card-last-reviewed:: 2025-01-01T09:41:33.593Z
+	  card-last-score:: 1
 		- guard shack
 	- Whats an example of a deterrent operational control #card
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2025-01-01T15:00:00.000Z
+	  card-last-reviewed:: 2025-01-01T09:40:21.100Z
+	  card-last-score:: 1
 		- reception desk
 	- Whats an example of a detective operational control #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:36:28.981Z
+	  card-last-reviewed:: 2025-01-01T09:36:28.982Z
+	  card-last-score:: 5
 		- property patrols
 	- Whats an example of a corrective operational control #card
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2025-01-01T15:00:00.000Z
+	  card-last-reviewed:: 2025-01-01T09:31:23.199Z
+	  card-last-score:: 1
 		- contact authorties
 	- Whats an example of a compensating operational control #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:39:07.525Z
+	  card-last-reviewed:: 2025-01-01T09:39:07.525Z
+	  card-last-score:: 5
 		- require mulltiple staff security
 	- Whats an example of a directive operational control #card
+	  card-last-interval:: 2.05
+	  card-repeats:: 1
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2025-01-03T10:40:38.501Z
+	  card-last-reviewed:: 2025-01-01T09:40:38.502Z
+	  card-last-score:: 3
 		- security policy training
 	- Whats an example of deterrent physical control #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:39:53.337Z
+	  card-last-reviewed:: 2025-01-01T09:39:53.338Z
+	  card-last-score:: 5
 		- warning signs
 	- Whats an example of a detective physical control #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:39:44.571Z
+	  card-last-reviewed:: 2025-01-01T09:39:44.571Z
+	  card-last-score:: 5
 		- motion detectors
 	- Whats an example of a corrective phyiscal control #card
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2025-01-01T15:00:00.000Z
+	  card-last-reviewed:: 2025-01-01T09:38:40.346Z
+	  card-last-score:: 1
 		- fire extinguisher
 	- Whats an example of a compensating phyiscal control #card
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:31:32.499Z
+	  card-last-reviewed:: 2025-01-01T09:31:32.500Z
+	  card-last-score:: 5
 		- power generator
 	- Whats an example of a directive phyiscal control #card
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2025-01-01T15:00:00.000Z
+	  card-last-reviewed:: 2025-01-01T09:33:27.337Z
+	  card-last-score:: 1
 		- Sign: Authorized personnel only
 -
 - # Video 1.2.1: CIA Triad
@@ -135,23 +273,23 @@
 	- Also Known as the AIC Triad
 	- ### CIA Triad #card
 	  background-color:: yellow
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2024-12-30T15:00:00.000Z
-	  card-last-reviewed:: 2024-12-30T02:47:32.268Z
-	  card-last-score:: 1
+	  card-last-interval:: 2.05
+	  card-repeats:: 2
+	  card-ease-factor:: 2.36
+	  card-next-schedule:: 2025-01-03T10:44:09.556Z
+	  card-last-reviewed:: 2025-01-01T09:44:09.557Z
+	  card-last-score:: 3
 		- Confidentiality: We need to keep the information Hidden
 		- Integrity: Messages cant be modified without being detected
 		- Availability: Systems and networks must be up and running
 	- ### Confidentiality #card
 	  background-color:: red
-	  card-last-interval:: 2.05
-	  card-repeats:: 1
-	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2025-01-01T03:49:31.702Z
-	  card-last-reviewed:: 2024-12-30T02:49:31.703Z
-	  card-last-score:: 3
+	  card-last-interval:: 4
+	  card-repeats:: 2
+	  card-ease-factor:: 2.46
+	  card-next-schedule:: 2025-01-05T10:09:34.981Z
+	  card-last-reviewed:: 2025-01-01T10:09:34.981Z
+	  card-last-score:: 5
 		- Certain information should only be known to certain people.
 		- Encryption helps us do this but giving a key to decrypt to a certain person.
 		- Access Controls
@@ -159,11 +297,11 @@
 		- Two Factor Authentication.
 	- ### Integrity #card
 	  background-color:: pink
-	  card-last-interval:: 2.05
-	  card-repeats:: 1
-	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2025-01-01T03:41:20.843Z
-	  card-last-reviewed:: 2024-12-30T02:41:20.843Z
+	  card-last-interval:: 4
+	  card-repeats:: 2
+	  card-ease-factor:: 2.22
+	  card-next-schedule:: 2025-01-05T09:44:47.122Z
+	  card-last-reviewed:: 2025-01-01T09:44:47.122Z
 	  card-last-score:: 3
 		- Data is stored and tresfered as intended
 		- Hashing
@@ -174,12 +312,12 @@
 			- provides proof of integrity and origin.
 	- ### Availability #card
 	  background-color:: green
-	  card-last-interval:: 2.05
+	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2025-01-01T03:41:10.022Z
-	  card-last-reviewed:: 2024-12-30T02:41:10.022Z
-	  card-last-score:: 3
+	  card-next-schedule:: 2025-01-01T15:00:00.000Z
+	  card-last-reviewed:: 2025-01-01T09:44:31.404Z
+	  card-last-score:: 1
 		- Always running
 		- Fault tolerance
 			- System will continue ti run even when failure occurs, redundant.
@@ -190,63 +328,63 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2024-12-30T15:00:00.000Z
-	  card-last-reviewed:: 2024-12-30T02:48:32.242Z
+	  card-next-schedule:: 2025-01-01T15:00:00.000Z
+	  card-last-reviewed:: 2025-01-01T09:43:26.812Z
 	  card-last-score:: 1
 		- Authentication #card
-		  card-last-interval:: -1
-		  card-repeats:: 1
-		  card-ease-factor:: 2.5
-		  card-next-schedule:: 2024-12-30T15:00:00.000Z
-		  card-last-reviewed:: 2024-12-30T02:47:50.306Z
-		  card-last-score:: 1
+		  card-last-interval:: 4
+		  card-repeats:: 2
+		  card-ease-factor:: 2.6
+		  card-next-schedule:: 2025-01-05T09:43:58.984Z
+		  card-last-reviewed:: 2025-01-01T09:43:58.984Z
+		  card-last-score:: 5
 			- Prove you are who you say, identification
 		- Authorization #card
-		  card-last-interval:: 2.05
-		  card-repeats:: 1
-		  card-ease-factor:: 2.36
-		  card-next-schedule:: 2025-01-01T03:47:18.002Z
-		  card-last-reviewed:: 2024-12-30T02:47:18.003Z
-		  card-last-score:: 3
+		  card-last-interval:: 4
+		  card-repeats:: 2
+		  card-ease-factor:: 2.46
+		  card-next-schedule:: 2025-01-05T10:08:58.219Z
+		  card-last-reviewed:: 2025-01-01T10:08:58.220Z
+		  card-last-score:: 5
 			- Based on youre identification and authentificatio, what accsess do you have
 		- Accounting #card
-		  card-last-interval:: -1
-		  card-repeats:: 1
-		  card-ease-factor:: 2.5
-		  card-next-schedule:: 2024-12-30T15:00:00.000Z
-		  card-last-reviewed:: 2024-12-30T02:42:45.684Z
-		  card-last-score:: 1
+		  card-last-interval:: 4
+		  card-repeats:: 2
+		  card-ease-factor:: 2.6
+		  card-next-schedule:: 2025-01-05T09:42:31.070Z
+		  card-last-reviewed:: 2025-01-01T09:42:31.071Z
+		  card-last-score:: 5
 			- Resources used, when you logged, the data sent and received, logout time.
 	- AAA Examples #card
 	  background-color:: red
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2024-12-30T15:00:00.000Z
-	  card-last-reviewed:: 2024-12-30T02:48:12.939Z
-	  card-last-score:: 1
+	  card-last-interval:: 4
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:42:22.470Z
+	  card-last-reviewed:: 2025-01-01T09:42:22.470Z
+	  card-last-score:: 5
 		- client connects to a the internet and to a vpn, the firewall will ask for the user and pass and will send them to a AAA Server which actually verifies the user and passes them through the firewall if approved.
 		- ![image.png](../assets/image_1735465309562_0.png){:height 180, :width 277}
 	- Authenticate Devices
 	  background-color:: pink
 		- A computer needs to prove they are allowed to be on the network. We can do this with a certificate
 		- CA #card
-		  card-last-interval:: 2.05
-		  card-repeats:: 1
-		  card-ease-factor:: 2.36
-		  card-next-schedule:: 2025-01-01T03:49:08.612Z
-		  card-last-reviewed:: 2024-12-30T02:49:08.613Z
-		  card-last-score:: 3
+		  card-last-interval:: 4
+		  card-repeats:: 2
+		  card-ease-factor:: 2.46
+		  card-next-schedule:: 2025-01-05T10:09:30.417Z
+		  card-last-reviewed:: 2025-01-01T10:09:30.418Z
+		  card-last-score:: 5
 			- A certificate authority digitally sighs a certificate with the organizations CA
 			- This certificate can now be included as part of the authentication method
 	- Authorize a device #card
 	  background-color:: green
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2024-12-30T15:00:00.000Z
-	  card-last-reviewed:: 2024-12-30T02:42:16.587Z
-	  card-last-score:: 1
+	  card-last-interval:: 4
+	  card-repeats:: 2
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:42:42.936Z
+	  card-last-reviewed:: 2025-01-01T09:42:42.937Z
+	  card-last-score:: 5
 		- Now that we have authenticated a device or user, we now put them into **groups** these groups will have a set of permissions, this makes it easy to scale permissions
 		- ![image.png](../assets/image_1735465925018_0.png){:height 191, :width 720}
 		- Abstraction #card
@@ -290,8 +428,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2024-12-30T15:00:00.000Z
-	  card-last-reviewed:: 2024-12-30T02:41:31.660Z
+	  card-next-schedule:: 2025-01-01T15:00:00.000Z
+	  card-last-reviewed:: 2025-01-01T09:41:54.209Z
 	  card-last-score:: 1
 		- process the frames, packets, and network data
 			- Switches
@@ -300,12 +438,12 @@
 		- processing, forwarding, trunking, encrypting, NAT
 	- ### Control Plane #card
 	  background-color:: pink
-	  card-last-interval:: 2.05
-	  card-repeats:: 1
-	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2025-01-01T03:49:40.557Z
-	  card-last-reviewed:: 2024-12-30T02:49:40.558Z
-	  card-last-score:: 3
+	  card-last-interval:: 4
+	  card-repeats:: 2
+	  card-ease-factor:: 2.46
+	  card-next-schedule:: 2025-01-05T10:09:37.587Z
+	  card-last-reviewed:: 2025-01-01T10:09:37.587Z
+	  card-last-score:: 5
 		- Manages the actions of the data plane
 		- settings polcies rules for what security a device needs to have
 		- determines how packets sould be forwarded
@@ -334,18 +472,18 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2024-12-30T15:00:00.000Z
-	  card-last-reviewed:: 2024-12-30T02:42:38.468Z
+	  card-next-schedule:: 2025-01-01T15:00:00.000Z
+	  card-last-reviewed:: 2025-01-01T09:43:23.764Z
 	  card-last-score:: 1
 		- combine **adaptive identity** and a **predefined set of rules** based on the adaptive identity data.
 	- ### PEP #card
 	  background-color:: yellow
-	  card-last-interval:: 2.05
+	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2025-01-01T03:47:43.050Z
-	  card-last-reviewed:: 2024-12-30T02:47:43.050Z
-	  card-last-score:: 3
+	  card-next-schedule:: 2025-01-01T15:00:00.000Z
+	  card-last-reviewed:: 2025-01-01T10:09:03.822Z
+	  card-last-score:: 1
 		- Policy Enforcement Point
 		- This is the point where users and devices will be evaluated and data will be collected. It does now enforce any security measures, it passes this information to the **PDP**.
 		- ![image.png](../assets/image_1735523982182_0.png)
@@ -354,8 +492,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2024-12-30T15:00:00.000Z
-	  card-last-reviewed:: 2024-12-30T02:47:59.058Z
+	  card-next-schedule:: 2025-01-01T15:00:00.000Z
+	  card-last-reviewed:: 2025-01-01T09:43:36.407Z
 	  card-last-score:: 1
 		- Policy Decision Point
 		- This takes the data from the **PEP** and enforces a set of predefined security measures.
@@ -365,18 +503,18 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2024-12-30T15:00:00.000Z
-	  card-last-reviewed:: 2024-12-30T02:49:23.924Z
+	  card-next-schedule:: 2025-01-01T15:00:00.000Z
+	  card-last-reviewed:: 2025-01-01T09:44:20.289Z
 	  card-last-score:: 1
 		- Evaulutaes each access decision based on policy and other information sources
 		- Grant, Deny, or Revoke
 	- ### Policy Administrator #card
 	  background-color:: blue
-	  card-last-interval:: 2.05
-	  card-repeats:: 1
-	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2025-01-01T03:41:49.593Z
-	  card-last-reviewed:: 2024-12-30T02:41:49.593Z
+	  card-last-interval:: 4
+	  card-repeats:: 2
+	  card-ease-factor:: 2.22
+	  card-next-schedule:: 2025-01-05T09:45:17.587Z
+	  card-last-reviewed:: 2025-01-01T09:45:17.587Z
 	  card-last-score:: 3
 		- communicates with the polocy Enforcement Point
 		- Generates access tokens or credentials
@@ -472,15 +610,21 @@
 		- Hash does not say who sent the data
 	- ### Proof of origin #card
 	  background-color:: red
-	  card-last-interval:: 2.05
+	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.36
-	  card-next-schedule:: 2025-01-01T03:48:49.711Z
-	  card-last-reviewed:: 2024-12-30T02:48:49.711Z
-	  card-last-score:: 3
+	  card-next-schedule:: 2025-01-01T15:00:00.000Z
+	  card-last-reviewed:: 2025-01-01T10:09:16.226Z
+	  card-last-score:: 1
 		- Verify who sent the data
 		- authentication
-		- Digital signature
+		- ### Digital signature #card
+		  card-last-interval:: 4
+		  card-repeats:: 1
+		  card-ease-factor:: 2.6
+		  card-next-schedule:: 2025-01-05T09:36:41.831Z
+		  card-last-reviewed:: 2025-01-01T09:36:41.832Z
+		  card-last-score:: 5
 			- This is a private key where only the sender knows, it can be verified with a public key.
 		- ![image.png](../assets/image_1735526173356_0.png){:height 253, :width 720}
 - # Video 1.3.1: Change Management
@@ -489,11 +633,32 @@
 		- But their is risk in updating computers, so you need to balance the risk
 			- If a company is busy at a certain time maybe don't make the change then
 			- This would be called finding a good maintenance window
-	- Impact analysis
+	- ### Impact analysis #card
+	  background-color:: yellow
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:33:39.596Z
+	  card-last-reviewed:: 2025-01-01T09:33:39.597Z
+	  card-last-score:: 5
 		- Risk is high medium or low
-	- Backout Plan
+	- ### Back-out Plan #card
+	  background-color:: red
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:33:51.918Z
+	  card-last-reviewed:: 2025-01-01T09:33:51.919Z
+	  card-last-score:: 5
 		- How to revert change if it goes bad
-	- SOP
+	- ### SOP #card
+	  background-color:: pink
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-05T09:30:54.668Z
+	  card-last-reviewed:: 2025-01-01T09:30:54.668Z
+	  card-last-score:: 5
 		- Standard Operating Procedure
 	-
 	-
