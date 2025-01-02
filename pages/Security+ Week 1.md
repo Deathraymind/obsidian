@@ -663,6 +663,12 @@
 - # Video 1.4.1 Public Key Infrastructure
 	- ### PKI #card
 	  background-color:: yellow
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T12:59:44.046Z
+	  card-last-reviewed:: 2025-01-02T12:59:44.046Z
+	  card-last-score:: 5
 		- Public Key Infrastructure
 		- Broad term
 		- Polices that help create distribute manage revoke and store digital certificates
@@ -670,43 +676,103 @@
 		- CA is used in this process
 	- ### Symmetric encryption #card
 	  background-color:: red
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T12:57:55.062Z
+	  card-last-reviewed:: 2025-01-02T12:57:55.062Z
+	  card-last-score:: 5
 		- same key that was used for encrypting is used for decryption
 		- secrete key algorithm
 		- very fast
 	- ### Asymmetric encryption #card
 	  background-color:: pink
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T13:00:25.088Z
+	  card-last-reviewed:: 2025-01-02T13:00:25.088Z
+	  card-last-score:: 5
 		- public and private keys
 		- slower
 	- ### Key Pair #card
 	  background-color:: green
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T12:57:12.947Z
+	  card-last-reviewed:: 2025-01-02T12:57:12.951Z
+	  card-last-score:: 5
 		- lots of randomization
 		- large prime numbers
 		- lots of math
 		- ![image.png](../assets/image_1735784256730_0.png){:height 213, :width 189}
 	- ### Key escrow #card
 	  background-color:: blue
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T12:57:48.621Z
+	  card-last-reviewed:: 2025-01-02T12:57:48.621Z
+	  card-last-score:: 5
 		- someone else holds your decryption keys
 		- a 3rd party or you are locally managing all these keys
 - # Video 1.4.2 Encrypting data
 	- ### Data at rest #card
 	  background-color:: yellow
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T12:57:32.215Z
+	  card-last-reviewed:: 2025-01-02T12:57:32.216Z
+	  card-last-score:: 5
 		- the data on a hard drive
 	- ### EFS #card
 	  background-color:: red
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T12:58:40.395Z
+	  card-last-reviewed:: 2025-01-02T12:58:40.396Z
+	  card-last-score:: 5
 		- Encrytping file system
 		- windows version of encrypting drives and folders
 	- ### Transparent encryption #card
 	  background-color:: pink
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T12:57:25.304Z
+	  card-last-reviewed:: 2025-01-02T12:57:25.305Z
+	  card-last-score:: 5
 		- Encrypt all database information with a symmetric key
 	- ### Record level encryption #card
 	  background-color:: blue
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T12:58:50.462Z
+	  card-last-reviewed:: 2025-01-02T12:58:50.462Z
+	  card-last-score:: 5
 		- encrypt indavidual columns
 		- use a separate symmetric key for each column
 	- ### Symmetric encryption length #card
 	  background-color:: green
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T12:59:29.287Z
+	  card-last-reviewed:: 2025-01-02T12:59:29.287Z
+	  card-last-score:: 5
 		- normally 128-bit
 	- ### Key stretching #card
 	  background-color:: purple
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T12:59:49.144Z
+	  card-last-reviewed:: 2025-01-02T12:59:49.145Z
+	  card-last-score:: 5
 		- encrypt data multiple times with different keys
 - # Video 1.4.3 key exchange
 	- ### out of band key exchange
@@ -726,6 +792,12 @@
 - # Video 1.4.4 Encryption Technologies
 	- ### TPM #card
 	  background-color:: yellow
+	  card-last-interval:: -1
+	  card-repeats:: 1
+	  card-ease-factor:: 2.5
+	  card-next-schedule:: 2025-01-02T15:00:00.000Z
+	  card-last-reviewed:: 2025-01-02T13:00:07.343Z
+	  card-last-score:: 1
 		- Trusted platform module
 		- random number generator, key generator
 		- unique keys burned in during manufacturing
@@ -734,25 +806,55 @@
 		- password protected
 	- ### HSM #card
 	  background-color:: red
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T12:58:01.491Z
+	  card-last-reviewed:: 2025-01-02T12:58:01.492Z
+	  card-last-score:: 5
 		- harware security module
 		- used in large enviorments
 		- securely store thousands of encryption keys
 		- centralized TPM for multiple devices
 	- ### Key management system #card
 	  background-color:: green
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T12:58:20.667Z
+	  card-last-reviewed:: 2025-01-02T12:58:20.667Z
+	  card-last-score:: 5
 		- create and manage keys for things like ssl tls ssh etc
 		- see logs of keys being used in a central location
 	- ### Secure enclave #card
 	  background-color:: blue
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T13:00:16.555Z
+	  card-last-reviewed:: 2025-01-02T13:00:16.556Z
+	  card-last-score:: 5
 		- a seperate proccesor thats for encrpytion
 		- has its own rom and monitors boot processor
 		- popular in phones
 - # Video 1.4.5 Obfuscation
 	- ### Obfuscation #card
 	  background-color:: yellow
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T12:59:54.466Z
+	  card-last-reviewed:: 2025-01-02T12:59:54.467Z
+	  card-last-score:: 5
 		- the process of making something unclear
 	- ### Stenography #card
 	  background-color:: red
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T12:59:16.010Z
+	  card-last-reviewed:: 2025-01-02T12:59:16.011Z
+	  card-last-score:: 5
 		- hiding information within an image
 		- it can also be in any cover data
 			- network packets
@@ -761,6 +863,12 @@
 		- if you know how it was stored you can easily extract the data
 	- ### Tokenization #card
 	  background-color:: pink
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T12:58:27.834Z
+	  card-last-reviewed:: 2025-01-02T12:58:27.835Z
+	  card-last-score:: 5
 		- replace sensitive data with a token
 		- like a social security number can be stored as another number and transferred across the network
 		- its not mathematically related not a form of encryption
@@ -768,20 +876,50 @@
 - # Video 1.4.6 Hashing and Digital Signatures
 	- ### Hash #card
 	  background-color:: yellow
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T12:57:43.330Z
+	  card-last-reviewed:: 2025-01-02T12:57:43.331Z
+	  card-last-score:: 5
 		- represent data as a short string of text
 		- not an encrpytion you cant get the data back
 		- also known as a message digest or finger print
 	- ### SHA256 hash #card
 	  background-color:: red
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T12:58:10.568Z
+	  card-last-reviewed:: 2025-01-02T12:58:10.570Z
+	  card-last-score:: 5
 		- 256 bits/ 64 hexadecimal characters
 	- ### MD5 #card
 	  background-color:: pink
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T12:57:38.237Z
+	  card-last-reviewed:: 2025-01-02T12:57:38.238Z
+	  card-last-score:: 5
 		- has a collision issue don't use
 	- ### Password Storage #card
 	  background-color:: blue
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T13:00:19.997Z
+	  card-last-reviewed:: 2025-01-02T13:00:19.999Z
+	  card-last-score:: 5
 		- is stored as a salted hash
 	- ### Salt #card
 	  background-color:: purple
+	  card-last-interval:: 4
+	  card-repeats:: 1
+	  card-ease-factor:: 2.6
+	  card-next-schedule:: 2025-01-06T12:58:13.200Z
+	  card-last-reviewed:: 2025-01-02T12:58:13.201Z
+	  card-last-score:: 5
 		- random data added to a password when hashing
 		- every user gets their own random salt
 		- rainbow tables wont work with salted hashes
