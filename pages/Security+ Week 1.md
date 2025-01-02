@@ -661,29 +661,29 @@
 	  card-last-score:: 5
 		- Standard Operating Procedure
 - # Video 1.4.1 Public Key Infrastructure
-	- ### PKI
+	- ### PKI #card
 	  background-color:: yellow
 		- Public Key Infrastructure
 		- Broad term
 		- Polices that help create distribute manage revoke and store digital certificates
 		- Lots of planning and decision
 		- CA is used in this process
-	- ### Symmetric encryption
+	- ### Symmetric encryption #card
 	  background-color:: red
 		- same key that was used for encrypting is used for decryption
 		- secrete key algorithm
 		- very fast
-	- ### Asymmetric encryption
+	- ### Asymmetric encryption #card
 	  background-color:: pink
 		- public and private keys
 		- slower
-	- ### Key Pair
+	- ### Key Pair #card
 	  background-color:: green
 		- lots of randomization
 		- large prime numbers
 		- lots of math
 		- ![image.png](../assets/image_1735784256730_0.png){:height 213, :width 189}
-	- ### Key escrow
+	- ### Key escrow #card
 	  background-color:: blue
 		- someone else holds your decryption keys
 		- a 3rd party or you are locally managing all these keys
@@ -742,4 +742,47 @@
 	  background-color:: green
 		- create and manage keys for things like ssl tls ssh etc
 		- see logs of keys being used in a central location
+	- ### Secure enclave #card
+	  background-color:: blue
+		- a seperate proccesor thats for encrpytion
+		- has its own rom and monitors boot processor
+		- popular in phones
+- # Video 1.4.5 Obfuscation
+	- ### Obfuscation #card
+	  background-color:: yellow
+		- the process of making something unclear
+	- ### Stenography #card
+	  background-color:: red
+		- hiding information within an image
+		- it can also be in any cover data
+			- network packets
+			- audio
+			- video
+		- if you know how it was stored you can easily extract the data
+	- ### Tokenization #card
+	  background-color:: pink
+		- replace sensitive data with a token
+		- like a social security number can be stored as another number and transferred across the network
+		- its not mathematically related not a form of encryption
+		- ![image.png](../assets/image_1735787738125_0.png){:height 280, :width 559}
+- # Video 1.4.6 Hashing and Digital Signatures
+	- ### Hash #card
+	  background-color:: yellow
+		- represent data as a short string of text
+		- not an encrpytion you cant get the data back
+		- also known as a message digest or finger print
+	- ### SHA256 hash #card
+	  background-color:: red
+		- 256 bits/ 64 hexadecimal characters
+	- ### MD5 #card
+	  background-color:: pink
+		- has a collision issue don't use
+	- ### Password Storage #card
+	  background-color:: blue
+		- is stored as a salted hash
+	- ### Salt #card
+	  background-color:: purple
+		- random data added to a password when hashing
+		- every user gets their own random salt
+		- rainbow tables wont work with salted hashes
 	-
