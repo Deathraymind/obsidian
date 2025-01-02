@@ -662,27 +662,84 @@
 		- Standard Operating Procedure
 - # Video 1.4.1 Public Key Infrastructure
 	- ### PKI
+	  background-color:: yellow
 		- Public Key Infrastructure
 		- Broad term
 		- Polices that help create distribute manage revoke and store digital certificates
 		- Lots of planning and decision
 		- CA is used in this process
 	- ### Symmetric encryption
+	  background-color:: red
 		- same key that was used for encrypting is used for decryption
 		- secrete key algorithm
 		- very fast
 	- ### Asymmetric encryption
+	  background-color:: pink
 		- public and private keys
 		- slower
 	- ### Key Pair
+	  background-color:: green
 		- lots of randomization
 		- large prime numbers
 		- lots of math
 		- ![image.png](../assets/image_1735784256730_0.png){:height 213, :width 189}
 	- ### Key escrow
+	  background-color:: blue
 		- someone else holds your decryption keys
 		- a 3rd party or you are locally managing all these keys
-	-
-	-
-	-
+- # Video 1.4.2 Encrypting data
+	- ### Data at rest #card
+	  background-color:: yellow
+		- the data on a hard drive
+	- ### EFS #card
+	  background-color:: red
+		- Encrytping file system
+		- windows version of encrypting drives and folders
+	- ### Transparent encryption #card
+	  background-color:: pink
+		- Encrypt all database information with a symmetric key
+	- ### Record level encryption #card
+	  background-color:: blue
+		- encrypt indavidual columns
+		- use a separate symmetric key for each column
+	- ### Symmetric encryption length #card
+	  background-color:: green
+		- normally 128-bit
+	- ### Key stretching #card
+	  background-color:: purple
+		- encrypt data multiple times with different keys
+- # Video 1.4.3 key exchange
+	- ### out of band key exchange
+	  background-color:: yellow
+		- not using the internet to transfer the key
+	- ### In band key exchange
+	  background-color:: red
+		- sent across the network
+		- use asymmetric encryption to send a symmetrical key
+	- ### Session key
+	  background-color:: pink
+		- a temporary key that can be discarded
+	- ### Symmetric keys from private cryptography
+	  background-color:: green
+	- ![image.png](../assets/image_1735785594408_0.png){:height 126, :width 737}
+	- algorithmic that creates a symmetric key from two parties existing private and public keys
+- # Video 1.4.4 Encryption Technologies
+	- ### TPM #card
+	  background-color:: yellow
+		- Trusted platform module
+		- random number generator, key generator
+		- unique keys burned in during manufacturing
+		- storage keys, hardware config information
+		- securely store bit-locker keys
+		- password protected
+	- ### HSM #card
+	  background-color:: red
+		- harware security module
+		- used in large enviorments
+		- securely store thousands of encryption keys
+		- centralized TPM for multiple devices
+	- ### Key management system #card
+	  background-color:: green
+		- create and manage keys for things like ssl tls ssh etc
+		- see logs of keys being used in a central location
 	-
