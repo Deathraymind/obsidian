@@ -924,3 +924,39 @@
 		- every user gets their own random salt
 		- rainbow tables wont work with salted hashes
 	-
+- # Video 1.4.7 Block Chains
+	- ### Block Chain #card
+	  background-color:: yellow
+		- A large amount of computers keeping track of eahcothers data if data is changed on one only then the others will correct or detect avoiding fraud
+		- Examples:
+			- Banks
+			- Crypto
+			- voting
+- # Video 1.4.8 Certificate
+	- ### Digital Certificate
+	  background-color:: yellow
+		- provides trust to a device or user
+		- PKI use CAs for additional trust
+		- Web of trust is where other CAs all authorize people
+	- ### X.509
+	  background-color:: red
+		- The standard for digital certificates
+		- Serial number
+		- version
+		- signature algorithm
+		- issuer
+		- Public key
+		- extensions
+	- ### Root of Trust #card
+	  background-color:: green
+		- the base level trust
+		- Examples
+			- HSM of a computer
+			- CA for a website and browser will have a list of trusted certificate authoritaties
+		- ### CSR #card
+		  background-color:: blue
+			- Certificate sighing request
+			- Created from a public and private key and the CA will sign it with their private key and give it back
+			- ![image.png](../assets/image_1735896256057_0.png){:height 220, :width 313}
+		-
+	-

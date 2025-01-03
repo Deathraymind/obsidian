@@ -128,10 +128,13 @@
   To integrate Looking Glass:
   
   ```xml
-  <shmem name='looking-glass'>
-    <model type='ivshmem-plain'/>
-    <size unit='M'>32</size>
-  </shmem>
+  <devices>
+    <shmem name='looking-glass'>
+      <model type='ivshmem-plain'/>
+      <size unit='M'>32</size>
+    </shmem>
+    <!-- other device configurations -->
+  </devices>
   ```
   
   ```bash
