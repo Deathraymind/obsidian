@@ -21,12 +21,18 @@
 		- TODO Week 2: Section 2 Threats Vulnerabilties and Mitagations
 		  id:: 676fc7b9-91f1-497b-9876-c1f93819eaae
 		  SCHEDULED: <2025-01-10 Fri>
-			- DOING  2.1
+			- DONE  2.1
 			  :LOGBOOK:
-			  CLOCK: [2025-01-07 Tue 16:25:10]
+			  CLOCK: [2025-01-07 Tue 16:25:10]--[2025-01-09 Thu 09:43:10] =>  41:18:00
 			  :END:
-			- TODO 2.2
-			- TODO  2.3
+			- DONE 2.2
+			  :LOGBOOK:
+			  CLOCK: [2025-01-09 Thu 09:43:11]--[2025-01-09 Thu 10:33:55] =>  00:50:44
+			  :END:
+			- DOING  2.3
+			  :LOGBOOK:
+			  CLOCK: [2025-01-09 Thu 10:33:53]
+			  :END:
 			- TODO 2.4
 			- TODO 2.5
 		- TODO Week 3: Section 3 Security Architecture
