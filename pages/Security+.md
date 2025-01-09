@@ -1,11 +1,11 @@
 - This is my plan for getting security + in the next two months
 	- Watch and read all [Professor Messer](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/) videos
-		- NOW Week 1: Section 1 General Security Concepts 18 Videos
+		- DONE Week 1: Section 1 General Security Concepts 18 Videos
 		  SCHEDULED: <2025-01-03 Fri>
 		  id:: 676fc78f-b7d9-4ce3-8b35-d25e21b72076
 		  :LOGBOOK:
 		  CLOCK: [2024-12-28 Sat 20:44:48]--[2024-12-28 Sat 20:44:49] =>  00:00:01
-		  CLOCK: [2024-12-28 Sat 20:44:49]
+		  CLOCK: [2024-12-28 Sat 20:44:49]--[2025-01-03 Fri 18:31:24] =>  141:46:35
 		  :END:
 			- DONE 1.1
 			- DONE 1.2
@@ -17,10 +17,18 @@
 			  CLOCK: [2024-12-30 Mon 17:28:58]--[2024-12-30 Mon 19:03:24] =>  01:34:26
 			  CLOCK: [2024-12-30 Mon 19:03:25]--[2024-12-30 Mon 19:03:26] =>  00:00:01
 			  :END:
-			- TODO 1.4
+			- DONE 1.4
 		- TODO Week 2: Section 2 Threats Vulnerabilties and Mitagations
 		  id:: 676fc7b9-91f1-497b-9876-c1f93819eaae
 		  SCHEDULED: <2025-01-10 Fri>
+			- DOING  2.1
+			  :LOGBOOK:
+			  CLOCK: [2025-01-07 Tue 16:25:10]
+			  :END:
+			- TODO 2.2
+			- TODO  2.3
+			- TODO 2.4
+			- TODO 2.5
 		- TODO Week 3: Section 3 Security Architecture
 		  id:: 676fc7d7-b2af-41b0-9189-94ea904cb1a3
 		  SCHEDULED: <2025-01-17 Fri>
