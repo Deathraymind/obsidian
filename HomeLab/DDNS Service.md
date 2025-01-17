@@ -7,16 +7,16 @@ This section outlines the process of setting up a Docker container to automatica
 	  
 	  2. **Paste the Following Configuration**
 	- Use this Docker Compose configuration:
-	  ```
-	  `version: '2'`
-	  `services:`
-	  `cloudflare-ddns:`
-	  `image: oznu/cloudflare-ddns:latest`
-	  `restart: always`
-	  `environment:`
-	  `- API_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`
-	  `- ZONE=deathraymind.net`
-	  `- PROXIED=true`
+	  ``` yaml
+	  version: '2'
+	  services:
+	    cloudflare-ddns:
+	      image: oznu/cloudflare-ddns:latest
+	      restart: always
+	      environment:
+	        - API_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	        - ZONE=deathraymind.net
+	        - PROXIED=true
 	  
 	  ```
 - ## Obtaining the API Key from Cloudflare

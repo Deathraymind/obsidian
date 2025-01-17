@@ -21,17 +21,22 @@
   ```yaml
   version: '3.8'
   services:
-  app:
-    image: 'jc21/nginx-proxy-manager:latest'
-    restart: unless-stopped
-    ports:
-      - '80:80'
-      - '81:81'
-      - '443:443'
-    volumes:
-      - /home/#YourUsername#/dockerdata/NGINXProxyManager/data:/data
-      - /home/#YourUsername#/dockerdata/NGINXProxyManager/letsencrypt:/etc/letsencrypt
+    app:
+    	image: 'jc21/nginx-proxy-manager:latest'
+    	restart: unless-stopped
+    	ports:
+      	- '80:80'
+      	- '81:81'
+      	- '443:443'
+    	volumes:
+      	- /home/#YourUsername#/dockerdata/NGINXProxyManager/data:/data
+      	- /home/#YourUsername#/dockerdata/NGINXProxyManager/letsencrypt:/etc/letsencrypt
+    
   ```
+- ```bash
+  docker-compose up -d
+  ```
+- #Docker
 - ## Access pfSense Router
 - ### Purpose
   To configure your network to allow traffic to your Nginx instance.

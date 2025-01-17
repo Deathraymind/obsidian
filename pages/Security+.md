@@ -29,11 +29,14 @@
 			  :LOGBOOK:
 			  CLOCK: [2025-01-09 Thu 09:43:11]--[2025-01-09 Thu 10:33:55] =>  00:50:44
 			  :END:
-			- DOING  2.3
+			- DONE  2.3
 			  :LOGBOOK:
-			  CLOCK: [2025-01-09 Thu 10:33:53]
+			  CLOCK: [2025-01-09 Thu 10:33:53]--[2025-01-09 Thu 17:11:20] =>  06:37:27
 			  :END:
-			- TODO 2.4
+			- DOING 2.4
+			  :LOGBOOK:
+			  CLOCK: [2025-01-09 Thu 20:33:18]
+			  :END:
 			- TODO 2.5
 		- TODO Week 3: Section 3 Security Architecture
 		  id:: 676fc7d7-b2af-41b0-9189-94ea904cb1a3
