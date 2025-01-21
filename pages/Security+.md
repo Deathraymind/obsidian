@@ -18,7 +18,7 @@
 			  CLOCK: [2024-12-30 Mon 19:03:25]--[2024-12-30 Mon 19:03:26] =>  00:00:01
 			  :END:
 			- DONE 1.4
-		- TODO Week 2: Section 2 Threats Vulnerabilties and Mitagations
+		- DONE Week 2: Section 2 Threats Vulnerabilties and Mitagations
 		  id:: 676fc7b9-91f1-497b-9876-c1f93819eaae
 		  SCHEDULED: <2025-01-10 Fri>
 			- DONE  2.1
@@ -33,14 +33,21 @@
 			  :LOGBOOK:
 			  CLOCK: [2025-01-09 Thu 10:33:53]--[2025-01-09 Thu 17:11:20] =>  06:37:27
 			  :END:
-			- DOING 2.4
+			- DONE 2.4
 			  :LOGBOOK:
-			  CLOCK: [2025-01-09 Thu 20:33:18]
+			  CLOCK: [2025-01-09 Thu 20:33:18]--[2025-01-20 Mon 17:26:14] =>  260:52:56
 			  :END:
-			- TODO 2.5
-		- TODO Week 3: Section 3 Security Architecture
-		  id:: 676fc7d7-b2af-41b0-9189-94ea904cb1a3
+			- DONE 2.5
+		- DOING Week 3: Section 3 Security Architecture
 		  SCHEDULED: <2025-01-17 Fri>
+		  id:: 676fc7d7-b2af-41b0-9189-94ea904cb1a3
+		  :LOGBOOK:
+		  CLOCK: [2025-01-20 Mon 17:33:40]
+		  :END:
+			- TODO 3.1
+			- TODO 3.2
+			- TODO 3.3
+			- TODO 3.4
 		- TODO Week 4: Security Operations
 		  id:: 676fc7f3-26f3-41b0-90f4-7f17cfac70ca
 		  SCHEDULED: <2025-01-24 Fri>
@@ -49,4 +56,3 @@
 		  SCHEDULED: <2025-01-31 Fri>
 	- [Practice Tests](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests)
 	- Purchase ASAP [!](https://www.professormesser.com/amember/signup/sy0701cnpec)
-	-

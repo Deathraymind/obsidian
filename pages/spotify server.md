@@ -1,0 +1,3 @@
+-
+- `yarn create react-app client`
+- npm install axios
