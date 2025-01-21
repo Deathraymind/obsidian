@@ -44,9 +44,15 @@
 		  :LOGBOOK:
 		  CLOCK: [2025-01-20 Mon 17:33:40]
 		  :END:
-			- TODO 3.1
-			- TODO 3.2
-			- TODO 3.3
+			- DONE 3.1
+			- DONE 3.2
+			  :LOGBOOK:
+			  CLOCK: [2025-01-21 Tue 14:36:28]--[2025-01-21 Tue 17:48:01] =>  03:11:33
+			  :END:
+			- DOING 3.3
+			  :LOGBOOK:
+			  CLOCK: [2025-01-21 Tue 17:48:03]
+			  :END:
 			- TODO 3.4
 		- TODO Week 4: Security Operations
 		  id:: 676fc7f3-26f3-41b0-90f4-7f17cfac70ca
