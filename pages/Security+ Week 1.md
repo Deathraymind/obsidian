@@ -856,6 +856,7 @@
 	  card-last-reviewed:: 2025-01-14T13:02:52.961Z
 	  card-last-score:: 5
 		- the process of making something unclear
+		- developer making code very hard to read
 	- ### Stenography #card
 	  background-color:: red
 	  card-last-interval:: 11.2

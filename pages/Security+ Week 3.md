@@ -224,9 +224,46 @@
 	  background-color:: green
 		- data that resides in a country has to follow its regulations
 - # Video 3.3.3 Protecting Data
-  
-  ---
+	- ### network location #card
+	  background-color:: red
+		- identify based on ip subnet
+		- GPS
+		- 802.11
+		- Ip addresses, not accurate
+	- ### Geo Fencing
+	  background-color:: yellow
+		- locking data based on where the user is
+		- if a dude is in the building he can access the data if hes at home he cant
+- ---
 - # Video 3.4.1 Resiliency
+	- ### HA #card
+	  background-color:: red
+		- High Availability
+		- system running in parallel for if the main one fails
+		- $$$
+	- ### Server Clustering #card
+	  background-color:: pink
+		- combine two or more servers
+		- scalable
+		- usually within the OS
+		- ![image.png](../assets/image_1737455763879_0.png){:height 239, :width 323}
+	- ### Site resiliency #card
+	  background-color:: blue
+		- where a whole network is off site when the main one fails
+	- ### Hot site
+		- a data center where are the data is duplicated
+	- ### Cold Site
+		- Empty Building
+		- bring all data and equipment and people to run the site
+	- ### Warm Site
+		- some equipment is on site
+	- ### Geographic dispersion
+		- these sites should be physically different than the organizations primary location
+	- ### Platform Diversity
+		- keep systems diverse in case one OS has a vulnerability
+	- ### COOP
+		- Continuity of operation planning
+		- in case tech fails how do  we do things manually or differently
 - # Video 3.4.2 Capacity Planning
 - # Video 3.4.3 Recovery Testing
 - # Video 3.4.4 Backups

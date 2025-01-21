@@ -49,9 +49,9 @@
 			  :LOGBOOK:
 			  CLOCK: [2025-01-21 Tue 14:36:28]--[2025-01-21 Tue 17:48:01] =>  03:11:33
 			  :END:
-			- DOING 3.3
+			- DONE 3.3
 			  :LOGBOOK:
-			  CLOCK: [2025-01-21 Tue 17:48:03]
+			  CLOCK: [2025-01-21 Tue 17:48:03]--[2025-01-21 Tue 18:18:16] =>  00:30:13
 			  :END:
 			- TODO 3.4
 		- TODO Week 4: Security Operations
