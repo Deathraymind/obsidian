@@ -303,180 +303,222 @@
 	  card-last-reviewed:: 2025-01-27T03:10:49.506Z
 	  card-last-score:: 5
 		- Common venerability scoring system
-		  <<<<<<< HEAD
 		- scores vulnerabilities based on severity
-	- Vulnerability scanner
+	- ### Vulnerability scanner #card
+	  background-color:: pink
 		- can scan apps web apps and others
 		- firewalls switches
 		- can tell you what you can do to fix somtimes
-	- Exposure Factor
+	- ### Exposure Factor #card
+	  background-color:: green
 		- the percetage that the vulnerbility could fail the service
 		- a DDoS could limit the service to 50%
 		  a buffer overflow could crash the app and take it down 100%
-	- Enviorment variables
+	- ### Environment variables
+	  background-color:: blue
 		- how important is the device to the network
 		- how many users rely on it is it part of the main network?
-	- Risk tolernece
+	- ### Risk tolerance
+	  background-color:: purple
 		- Low tolerence means it needs to be patched
 		- high tolerance means meh we can patch other stuff
 - # Video 4.3.5 Vulnerability Remediation
-	- ### Insurance
+	- ### Insurance #card
+	  background-color:: green
 		- offload risk to others
-	- ### Ways you can segment a network
+	- ### Ways you can segment a network #card
+	  background-color:: blue
 		- physical
 		- logical w/ vlans
 		- firewalls
-	- ### compensating controles
+	- ### compensating controles #card
+	  background-color:: purple
 		- when you cant deploy a patch
 		- no internal firewalls
 		- you can disable the service or limit external use, or modify the security controls and software firewalls to  block a port that the service uses
-	- ### Exception or exemption
+	- ### Exception or exemption #card
+	  background-color:: red
 		- when a service can not be patched
 		- you want to provide the service but also want to protect the data and systems
 		- this will be determined by the severity of the exploit and how it can be exploited
 			- for example a user may need to be local to exploit the service
-	- ### Validation of remediation
+	- ### Validation of remediation #card
+	  background-color:: yellow
 		- make sure the patch did what it was supposed to do
 		- preform a scan of the app to see the change
 		- audits can be preformed to check that the patch actauly happened
 - # Video 4.4.1 Security Monitoring
 -
 - # Video 4.4.2 Security Tools
-	- ### SCAP
+	- ### SCAP #card
+	  background-color:: yellow
 		- Security Content Automation protocol
 		- managed by the NIST
 		- Firewalls IPS, vulnerability scanners etc
-	- ### NIST
+	- ### NIST #card
+	  background-color:: red
 		- National institute of Standards and Technology
-	- ### Agent / agentless
+	- ### Agent / agentless #card
+	  background-color:: green
 		- Scans stuff automatically pre installed app on the system
 		- an agentless is a app that is temperarily installed during a certian process not on the machien the whoel time
-	- DLP
+	- ### DLP #card
+	  background-color:: blue
 		- Data loss prevention
 		- make sure data like socials credits and what not are not leaking
 		- use multiple enpoints and collaborative tools to monitor the data leaving
 		- Data in memory would use a endpoint DLP
-	- SNMP
+	- ### SNMP #card
+	  background-color:: purple
 		- Simple network managment protocol
-	- MIB
+	- ### MIB #card
+	  background-color:: yellow
 		- Managment information base
-	- OIDs
+	- ### OIDs #card
+	  background-color:: pink
 		- Object identifiers
-	- SNMP traps
+	- ### SNMP traps #card
+	  background-color:: purple
 		- SNMP data transfer requires a poll request
 		- you can root out fake devices by sending i regular poll requests
 		- communicates over 162/udp
 		- if the CRC error increases by 5 send a trap
-	- NetFlow
+	- ### NetFlow #card
+	  background-color:: red
 		- A standard for monitoring data on a network
 		- ususaly included in hardware like switches or routers
 		- Some agents have comparability with it as well
 		- ![image.png](../assets/image_1738110921955_0.png){:height 304, :width 541}
 - # Video 4.5.1 Firewalls
-	- Microsoft RDP
+	- ### Microsoft RDP #card
+	  background-color:: green
 		- port 3389
-	- NTP
+	- ### NTP #card
+	  background-color:: blue
 		- Network Time Protocol
 		- port 123
-	- Web server Firewall Rules
+	- ### Web server Firewall Rules #card
+	  background-color:: purple
 		- rule number
 		- remote ip
 		- remote port
 		- local port
 		- protocol
 		- action- allow/deny
-	- Screened sub-net
+	- ### Screened sub-net #card
+	  background-color:: red
 		- an aditional layer of security between you and the internet
 		-
 	-
 - # Video 4.5.2 Web Filtering
-	- Content Filter
+	- ### Content Filter #card
+	  background-color:: yellow
 		- URL Filter
 		- proxy or agents
 		- controller what data is going in and out
 		- block urls for sensitive information and malware
 		- reputation
 			- based on the risk of the site, if its trusted or not
-	- URI
+	- ### URI #card
+	  background-color:: blue
 		- Uniform Resource Identifier
 		- Allow or restrict based on unifrom resource location
 		- block/allow list
-	- Agent Based
+	- ### Agent Based #card
+	  background-color:: purple
 		- Install client sofrware on a users device
 		- these are managed by a cenral location
 		- but decisions are made locally on the users device no matter the network the user is on
-	- DNS Filtering
+	- ### DNS Filtering #card
+	  background-color:: red
 		- block the user from getting the ip address associated with a domain name
 	-
 - # Video 4.5.3 Operating System Security
-	- Active Directory
-	- Group Policies
-	- SELinux
+	- ### Active Directory #card
+	  background-color:: red
+		- Group Policies
+	- ### SELinux #card
+	  background-color:: yellow
 		- Security enhanced Linux
 		- Provided least privilege for admins
-	- DAC
+	- ### DAC #card
+	  background-color:: green
 		- Discretionary Access Control
 	-
 - # Video 4.5.4 Secure Protocols
 	-
 - # Video 4.5.5 Email Security
-	- Mail Gateway
+	- ### Mail Gateway #card
+	  background-color:: blue
 		- evualates the source of the inbound email messeges
 		- on site or cloud-based
 		- One premises will probs be on a screened subset
-	- SPF
+	- ### SPF #card
+	  background-color:: purple
 		- Sender Policy Framework
 		- Sender configures a list of all servers authorized to send emails for a domain
 		- tells who can send mail on your behalf
 		- This information is held in a TXT record
-	- DKIM
+	- ### DKIM #card
+	  background-color:: green
 		- Domain Keys identified mail
 		- Digitally sign all outgoing mail
 		- Mail Gateway can query this signature to be sure that the mail actually came from where it says
-	- DMARC
+	- ### DMARC #card
+	  background-color:: pink
 		- Domain-based message authentication reporting and conformance
 		- What to do with a invalidated emails
 		- can create reports about mail
 		-
 - # Video 4.5.6 Monitoring Data
-	- FIM
+	- ### FIM #card
+	  background-color:: yellow
 		- file integrity monitoring
 		- some files sould never change
 		- SFC windows System File Checker
 		- **Tripwire for linux**
-	- Cloud-Based DLP
+	- ### Cloud-Based DLP #card
+	  background-color:: red
 		- running in the cloud
 		- checks data in a cloud based application
-	- DLP Email
+	- ### DLP Email #card
+	  background-color:: blue
 		- blocks emails inbound and outbound with sensitive information
 	-
 - # Video 4.5.7 Endpoint Security
-	- Edge
+	- ### Edge #card
+	  background-color:: blue
 		- where the outside network meets the inside network
 		- firewall
-	- Do a posture assessment
+	- ### Do a posture assessment #card
+	  background-color:: pink
 		- can be done with a persistent agent
 		- or dis solvable agent
 		- Agent-less NAC
 			- activates when you login or out of a AD database?>P:)
-		- XDR
+		- ### XDR #card
+		  background-color:: pink
 			- Extended Detection and Response
 			- double check the EDR
 			- XDR monitors multiple devicesty
 - # Video 4.6.1 Identity and Access Management
-	- IAM
+	- ### IAM #card
+	  background-color:: yellow
 		- identity and access management
 		- give the correct accsess to the user
 		- revoke the correct access from the user
-	- Identity proofing
+	- ### Identity proofing #card
+	  background-color:: red
 		- the that sould confirm who the user really is
 		- background check
 		- ask where they use to live and any other identifiable information to prove they are really who they say they are
-	- SSO
+	- ### SSO #card
+	  background-color:: pink
 		- Single sign on
 		- one login and you get all resources such as file shares and printers
 		- on a timer for a certain amount of time
-	- LDAP
+	- ### LDAP #card
+	  background-color:: blue
 		- Lightweight Directory Access Protocol
 		- used for reading and writing direcotries
 			- like phone number list
@@ -484,113 +526,143 @@
 		- attribute=value pairs
 		- has a directory information tree and any information as a leaf
 		- ![image.png](../assets/image_1738395329351_0.png){:height 360, :width 232}
-	- SAML
+	- ### SAML #card
+	  background-color:: pink
 		- Security Assertions Markup Language
 		- Open standard for authenticating and authorization
 		- Not compatible with mobile apps/or more than 1 device
-		- ![image.png](../assets/image_1738395476616_0.png){:height 275, :width 397}
-	- OAuth
+		- ![image.png](../assets/image_1738395476616_0.png){:height 198, :width 397}
+	- ### OAuth #card
+	  background-color:: blue
 		- authorization framework
 		- determines what resources a user will be able to access
-	- Federation
+	- ### Federation #card
+	  background-color:: purple
 		- use authetication without a local database
 		- login with Facebook, linkdn, twitter
-	- Interoperability
+	- ### Interoperability #card
+	  background-color:: red
 		- make sure resources are all compatable
 		- a vpn concentration that has LDAP support and you already have a LDAP server so perfect math
 	-
 - # Video 4.6.2 Access Controls
-- Access controls
-	- least privilege
+- ### Access controls
+	- ### least privilege #card
+	  background-color:: red
 		- run with minimal
-	- MAC
+	- ### MAC #card
+	  background-color:: green
 		- madatory access control
 		- every object gets a label
 			- confidential, secret, top secret
 		- the admin controls what user get to see what tags
-	- Discretionary Access Control
+	- ### Discretionary Access Control #card
+	  background-color:: blue
 		- as the owner you choose who can accsess it
 		- google spreadsheet
 		- very weak security
-	- Role-Based access control
+	- ### Role-Based access control #card
+	  background-color:: purple
 		- RBAC
 		- Manager, director team lead and project managment groups
 		- the admin assigns the permissions and the users to the groups
-	- Rule-based access control
+	- ### Rule-based access control #card
+	  background-color:: yellow
 		- the users do not create any thing
 		- admins do everything
 			- they create a rule and associate it with a object if a user tries to access that object they have to follow that rule
 			- example: data in a lab is lab data and can only be access from 5pm to 9pm
-	- Atribute-based access control
+	- ### Atribute-based access control #card
+	  background-color:: red
 		- ABAC
 		- next generation of a authorization model
 		- looks at resource information, ip address, time of day, desired action, relationship to  the data, etc
-	- Time-of-day restrictions
+	- ### Time-of-day restrictions #card
+	  background-color:: pink
 		- almost all securty devices include a time of day option
 		- restricts  access during certain times or days of the week
 		- has to account for what time zone the user is in
 - # Video 4.6.3 Multifactor Authentication
-	- Something you know
+	- ### Something you know #card
+	  background-color:: yellow
 		- password
-	- Something you have
+	- ### Something you have #card
+	  background-color:: red
 		- smart key
-	- Somewhere you are
+	- ### Somewhere you are #card
+	  background-color:: green
 		- GPS or location
-	- Something you are
+	- ### Something you are #card
+	  background-color:: blue
 		- bio metric
 	-
 - # Video 4.6.4 Password Security
 - # Video 4.7.1 Scripting and Automation
 -
 - # Video 4.8.1 Incident Response
-	- NIST SP 800-61
+	- ### NIST SP 800-61 #card
+	  background-color:: yellow
 		- Computer security incident handling guide
 		- Preparation detection isolating and studying
-	- Preparing for an incident
+	- ### Preparing for an incident #card
+	  background-color:: red
 		- Have a list of communication that you go through
 		- Have backup laptops remove media forensics and whatnot
 		- Have documentation
 		- Policies for people to follow during the incident
 - # Video 4.8.2 Incident Planning
-	- Test yourself
+	- ### Test yourself #card
+	  background-color:: yellow
 		- Tabletop exercise
 		- Small exercise, sit at a table and discuss what you would do without creating a whole simulation
-	- Threat hunting
+	- ### Threat hunting #card
+	  background-color:: red
 		- Find the attacker before they find you
 		- Find the vulnerability
 		- Hard to do
 - # Video 4.8.3 Digital Forensics
-	- RFC 3226 Guidelines for evidence collection and digital archiving
+	- background-color:: yellow
+	  
+	  RFC 3226 Guidelines for evidence collection and digital archiving
 - # Video 4.9.1 Log Data
-	- Firewall logs
+	- ### Firewall logs #card
+	  background-color:: yellow
 		- All traffic from inside to outside
 		- source/destination ips
 		- Port numbers
 		- Macs
-	- Applications log
+	- ### Applications log #card
+	  background-color:: red
 		- Specific to the application
 		- Event viewer application log
-	- End point logs
+	- ### End point logs #card
+	  background-color:: pink
 		- phones laptops tablets desktops servers
 		- Can be rolled out to a SIEM
 		- System events processes account management
-	- OS security logs
+	- ### OS security logs #card
+	  background-color:: green
 		- Monitoring apps
 		- Brute force, file changes
 		- Authentication details
 		- Dont require everyhting, so many logs
-	- IPS/IDS logs
+	- ### IPS/IDS logs #card
+	  background-color:: blue
 		- Usually integrated into a NGFW
 		- Going to show known vulnerabilities and known attacks
-	- Network logs
+	- ### Network logs #card
+	  background-color:: yellow
 		- Switches routers aps ect
 		- Change in routing table
 		- Show login logs
-	- Metadata
+	- ### Metadata #card
+	  background-color:: pink
 		- Data that describes other data sources
 		- Shows something like email headers
-	- Vulnerbility Scans
+	- ### Vulnerability Scans #card
+	  background-color:: red
 		- Shows lack of firewall anti virus anti-spyware
 		- Old versions of OS
-	- Dashboard
+	- ### Dashboard #card
+	  background-color:: blue
 		- Real time status information
