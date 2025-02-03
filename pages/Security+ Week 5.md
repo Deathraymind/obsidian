@@ -189,9 +189,79 @@
 		- can be used as a prediction or calculated based on historical factors
 -
 - # Video 5.3.1 – Third-party Risk Assessment
-	-
+	- Third-party risk
+		- company data is often shared
+		- so you have to do a risk assesment with that third party
+		- add risk assessment in the contract
+	- Pen-testing
+		- is a third party risk assessment
+		- yourself and the third party do penetrating
+		- often done through another third party
+		- Rules of engagment
+			- the rules and scope of a risk assessment/ pen test
+			- ip address emergency contacts and how to handle sensitive information
+	- Right to audit clauses
+		- common to work with business partners
+		- data sharing outsourcing
+		- basically how both the company and the third party are able to  share security requirements and rules for eachother
+	- evidence of internal audits
+		- audits are done by third party
+		- focusing on the security control between the third party and the company
+			- passwords off boarding how to access vpn\
+	- Supply chain analysis
+		- the system involved when creating a product
+		- identify the chain of where software and hardware comes from
+	- independent assessments
+		- bring a smart person to the team to get a new perspective
+		- specilists in their feild will go more in depth
+	- vendor selection process
+		- investigating and veryfiying that a company is legit
+		- background checks with indaviduals
+		- their is somtimes a conflict of intrest
+	- vendor monitoring
+		- you will want to keep an eye on the vendor to be sure that you are secure
+		- make sure the company is not haveing any issues
+		- group of individuals are in charge of monitoring
+	- qeustionnaires
+		- what is the vendors due diligence process
+		- what plans are in place for disaster recovery
+		-
 - # Video 5.3.2 – Agreement Types
+	- SLA
+		- Service level agreement
+		- uptime response time agreement
+		- a list of complineces that the third party must agree on
+		- example
+			- a customer of a ISP will want backup hardware on site in case theirs goes down
+	- MOU
+		- medorandom of understanding
+		- both sides agree to the contents
+		- informal may contain statements of confidentiality
+	- MOA
+		- memorandum of agreement
+		- both sides conditionally agree to the objectives
+		- can be done in a legal document
+		- unlike a document they are not legally enforceable
+	- MSA
+		- master service agreement
+		- legal contract that sets the terms between companies
+		- detailed nagortians, future projects will be based on this agreement
+	- WO or SOW
+		- work order statement of work
+		- specific list of items to be completed
+		- used on conjuction with a MSA
+		- detailed scope of the job location deleverables scedual acceptance criteria
+		- if the job was done properly lets refer to a SOW
+	- NDA
+		- non disclosure agreement
+		- agree to hush up
+		- this can be one way or multilateral
+	- BPA
+		- buisness partners agreement
+		- going into business together
+		- who get to make decisions what happens when something goes wrong
 - # Video 5.4.1 – Compliance
+	-
 - # Video 5.4.2 – Privacy
 - # Video 5.5.1 – Audits and Assessments
 - # Video 5.5.2 – Penetration Tests
