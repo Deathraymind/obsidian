@@ -303,7 +303,7 @@
 	  card-last-reviewed:: 2025-01-27T03:10:49.506Z
 	  card-last-score:: 5
 		- Common venerability scoring system
-<<<<<<< HEAD
+		  <<<<<<< HEAD
 		- scores vulnerabilities based on severity
 	- Vulnerability scanner
 		- can scan apps web apps and others
@@ -464,27 +464,133 @@
 			- double check the EDR
 			- XDR monitors multiple devicesty
 - # Video 4.6.1 Identity and Access Management
-- d
-=======
-		-
-- # Video 4.3.5 Vulnerability Remediation
--
-- # Video 4.4.1 Security Monitoring
-- # Video 4.4.2 Security Tools
-- # Video 4.5.1 Firewalls
-- # Video 4.5.2 Web Filtering
-- # Video 4.5.3 Operating System Security
-- # Video 4.5.4 Secure Protocols
-- # Video 4.5.5 Email Security
-- # Video 4.5.6 Monitoring Data
-- # Video 4.5.7 Endpoint Security
-- # Video 4.6.1 Identity and Access Management
->>>>>>> 48190a4e2e338162201162a068e0670471c8cd32
+	- IAM
+		- identity and access management
+		- give the correct accsess to the user
+		- revoke the correct access from the user
+	- Identity proofing
+		- the that sould confirm who the user really is
+		- background check
+		- ask where they use to live and any other identifiable information to prove they are really who they say they are
+	- SSO
+		- Single sign on
+		- one login and you get all resources such as file shares and printers
+		- on a timer for a certain amount of time
+	- LDAP
+		- Lightweight Directory Access Protocol
+		- used for reading and writing direcotries
+			- like phone number list
+		- has a
+		- attribute=value pairs
+		- has a directory information tree and any information as a leaf
+		- ![image.png](../assets/image_1738395329351_0.png){:height 360, :width 232}
+	- SAML
+		- Security Assertions Markup Language
+		- Open standard for authenticating and authorization
+		- Not compatible with mobile apps/or more than 1 device
+		- ![image.png](../assets/image_1738395476616_0.png){:height 275, :width 397}
+	- OAuth
+		- authorization framework
+		- determines what resources a user will be able to access
+	- Federation
+		- use authetication without a local database
+		- login with Facebook, linkdn, twitter
+	- Interoperability
+		- make sure resources are all compatable
+		- a vpn concentration that has LDAP support and you already have a LDAP server so perfect math
+	-
 - # Video 4.6.2 Access Controls
+- Access controls
+	- least privilege
+		- run with minimal
+	- MAC
+		- madatory access control
+		- every object gets a label
+			- confidential, secret, top secret
+		- the admin controls what user get to see what tags
+	- Discretionary Access Control
+		- as the owner you choose who can accsess it
+		- google spreadsheet
+		- very weak security
+	- Role-Based access control
+		- RBAC
+		- Manager, director team lead and project managment groups
+		- the admin assigns the permissions and the users to the groups
+	- Rule-based access control
+		- the users do not create any thing
+		- admins do everything
+			- they create a rule and associate it with a object if a user tries to access that object they have to follow that rule
+			- example: data in a lab is lab data and can only be access from 5pm to 9pm
+	- Atribute-based access control
+		- ABAC
+		- next generation of a authorization model
+		- looks at resource information, ip address, time of day, desired action, relationship to  the data, etc
+	- Time-of-day restrictions
+		- almost all securty devices include a time of day option
+		- restricts  access during certain times or days of the week
+		- has to account for what time zone the user is in
 - # Video 4.6.3 Multifactor Authentication
+	- Something you know
+		- password
+	- Something you have
+		- smart key
+	- Somewhere you are
+		- GPS or location
+	- Something you are
+		- bio metric
+	-
 - # Video 4.6.4 Password Security
 - # Video 4.7.1 Scripting and Automation
+-
 - # Video 4.8.1 Incident Response
+	- NIST SP 800-61
+		- Computer security incident handling guide
+		- Preparation detection isolating and studying
+	- Preparing for an incident
+		- Have a list of communication that you go through
+		- Have backup laptops remove media forensics and whatnot
+		- Have documentation
+		- Policies for people to follow during the incident
 - # Video 4.8.2 Incident Planning
+	- Test yourself
+		- Tabletop exercise
+		- Small exercise, sit at a table and discuss what you would do without creating a whole simulation
+	- Threat hunting
+		- Find the attacker before they find you
+		- Find the vulnerability
+		- Hard to do
 - # Video 4.8.3 Digital Forensics
+	- RFC 3226 Guidelines for evidence collection and digital archiving
 - # Video 4.9.1 Log Data
+	- Firewall logs
+		- All traffic from inside to outside
+		- source/destination ips
+		- Port numbers
+		- Macs
+	- Applications log
+		- Specific to the application
+		- Event viewer application log
+	- End point logs
+		- phones laptops tablets desktops servers
+		- Can be rolled out to a SIEM
+		- System events processes account management
+	- OS security logs
+		- Monitoring apps
+		- Brute force, file changes
+		- Authentication details
+		- Dont require everyhting, so many logs
+	- IPS/IDS logs
+		- Usually integrated into a NGFW
+		- Going to show known vulnerabilities and known attacks
+	- Network logs
+		- Switches routers aps ect
+		- Change in routing table
+		- Show login logs
+	- Metadata
+		- Data that describes other data sources
+		- Shows something like email headers
+	- Vulnerbility Scans
+		- Shows lack of firewall anti virus anti-spyware
+		- Old versions of OS
+	- Dashboard
+		- Real time status information

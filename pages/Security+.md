@@ -38,11 +38,11 @@
 			  CLOCK: [2025-01-09 Thu 20:33:18]--[2025-01-20 Mon 17:26:14] =>  260:52:56
 			  :END:
 			- DONE 2.5
-		- DOING Week 3: Section 3 Security Architecture
+		- DONE Week 3: Section 3 Security Architecture
 		  SCHEDULED: <2025-01-17 Fri>
 		  id:: 676fc7d7-b2af-41b0-9189-94ea904cb1a3
 		  :LOGBOOK:
-		  CLOCK: [2025-01-20 Mon 17:33:40]
+		  CLOCK: [2025-01-20 Mon 17:33:40]--[2025-01-21 Tue 20:02:08] =>  26:28:28
 		  :END:
 			- DONE 3.1
 			- DONE 3.2
@@ -53,7 +53,10 @@
 			  :LOGBOOK:
 			  CLOCK: [2025-01-21 Tue 17:48:03]--[2025-01-21 Tue 18:18:16] =>  00:30:13
 			  :END:
-			- TODO 3.4
+			- DONE 3.4
+			  :LOGBOOK:
+			  CLOCK: [2025-01-21 Tue 20:02:05]--[2025-01-21 Tue 20:02:06] =>  00:00:01
+			  :END:
 		- TODO Week 4: Security Operations
 		  id:: 676fc7f3-26f3-41b0-90f4-7f17cfac70ca
 		  SCHEDULED: <2025-01-24 Fri>
