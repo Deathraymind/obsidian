@@ -261,9 +261,59 @@
 		- going into business together
 		- who get to make decisions what happens when something goes wrong
 - # Video 5.4.1 – Compliance
-	-
+	- Internal compliance checks
+		- due care
+		- use tools for automation varies from comp to comp
+	- CCO
+		- central compliance officer
+		- make sure were following compliance
+		- state federal etc
+	- External complience checks
+		- you are required by a third party to provide compliance checks at  a set interval
+		- due diligence
+	- SOX
+		- Sarbanes oxley act
+			- acouning and investing protection act of 2002
 - # Video 5.4.2 – Privacy
+	- Data subject
+		- any information related to a person
+	- Data invintory
+		- a list of data, the owner, update frequency, format of the data
+		- what data is and can be shared
 - # Video 5.5.1 – Audits and Assessments
+	- Audits
+		- examines the IT infastructure, software, devices, etc
+		- checks that policies and procedures are effective and being followed
+		- find vulnerabilities before attackers
+	- Attestation
+		- provides accuracy of audit
 - # Video 5.5.2 – Penetration Tests
+	- phyiscal penetration testing
+		- super powerful if you have physical access to a computer
+	- Red Team
+		- offense, attack systems, look for vulnerabilties
+	- blue team
+		- identify attacks real time and block the attacks
+	- Reconnaissance
+		- get info before attacking
+	- passive reconnaussance
+		- gathering information that doesn't tie us back to victims network
+		- google a company
+		- look for public data
+		- social engineering, dumpster diving
+	- active reconnaissance
+		- get in the network, detectable and logable
+		- ping scans, dns queries
+	-
 - # Video 5.6.1 – Security Awareness
+	- Phishing campaigns
+		- send emails to employees to try to catch them lackin
+	- Security awareness team
+		- create training materials
+		- managers and stakeholders will want to tale to these ppl
 - # Video 5.6.2 – User Training
+	- train users before they have access to the network, who has been trained and what
+	- policy/handbooks
+		- document all security requirements
+		- they sould be trained to always be looking for threats
+		-
