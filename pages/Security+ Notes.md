@@ -1,0 +1,15 @@
+- EAP
+	- Extensible authentication protocol
+	- used in wireless networks, p2p
+- PEAP
+	- Protected Extensible authentication protocol
+	- a version of EAP that creates a secure encrypted tunnel using TLS to
+- LEAP
+	- Lightweight extensible authentication protocol
+	- a cisco proprietary EAP method for wireless networks
+- SEH
+	- A low level mechinism in windows to hadle hardware and software exception
+- EH
+	- A high level standardization exception handling in c++
+- EXR
+	- the detailed exception record like critical errors

@@ -83,11 +83,11 @@
 			- train users on proper security policies
 			- post a sign for authorized personnel only
 	- Whats an example of a preventative technical control? #card
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:18.076Z
-	  card-last-reviewed:: 2025-01-14T13:02:18.076Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:31:21.242Z
+	  card-last-reviewed:: 2025-02-08T15:31:21.243Z
 	  card-last-score:: 5
 		- Firewall
 	- Whats an example of a deterrent technical control? #card
@@ -99,147 +99,147 @@
 	  card-last-score:: 5
 		- Splash Screen
 	- Whats an example of a detective technical solution #card
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:35.029Z
-	  card-last-reviewed:: 2025-01-14T13:02:35.030Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:31:31.832Z
+	  card-last-reviewed:: 2025-02-08T15:31:31.833Z
 	  card-last-score:: 5
 		- System Logs
 	- Whats an example of a corrective technical control #card
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:11.520Z
-	  card-last-reviewed:: 2025-01-14T13:02:11.521Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:30:59.545Z
+	  card-last-reviewed:: 2025-02-08T15:30:59.546Z
 	  card-last-score:: 5
 		- Backup recovery
 	- Whats an example of a compensating technical control #card
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:01.327Z
-	  card-last-reviewed:: 2025-01-14T13:02:01.327Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:30:49.459Z
+	  card-last-reviewed:: 2025-02-08T15:30:49.460Z
 	  card-last-score:: 5
 		- Block instead of patch
 	- Whats an example of a directive technical control #card
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:27.120Z
-	  card-last-reviewed:: 2025-01-14T13:02:27.121Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:31:30.142Z
+	  card-last-reviewed:: 2025-02-08T15:31:30.143Z
 	  card-last-score:: 5
 		- file storage policies
 	- Whats an example of a preventative managerial control #card
-	  card-last-interval:: 10.8
-	  card-repeats:: 3
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-01-25T08:01:29.809Z
-	  card-last-reviewed:: 2025-01-14T13:01:29.810Z
+	  card-last-interval:: 31.36
+	  card-repeats:: 4
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-03-11T23:29:18.002Z
+	  card-last-reviewed:: 2025-02-08T15:29:18.002Z
 	  card-last-score:: 5
 		- on board policy
 	- Whats an example of a deturent managerial control #card
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:22.975Z
-	  card-last-reviewed:: 2025-01-14T13:02:22.976Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:31:24.057Z
+	  card-last-reviewed:: 2025-02-08T15:31:24.058Z
 	  card-last-score:: 5
 		- Demotion
 	- Whats an example of a detective managerial control #card
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
+	  card-last-interval:: -1
+	  card-repeats:: 1
 	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:01:55.169Z
-	  card-last-reviewed:: 2025-01-14T13:01:55.169Z
-	  card-last-score:: 5
+	  card-next-schedule:: 2025-02-09T15:00:00.000Z
+	  card-last-reviewed:: 2025-02-08T15:30:44.458Z
+	  card-last-score:: 1
 		- login reports
 	- Whats an example of a corrective managerial control #card
-	  card-last-interval:: 11.61
-	  card-repeats:: 2
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2025-01-26T03:01:07.497Z
-	  card-last-reviewed:: 2025-01-14T13:01:07.497Z
+	  card-last-interval:: 53.78
+	  card-repeats:: 3
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2025-04-03T09:39:03.067Z
+	  card-last-reviewed:: 2025-02-08T15:39:03.067Z
 	  card-last-score:: 5
 		- policies for reporting issues
 	- Whats an example of a compensating managerial control #card
-	  card-last-interval:: 13.44
-	  card-repeats:: 3
-	  card-ease-factor:: 2.46
-	  card-next-schedule:: 2025-01-27T23:01:20.916Z
-	  card-last-reviewed:: 2025-01-14T13:01:20.916Z
+	  card-last-interval:: 38.3
+	  card-repeats:: 4
+	  card-ease-factor:: 2.56
+	  card-next-schedule:: 2025-03-18T22:41:35.117Z
+	  card-last-reviewed:: 2025-02-08T15:41:35.118Z
 	  card-last-score:: 5
 		- Separation of duties (More people in a position to be checking each other)
 	- Whats an example of directive managerial control? #card
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-31T12:41:55.848Z
-	  card-last-reviewed:: 2025-01-20T08:41:55.848Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:42:13.215Z
+	  card-last-reviewed:: 2025-02-08T15:42:13.216Z
 	  card-last-score:: 5
 		- Compliance polices
 	- Whats an example of a preventative operational control #card
-	  card-last-interval:: 11.61
-	  card-repeats:: 2
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2025-01-26T03:01:06.548Z
-	  card-last-reviewed:: 2025-01-14T13:01:06.548Z
+	  card-last-interval:: 53.78
+	  card-repeats:: 3
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2025-04-03T09:38:56.874Z
+	  card-last-reviewed:: 2025-02-08T15:38:56.874Z
 	  card-last-score:: 5
 		- guard shack
 	- Whats an example of a deterrent operational control #card
-	  card-last-interval:: 11.61
-	  card-repeats:: 2
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2025-01-26T03:01:09.085Z
-	  card-last-reviewed:: 2025-01-14T13:01:09.086Z
+	  card-last-interval:: 53.78
+	  card-repeats:: 3
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2025-04-03T09:40:34.118Z
+	  card-last-reviewed:: 2025-02-08T15:40:34.119Z
 	  card-last-score:: 5
 		- reception desk
 	- Whats an example of a detective operational control #card
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:08.725Z
-	  card-last-reviewed:: 2025-01-14T13:02:08.725Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:30:55.128Z
+	  card-last-reviewed:: 2025-02-08T15:30:55.129Z
 	  card-last-score:: 5
 		- property patrols
 	- Whats an example of a corrective operational control #card
-	  card-last-interval:: 13.33
-	  card-repeats:: 2
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2025-01-27T20:01:17.442Z
-	  card-last-reviewed:: 2025-01-14T13:01:17.443Z
+	  card-last-interval:: 53.78
+	  card-repeats:: 3
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2025-04-03T09:41:31.717Z
+	  card-last-reviewed:: 2025-02-08T15:41:31.717Z
 	  card-last-score:: 5
 		- contact authorties
 	- Whats an example of a compensating operational control #card
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:39.177Z
-	  card-last-reviewed:: 2025-01-14T13:02:39.178Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:31:34.957Z
+	  card-last-reviewed:: 2025-02-08T15:31:34.958Z
 	  card-last-score:: 5
 		- require mulltiple staff security
 	- Whats an example of a directive operational control #card
-	  card-last-interval:: 10.24
-	  card-repeats:: 3
-	  card-ease-factor:: 2.56
-	  card-next-schedule:: 2025-01-30T13:42:02.680Z
-	  card-last-reviewed:: 2025-01-20T08:42:02.680Z
+	  card-last-interval:: 28.3
+	  card-repeats:: 4
+	  card-ease-factor:: 2.66
+	  card-next-schedule:: 2025-03-08T22:41:43.946Z
+	  card-last-reviewed:: 2025-02-08T15:41:43.946Z
 	  card-last-score:: 5
 		- security policy training
 	- Whats an example of deterrent physical control #card
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:41.608Z
-	  card-last-reviewed:: 2025-01-14T13:02:41.608Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:31:41.630Z
+	  card-last-reviewed:: 2025-02-08T15:31:41.631Z
 	  card-last-score:: 5
 		- warning signs
 	- Whats an example of a detective physical control #card
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:40.258Z
-	  card-last-reviewed:: 2025-01-14T13:02:40.258Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:31:39.765Z
+	  card-last-reviewed:: 2025-02-08T15:31:39.765Z
 	  card-last-score:: 5
 		- motion detectors
 	- Whats an example of a corrective phyiscal control #card
@@ -251,19 +251,19 @@
 	  card-last-score:: 5
 		- fire extinguisher
 	- Whats an example of a compensating phyiscal control #card
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:01:42.968Z
-	  card-last-reviewed:: 2025-01-14T13:01:42.969Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:30:35.650Z
+	  card-last-reviewed:: 2025-02-08T15:30:35.650Z
 	  card-last-score:: 5
 		- power generator
 	- Whats an example of a directive phyiscal control #card
-	  card-last-interval:: 11.61
-	  card-repeats:: 2
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2025-01-26T03:01:08.262Z
-	  card-last-reviewed:: 2025-01-14T13:01:08.263Z
+	  card-last-interval:: 53.78
+	  card-repeats:: 3
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2025-04-03T09:40:19.213Z
+	  card-last-reviewed:: 2025-02-08T15:40:19.214Z
 	  card-last-score:: 5
 		- Sign: Authorized personnel only
 -
@@ -324,11 +324,11 @@
 		- Patching
 	- ### Non-repudiation #card
 	  background-color:: blue
-	  card-last-interval:: 11.61
-	  card-repeats:: 1
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2025-01-26T02:56:41.610Z
-	  card-last-reviewed:: 2025-01-14T12:56:41.611Z
+	  card-last-interval:: 4.14
+	  card-repeats:: 2
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2025-02-12T18:35:49.469Z
+	  card-last-reviewed:: 2025-02-08T15:35:49.470Z
 	  card-last-score:: 5
 		- refers to a security principle that ensures a party involved in a transaction or communication cannot later deny having participated in it
 - # Video 1.2.2: AAA
@@ -397,21 +397,21 @@
 		- Now that we have authenticated a device or user, we now put them into **groups** these groups will have a set of permissions, this makes it easy to scale permissions
 		- ![image.png](../assets/image_1735465925018_0.png){:height 191, :width 720}
 		- Abstraction #card
-		  card-last-interval:: 11.2
-		  card-repeats:: 3
-		  card-ease-factor:: 2.8
-		  card-next-schedule:: 2025-01-25T17:01:37.422Z
-		  card-last-reviewed:: 2025-01-14T13:01:37.422Z
+		  card-last-interval:: 33.64
+		  card-repeats:: 4
+		  card-ease-factor:: 2.9
+		  card-next-schedule:: 2025-03-14T06:30:31.395Z
+		  card-last-reviewed:: 2025-02-08T15:30:31.396Z
 		  card-last-score:: 5
 			- Adding something in the middle, a user goes with a group
 - # Video 1.2.3: Gap analysis
 	- ### gap analysis #card
 	  background-color:: red
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:01:39.269Z
-	  card-last-reviewed:: 2025-01-14T13:01:39.269Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:30:33.557Z
+	  card-last-reviewed:: 2025-02-08T15:30:33.558Z
 	  card-last-score:: 5
 		- is the gap between where you are and where you want to be
 	- Comparison
@@ -423,11 +423,11 @@
 - # Video 1.2.4: Zero Trust
 	- ### Zero Trust #card
 	  background-color:: yellow
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:01:36.392Z
-	  card-last-reviewed:: 2025-01-14T13:01:36.392Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:30:29.933Z
+	  card-last-reviewed:: 2025-02-08T15:30:29.933Z
 	  card-last-score:: 5
 		- Covers every device, every process, every person. Trust no one authenticate at every resource.
 	- Split the network into functional planes
@@ -460,29 +460,29 @@
 		- ![image.png](../assets/image_1735523542877_0.png)
 	- ### Adaptive identity #card
 	  background-color:: green
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:01:34.412Z
-	  card-last-reviewed:: 2025-01-14T13:01:34.413Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:30:27.624Z
+	  card-last-reviewed:: 2025-02-08T15:30:27.625Z
 	  card-last-score:: 5
 		- Based on the authentication **data**, like where the user is what role they play like ceo or regular employee and what data they are trying to access.
 	- ### Threat scope reduction #card
 	  background-color:: red
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:01:33.206Z
-	  card-last-reviewed:: 2025-01-14T13:01:33.206Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:30:25.757Z
+	  card-last-reviewed:: 2025-02-08T15:30:25.758Z
 	  card-last-score:: 5
 		- reducing the entry points into a network
 	- ### Policy-driven access control #card
 	  background-color:: blue
-	  card-last-interval:: 13.33
-	  card-repeats:: 2
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2025-01-27T20:01:18.276Z
-	  card-last-reviewed:: 2025-01-14T13:01:18.276Z
+	  card-last-interval:: 53.78
+	  card-repeats:: 3
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2025-04-03T09:41:32.768Z
+	  card-last-reviewed:: 2025-02-08T15:41:32.769Z
 	  card-last-score:: 5
 		- combine **adaptive identity** and a **predefined set of rules** based on the adaptive identity data.
 	- ### PEP #card
@@ -509,11 +509,11 @@
 		- ![image.png](../assets/image_1735524170821_0.png){:height 232, :width 410}
 	- ### Policy Engine #card
 	  background-color:: green
-	  card-last-interval:: 12.02
-	  card-repeats:: 2
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2025-01-26T13:01:12.438Z
-	  card-last-reviewed:: 2025-01-14T13:01:12.438Z
+	  card-last-interval:: 53.78
+	  card-repeats:: 3
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2025-04-03T09:40:35.808Z
+	  card-last-reviewed:: 2025-02-08T15:40:35.808Z
 	  card-last-score:: 5
 		- Evaulutaes each access decision based on policy and other information sources
 		- Grant, Deny, or Revoke
@@ -522,8 +522,8 @@
 	  card-last-interval:: -1
 	  card-repeats:: 1
 	  card-ease-factor:: 2.32
-	  card-next-schedule:: 2025-01-25T15:00:00.000Z
-	  card-last-reviewed:: 2025-01-25T07:05:24.890Z
+	  card-next-schedule:: 2025-02-09T15:00:00.000Z
+	  card-last-reviewed:: 2025-02-08T15:29:49.056Z
 	  card-last-score:: 1
 		- communicates with the polocy Enforcement Point
 		- Generates access tokens or credentials
@@ -564,11 +564,11 @@
 - # Video 1.2.6: Deception and Disruption
 	- ### Honey Pot #card
 	  background-color:: yellow
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:01:40.477Z
-	  card-last-reviewed:: 2025-01-14T13:01:40.478Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:30:34.496Z
+	  card-last-reviewed:: 2025-02-08T15:30:34.497Z
 	  card-last-score:: 5
 		- attract bad guys are trap them
 		- This will allow you to see what they are trying to attack and how
@@ -578,40 +578,40 @@
 		- more believable
 	- ### Honey Files #card
 	  background-color:: pink
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:01:32.310Z
-	  card-last-reviewed:: 2025-01-14T13:01:32.310Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:30:24.010Z
+	  card-last-reviewed:: 2025-02-08T15:30:24.011Z
 	  card-last-score:: 5
 		- These are files that have fake infomration
 		- You can even add traceable information and track what and where the attacker uses this fake information
 	- ### Honey Tokens #card
 	  background-color:: green
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-31T12:42:04.394Z
-	  card-last-reviewed:: 2025-01-20T08:42:04.395Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:42:14.292Z
+	  card-last-reviewed:: 2025-02-08T15:42:14.293Z
 	  card-last-score:: 5
 		- fake AP I tokens where you can trace where they are used
 	- ### Honey Emails #card
 	  background-color:: blue
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:01:38.294Z
-	  card-last-reviewed:: 2025-01-14T13:01:38.294Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:30:32.513Z
+	  card-last-reviewed:: 2025-02-08T15:30:32.513Z
 	  card-last-score:: 5
 		- Fake Email addresses
 - # Video 1.2.7: Non-repudiation
 	- ### Proof of integrity #card
 	  background-color:: yellow
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:01:35.362Z
-	  card-last-reviewed:: 2025-01-14T13:01:35.362Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:30:28.959Z
+	  card-last-reviewed:: 2025-02-08T15:30:28.960Z
 	  card-last-score:: 5
 		- Make sure the data does not change
 		- often a hash is used
@@ -628,11 +628,11 @@
 		- Verify who sent the data
 		- authentication
 		- ### Digital signature #card
-		  card-last-interval:: 11.2
-		  card-repeats:: 3
-		  card-ease-factor:: 2.8
-		  card-next-schedule:: 2025-01-25T17:02:12.629Z
-		  card-last-reviewed:: 2025-01-14T13:02:12.630Z
+		  card-last-interval:: 33.64
+		  card-repeats:: 4
+		  card-ease-factor:: 2.9
+		  card-next-schedule:: 2025-03-14T06:31:19.251Z
+		  card-last-reviewed:: 2025-02-08T15:31:19.252Z
 		  card-last-score:: 5
 			- This is a private key where only the sender knows, it can be verified with a public key.
 		- ![image.png](../assets/image_1735526173356_0.png){:height 253, :width 720}
@@ -644,39 +644,39 @@
 			- This would be called finding a good maintenance window
 	- ### Impact analysis #card
 	  background-color:: yellow
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:01:53.535Z
-	  card-last-reviewed:: 2025-01-14T13:01:53.536Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:30:36.826Z
+	  card-last-reviewed:: 2025-02-08T15:30:36.826Z
 	  card-last-score:: 5
 		- Risk is high medium or low
 	- ### Back-out Plan #card
 	  background-color:: red
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:01:56.398Z
-	  card-last-reviewed:: 2025-01-14T13:01:56.398Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:30:45.628Z
+	  card-last-reviewed:: 2025-02-08T15:30:45.629Z
 	  card-last-score:: 5
 		- How to revert change if it goes bad
 	- ### SOP #card
 	  background-color:: pink
-	  card-last-interval:: 4
-	  card-repeats:: 2
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-29T07:04:00.479Z
-	  card-last-reviewed:: 2025-01-25T07:04:00.479Z
+	  card-last-interval:: 11.6
+	  card-repeats:: 3
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-02-20T05:41:39.337Z
+	  card-last-reviewed:: 2025-02-08T15:41:39.337Z
 	  card-last-score:: 5
 		- Standard Operating Procedure
 - # Video 1.4.1 Public Key Infrastructure
 	- ### PKI #card
 	  background-color:: yellow
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:51.794Z
-	  card-last-reviewed:: 2025-01-14T13:02:51.794Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:32:14.229Z
+	  card-last-reviewed:: 2025-02-08T15:32:14.230Z
 	  card-last-score:: 5
 		- Public Key Infrastructure
 		- Broad term
@@ -685,32 +685,32 @@
 		- CA is used in this process
 	- ### Symmetric encryption #card
 	  background-color:: red
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:47.250Z
-	  card-last-reviewed:: 2025-01-14T13:02:47.250Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:31:51.267Z
+	  card-last-reviewed:: 2025-02-08T15:31:51.267Z
 	  card-last-score:: 5
 		- same key that was used for encrypting is used for decryption
 		- secrete key algorithm
 		- very fast
 	- ### Asymmetric encryption #card
 	  background-color:: pink
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:54.826Z
-	  card-last-reviewed:: 2025-01-14T13:02:54.826Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:35:39.483Z
+	  card-last-reviewed:: 2025-02-08T15:35:39.484Z
 	  card-last-score:: 5
 		- public and private keys
 		- slower
 	- ### Key Pair #card
 	  background-color:: green
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:42.736Z
-	  card-last-reviewed:: 2025-01-14T13:02:42.736Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:31:43.416Z
+	  card-last-reviewed:: 2025-02-08T15:31:43.416Z
 	  card-last-score:: 5
 		- lots of randomization
 		- large prime numbers
@@ -718,69 +718,69 @@
 		- ![image.png](../assets/image_1735784256730_0.png){:height 213, :width 189}
 	- ### Key escrow #card
 	  background-color:: blue
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:46.715Z
-	  card-last-reviewed:: 2025-01-14T13:02:46.716Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:31:49.991Z
+	  card-last-reviewed:: 2025-02-08T15:31:49.992Z
 	  card-last-score:: 5
 		- someone else holds your decryption keys
 		- a 3rd party or you are locally managing all these keys
 - # Video 1.4.2 Encrypting data
 	- ### Data at rest #card
 	  background-color:: yellow
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:44.742Z
-	  card-last-reviewed:: 2025-01-14T13:02:44.742Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:31:46.026Z
+	  card-last-reviewed:: 2025-02-08T15:31:46.027Z
 	  card-last-score:: 5
 		- the data on a hard drive
 	- ### EFS #card
 	  background-color:: red
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:49.612Z
-	  card-last-reviewed:: 2025-01-14T13:02:49.612Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:31:57.622Z
+	  card-last-reviewed:: 2025-02-08T15:31:57.623Z
 	  card-last-score:: 5
 		- Encrytping file system
 		- windows version of encrypting drives and folders
 	- ### Transparent encryption #card
 	  background-color:: pink
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:43.800Z
-	  card-last-reviewed:: 2025-01-14T13:02:43.800Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:31:44.814Z
+	  card-last-reviewed:: 2025-02-08T15:31:44.815Z
 	  card-last-score:: 5
 		- Encrypt all database information with a symmetric key
 	- ### Record level encryption #card
 	  background-color:: blue
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
+	  card-last-interval:: -1
+	  card-repeats:: 1
 	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:50.136Z
-	  card-last-reviewed:: 2025-01-14T13:02:50.137Z
-	  card-last-score:: 5
+	  card-next-schedule:: 2025-02-09T15:00:00.000Z
+	  card-last-reviewed:: 2025-02-08T15:32:02.308Z
+	  card-last-score:: 1
 		- encrypt indavidual columns
 		- use a separate symmetric key for each column
 	- ### Symmetric encryption length #card
 	  background-color:: green
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:51.264Z
-	  card-last-reviewed:: 2025-01-14T13:02:51.264Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:32:10.347Z
+	  card-last-reviewed:: 2025-02-08T15:32:10.348Z
 	  card-last-score:: 5
 		- normally 128-bit
 	- ### Key stretching #card
 	  background-color:: purple
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:52.368Z
-	  card-last-reviewed:: 2025-01-14T13:02:52.369Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:32:15.741Z
+	  card-last-reviewed:: 2025-02-08T15:32:15.742Z
 	  card-last-score:: 5
 		- encrypt data multiple times with different keys
 - # Video 1.4.3 key exchange
@@ -801,11 +801,11 @@
 - # Video 1.4.4 Encryption Technologies
 	- ### TPM #card
 	  background-color:: yellow
-	  card-last-interval:: 12.02
-	  card-repeats:: 2
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2025-01-26T13:01:13.822Z
-	  card-last-reviewed:: 2025-01-14T13:01:13.822Z
+	  card-last-interval:: 53.78
+	  card-repeats:: 3
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2025-04-03T09:40:41.785Z
+	  card-last-reviewed:: 2025-02-08T15:40:41.786Z
 	  card-last-score:: 5
 		- Trusted platform module
 		- random number generator, key generator
@@ -815,11 +815,11 @@
 		- password protected
 	- ### HSM #card
 	  background-color:: red
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-31T12:42:24.025Z
-	  card-last-reviewed:: 2025-01-20T08:42:24.025Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:42:16.239Z
+	  card-last-reviewed:: 2025-02-08T15:42:16.240Z
 	  card-last-score:: 5
 		- harware security module
 		- used in large enviorments
@@ -827,21 +827,21 @@
 		- centralized TPM for multiple devices
 	- ### Key management system #card
 	  background-color:: green
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:48.542Z
-	  card-last-reviewed:: 2025-01-14T13:02:48.543Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:31:55.098Z
+	  card-last-reviewed:: 2025-02-08T15:31:55.099Z
 	  card-last-score:: 5
 		- create and manage keys for things like ssl tls ssh etc
 		- see logs of keys being used in a central location
 	- ### Secure enclave #card
 	  background-color:: blue
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:53.562Z
-	  card-last-reviewed:: 2025-01-14T13:02:53.562Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:32:23.008Z
+	  card-last-reviewed:: 2025-02-08T15:32:23.009Z
 	  card-last-score:: 5
 		- a seperate proccesor thats for encrpytion
 		- has its own rom and monitors boot processor
@@ -849,21 +849,21 @@
 - # Video 1.4.5 Obfuscation
 	- ### Obfuscation #card
 	  background-color:: yellow
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:52.960Z
-	  card-last-reviewed:: 2025-01-14T13:02:52.961Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:32:16.808Z
+	  card-last-reviewed:: 2025-02-08T15:32:16.808Z
 	  card-last-score:: 5
 		- the process of making something unclear
 		- developer making code very hard to read
 	- ### Stenography #card
 	  background-color:: red
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:50.702Z
-	  card-last-reviewed:: 2025-01-14T13:02:50.702Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:32:05.355Z
+	  card-last-reviewed:: 2025-02-08T15:32:05.356Z
 	  card-last-score:: 5
 		- hiding information within an image
 		- it can also be in any cover data
@@ -873,11 +873,11 @@
 		- if you know how it was stored you can easily extract the data
 	- ### Tokenization #card
 	  background-color:: pink
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:49.041Z
-	  card-last-reviewed:: 2025-01-14T13:02:49.042Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:31:56.374Z
+	  card-last-reviewed:: 2025-02-08T15:31:56.374Z
 	  card-last-score:: 5
 		- replace sensitive data with a token
 		- like a social security number can be stored as another number and transferred across the network
@@ -886,49 +886,49 @@
 - # Video 1.4.6 Hashing and Digital Signatures
 	- ### Hash #card
 	  background-color:: yellow
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:46.211Z
-	  card-last-reviewed:: 2025-01-14T13:02:46.212Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:31:48.528Z
+	  card-last-reviewed:: 2025-02-08T15:31:48.528Z
 	  card-last-score:: 5
 		- represent data as a short string of text
 		- not an encrpytion you cant get the data back
 		- also known as a message digest or finger print
 	- ### SHA256 hash #card
 	  background-color:: red
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:47.632Z
-	  card-last-reviewed:: 2025-01-14T13:02:47.633Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:31:52.500Z
+	  card-last-reviewed:: 2025-02-08T15:31:52.501Z
 	  card-last-score:: 5
 		- 256 bits/ 64 hexadecimal characters
 	- ### MD5 #card
 	  background-color:: pink
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:45.627Z
-	  card-last-reviewed:: 2025-01-14T13:02:45.627Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:31:47.292Z
+	  card-last-reviewed:: 2025-02-08T15:31:47.293Z
 	  card-last-score:: 5
 		- has a collision issue don't use
 	- ### Password Storage #card
 	  background-color:: blue
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:54.159Z
-	  card-last-reviewed:: 2025-01-14T13:02:54.160Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:32:24.409Z
+	  card-last-reviewed:: 2025-02-08T15:32:24.409Z
 	  card-last-score:: 5
 		- is stored as a salted hash
 	- ### Salt #card
 	  background-color:: purple
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-25T17:02:48.094Z
-	  card-last-reviewed:: 2025-01-14T13:02:48.094Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:31:53.767Z
+	  card-last-reviewed:: 2025-02-08T15:31:53.768Z
 	  card-last-score:: 5
 		- random data added to a password when hashing
 		- every user gets their own random salt
@@ -937,11 +937,11 @@
 - # Video 1.4.7 Block Chains
 	- ### Block Chain #card
 	  background-color:: yellow
-	  card-last-interval:: 11.2
-	  card-repeats:: 3
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-01-31T12:42:41.933Z
-	  card-last-reviewed:: 2025-01-20T08:42:41.934Z
+	  card-last-interval:: 33.64
+	  card-repeats:: 4
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-03-14T06:42:20.065Z
+	  card-last-reviewed:: 2025-02-08T15:42:20.065Z
 	  card-last-score:: 5
 		- A large amount of computers keeping track of eahcothers data if data is changed on one only then the others will correct or detect avoiding fraud
 		- Examples:
@@ -965,11 +965,11 @@
 		- extensions
 	- ### Root of Trust #card
 	  background-color:: green
-	  card-last-interval:: 10.24
-	  card-repeats:: 3
-	  card-ease-factor:: 2.56
-	  card-next-schedule:: 2025-01-30T13:42:39.871Z
-	  card-last-reviewed:: 2025-01-20T08:42:39.871Z
+	  card-last-interval:: 28.3
+	  card-repeats:: 4
+	  card-ease-factor:: 2.66
+	  card-next-schedule:: 2025-03-08T22:41:45.042Z
+	  card-last-reviewed:: 2025-02-08T15:41:45.042Z
 	  card-last-score:: 5
 		- the base level trust
 		- Examples
@@ -977,11 +977,11 @@
 			- CA for a website and browser will have a list of trusted certificate authoritaties
 	- ### CSR #card
 	  background-color:: blue
-	  card-last-interval:: 13.33
-	  card-repeats:: 2
-	  card-ease-factor:: 2.6
-	  card-next-schedule:: 2025-01-27T20:01:16.667Z
-	  card-last-reviewed:: 2025-01-14T13:01:16.668Z
+	  card-last-interval:: 53.78
+	  card-repeats:: 3
+	  card-ease-factor:: 2.7
+	  card-next-schedule:: 2025-04-03T09:41:30.722Z
+	  card-last-reviewed:: 2025-02-08T15:41:30.722Z
 	  card-last-score:: 5
 		- Certificate sighing request
 		- Created from a public and private key and the CA will sign it with their private key and give it back
@@ -992,11 +992,11 @@
 			- Provinces scalability of OSCP
 	- ### CRL #card
 	  background-color:: purple
-	  card-last-interval:: 4
-	  card-repeats:: 2
-	  card-ease-factor:: 2.56
-	  card-next-schedule:: 2025-01-29T07:04:11.790Z
-	  card-last-reviewed:: 2025-01-25T07:04:11.790Z
+	  card-last-interval:: 10.64
+	  card-repeats:: 3
+	  card-ease-factor:: 2.66
+	  card-next-schedule:: 2025-02-19T06:41:41.359Z
+	  card-last-reviewed:: 2025-02-08T15:41:41.359Z
 	  card-last-score:: 5
 		- Certificate Revocation List
 		- Maintained by the CA
