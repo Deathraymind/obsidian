@@ -147,12 +147,12 @@
 	  card-last-score:: 5
 		- Demotion
 	- Whats an example of a detective managerial control #card
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-02-09T15:00:00.000Z
-	  card-last-reviewed:: 2025-02-08T15:30:44.458Z
-	  card-last-score:: 1
+	  card-last-interval:: 4
+	  card-repeats:: 2
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-02-13T16:30:18.924Z
+	  card-last-reviewed:: 2025-02-09T16:30:18.924Z
+	  card-last-score:: 5
 		- login reports
 	- Whats an example of a corrective managerial control #card
 	  card-last-interval:: 53.78
@@ -273,11 +273,11 @@
 	- Also Known as the AIC Triad
 	- ### CIA Triad #card
 	  background-color:: yellow
-	  card-last-interval:: 21.53
-	  card-repeats:: 4
-	  card-ease-factor:: 2.32
-	  card-next-schedule:: 2025-02-10T20:39:50.843Z
-	  card-last-reviewed:: 2025-01-20T08:39:50.844Z
+	  card-last-interval:: 56.69
+	  card-repeats:: 5
+	  card-ease-factor:: 2.42
+	  card-next-schedule:: 2025-04-11T04:10:45.050Z
+	  card-last-reviewed:: 2025-02-13T12:10:45.052Z
 	  card-last-score:: 5
 		- Confidentiality: We need to keep the information Hidden
 		- Integrity: Messages cant be modified without being detected
@@ -297,11 +297,11 @@
 		- Two Factor Authentication.
 	- ### Integrity #card
 	  background-color:: pink
-	  card-last-interval:: 23.43
-	  card-repeats:: 4
-	  card-ease-factor:: 2.42
-	  card-next-schedule:: 2025-02-12T18:39:56.383Z
-	  card-last-reviewed:: 2025-01-20T08:39:56.383Z
+	  card-last-interval:: 64.01
+	  card-repeats:: 5
+	  card-ease-factor:: 2.52
+	  card-next-schedule:: 2025-04-18T12:15:24.730Z
+	  card-last-reviewed:: 2025-02-13T12:15:24.730Z
 	  card-last-score:: 5
 		- Data is stored and tresfered as intended
 		- Hashing
@@ -324,11 +324,11 @@
 		- Patching
 	- ### Non-repudiation #card
 	  background-color:: blue
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:35:49.469Z
-	  card-last-reviewed:: 2025-02-08T15:35:49.470Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:13:01.248Z
+	  card-last-reviewed:: 2025-02-13T12:13:01.248Z
 	  card-last-score:: 5
 		- refers to a security principle that ensures a party involved in a transaction or communication cannot later deny having participated in it
 - # Video 1.2.2: AAA
@@ -519,12 +519,12 @@
 		- Grant, Deny, or Revoke
 	- ### Policy Administrator #card
 	  background-color:: blue
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.32
-	  card-next-schedule:: 2025-02-09T15:00:00.000Z
-	  card-last-reviewed:: 2025-02-08T15:29:49.056Z
-	  card-last-score:: 1
+	  card-last-interval:: 4
+	  card-repeats:: 2
+	  card-ease-factor:: 2.42
+	  card-next-schedule:: 2025-02-13T16:29:25.047Z
+	  card-last-reviewed:: 2025-02-09T16:29:25.048Z
+	  card-last-score:: 5
 		- communicates with the polocy Enforcement Point
 		- Generates access tokens or credentials
 		- Tells the **PEP** to allow or disallow access
@@ -757,12 +757,12 @@
 		- Encrypt all database information with a symmetric key
 	- ### Record level encryption #card
 	  background-color:: blue
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.8
-	  card-next-schedule:: 2025-02-09T15:00:00.000Z
-	  card-last-reviewed:: 2025-02-08T15:32:02.308Z
-	  card-last-score:: 1
+	  card-last-interval:: 4
+	  card-repeats:: 2
+	  card-ease-factor:: 2.9
+	  card-next-schedule:: 2025-02-13T16:28:29.150Z
+	  card-last-reviewed:: 2025-02-09T16:28:29.151Z
+	  card-last-score:: 5
 		- encrypt indavidual columns
 		- use a separate symmetric key for each column
 	- ### Symmetric encryption length #card

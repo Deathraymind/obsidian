@@ -2,11 +2,11 @@
 - # Video 3.1.1 Cloud Infrastructure
 	- ### Cloud responsibility matrix #card
 	  background-color:: yellow
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:43:00.146Z
-	  card-last-reviewed:: 2025-02-08T15:43:00.146Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:18:51.375Z
+	  card-last-reviewed:: 2025-02-13T12:18:51.375Z
 	  card-last-score:: 5
 		- shows whos is responsible for security
 		- ![image.png](../assets/image_1737435325630_0.png)
@@ -21,11 +21,11 @@
 		- more than one public or private cloud
 	- ### Vendor risk management policy #card
 	  background-color:: blue
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:44:59.110Z
-	  card-last-reviewed:: 2025-02-08T15:44:59.111Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:20:03.168Z
+	  card-last-reviewed:: 2025-02-13T12:20:03.169Z
 	  card-last-score:: 5
 		- assess the security of your cloud providers
 	- ### Infrastructure as code
@@ -34,11 +34,11 @@
 		- ![image.png](../assets/image_1737435643861_0.png){:height 179, :width 180}
 	- ### FaaS #card
 	  background-color:: pink
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:44:13.562Z
-	  card-last-reviewed:: 2025-02-08T15:44:13.563Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:19:56.815Z
+	  card-last-reviewed:: 2025-02-13T12:19:56.815Z
 	  card-last-score:: 5
 		- function as a service
 		- remove the operating system from the equation
@@ -48,11 +48,11 @@
 		- one big app does everything
 	- ### APIs and micro services #card
 	  background-color:: pink
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:45:06.493Z
-	  card-last-reviewed:: 2025-02-08T15:45:06.494Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:20:07.483Z
+	  card-last-reviewed:: 2025-02-13T12:20:07.484Z
 	  card-last-score:: 5
 		- application programming interfaces
 		- is the glue for the microservices
@@ -83,22 +83,22 @@
 			- forwarding trunking encryption and NAT
 		- ### Control Layer / Control plane #card
 		  background-color:: blue
-		  card-last-interval:: 4.14
-		  card-repeats:: 2
-		  card-ease-factor:: 2.7
-		  card-next-schedule:: 2025-02-12T18:44:39.319Z
-		  card-last-reviewed:: 2025-02-08T15:44:39.320Z
+		  card-last-interval:: 11.2
+		  card-repeats:: 3
+		  card-ease-factor:: 2.8
+		  card-next-schedule:: 2025-02-24T16:19:58.604Z
+		  card-last-reviewed:: 2025-02-13T12:19:58.604Z
 		  card-last-score:: 5
 			- telling the data where to go
 			- manage the actions of the data plane
 			- routing tables sessions tables nat tables
 		- ### Application Layer #card
 		  background-color:: purple
-		  card-last-interval:: 4.14
-		  card-repeats:: 2
-		  card-ease-factor:: 2.7
-		  card-next-schedule:: 2025-02-12T18:45:18.679Z
-		  card-last-reviewed:: 2025-02-08T15:45:18.679Z
+		  card-last-interval:: 11.2
+		  card-repeats:: 3
+		  card-ease-factor:: 2.8
+		  card-next-schedule:: 2025-02-24T16:20:30.116Z
+		  card-last-reviewed:: 2025-02-13T12:20:30.116Z
 		  card-last-score:: 5
 			- configure and manage the device
 			- ssh browser api
@@ -106,11 +106,11 @@
 - # Video 3.1.3 Other Infrastructure Concepts
 	- ### Containerization #card
 	  background-color:: red
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:45:13.565Z
-	  card-last-reviewed:: 2025-02-08T15:45:13.565Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:20:10.826Z
+	  card-last-reviewed:: 2025-02-13T12:20:10.826Z
 	  card-last-score:: 5
 		- containes everything you need to run an applciation
 		- code and dependcies
@@ -118,11 +118,11 @@
 		- ![image.png](../assets/image_1737436886966_0.png){:height 323, :width 292}
 	- ### SCADA / ICS #card
 	  background-color:: pink
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:43:18.828Z
-	  card-last-reviewed:: 2025-02-08T15:43:18.829Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:19:55.445Z
+	  card-last-reviewed:: 2025-02-13T12:19:55.445Z
 	  card-last-score:: 5
 		- Supervisory control and data acquisition system
 		- Industrial Control System (ICS)
@@ -130,11 +130,11 @@
 		- Completely segmented from outside
 	- ### RTOS Real-Time Operating Systems #card
 	  background-color:: green
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:43:01.875Z
-	  card-last-reviewed:: 2025-02-08T15:43:01.876Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:18:52.627Z
+	  card-last-reviewed:: 2025-02-13T12:18:52.628Z
 	  card-last-score:: 5
 		- A process takes priority
 		- military environments and automobiles need priority
@@ -151,11 +151,11 @@
 			- Mean Time to Repair
 		- ### Risk transference #card
 		  background-color:: yellow
-		  card-last-interval:: 4.14
-		  card-repeats:: 2
-		  card-ease-factor:: 2.7
-		  card-next-schedule:: 2025-02-12T18:44:57.936Z
-		  card-last-reviewed:: 2025-02-08T15:44:57.937Z
+		  card-last-interval:: 11.2
+		  card-repeats:: 3
+		  card-ease-factor:: 2.8
+		  card-next-schedule:: 2025-02-24T16:20:02.563Z
+		  card-last-reviewed:: 2025-02-13T12:20:02.563Z
 		  card-last-score:: 5
 			- transfer the risk to a third-part
 			- cyber security insurance
@@ -163,21 +163,21 @@
 - # Video 3.2.1 Secure Infrastructures
 	- ### Firewalls #card
 	  background-color:: red
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:43:04.412Z
-	  card-last-reviewed:: 2025-02-08T15:43:04.412Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:18:54.390Z
+	  card-last-reviewed:: 2025-02-13T12:18:54.391Z
 	  card-last-score:: 5
 		- segment the network from outside
 		- also can use honeypots jump server sensros and load blancer
 	- ### Security-Zone #card
 	  background-color:: pink
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:44:50.765Z
-	  card-last-reviewed:: 2025-02-08T15:44:50.766Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:19:59.797Z
+	  card-last-reviewed:: 2025-02-13T12:19:59.797Z
 	  card-last-score:: 5
 		- Logically segment a network based on the functions of the devices
 		- IOT would be on a seperate vlan
@@ -185,11 +185,11 @@
 - # Video 3.2.2 Intrusion Prevention
 	- ### IPS #card
 	  background-color:: red
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:43:17.445Z
-	  card-last-reviewed:: 2025-02-08T15:43:17.445Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:19:54.690Z
+	  card-last-reviewed:: 2025-02-13T12:19:54.690Z
 	  card-last-score:: 5
 		- Intrusion prevention system
 		- watch the network traffic
@@ -204,11 +204,11 @@
 		- Intrusions detection system
 	- ### Fail-open #card
 	  background-color:: green
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:45:01.497Z
-	  card-last-reviewed:: 2025-02-08T15:45:01.498Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:20:04.430Z
+	  card-last-reviewed:: 2025-02-13T12:20:04.430Z
 	  card-last-score:: 5
 		- when it crashes data will continue to flow without security
 	- ### Fail-closed #card
@@ -222,11 +222,11 @@
 		- security and network connection will be severed
 	- ### Passive monitoring #card
 	  background-color:: green
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:44:37.744Z
-	  card-last-reviewed:: 2025-02-08T15:44:37.745Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:19:58.039Z
+	  card-last-reviewed:: 2025-02-13T12:19:58.039Z
 	  card-last-score:: 5
 		- copies of data are sent to the IPS kind of a IDS since it cant block traffic real time
 		- uses port mirror/ SPAN or network tap
@@ -244,22 +244,22 @@
 - # Video 3.2.3 Network Appliances
 	- ### Jump Server #card
 	  background-color:: yellow
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:45:04.160Z
-	  card-last-reviewed:: 2025-02-08T15:45:04.161Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:20:05.963Z
+	  card-last-reviewed:: 2025-02-13T12:20:05.963Z
 	  card-last-score:: 5
 		- A server that is accsessible from outside of the network limited to very few admins
 		- hardened
 		- ![image.png](../assets/image_1737441174700_0.png)
 	- ### Proxy Server #card
 	  background-color:: pink
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:45:17.662Z
-	  card-last-reviewed:: 2025-02-08T15:45:17.663Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:20:29.485Z
+	  card-last-reviewed:: 2025-02-13T12:20:29.486Z
 	  card-last-score:: 5
 		- sits between the users
 		- useful for caching, URL filtering, content scanning
@@ -267,59 +267,59 @@
 		- nginx is a application proxy
 	- ### Explicit Proxy #card
 	  background-color:: red
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:44:56.544Z
-	  card-last-reviewed:: 2025-02-08T15:44:56.545Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:20:01.719Z
+	  card-last-reviewed:: 2025-02-13T12:20:01.719Z
 	  card-last-score:: 5
 		- You have to tell the OS or browser to go through the proxy
 	- ### Transparent Proxy #card
 	  background-color:: blue
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:43:03.398Z
-	  card-last-reviewed:: 2025-02-08T15:43:03.398Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:18:53.545Z
+	  card-last-reviewed:: 2025-02-13T12:18:53.546Z
 	  card-last-score:: 5
 		- invisible to the user
 	- ### Forward Proxy #card
 	  background-color:: purple
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:44:53.321Z
-	  card-last-reviewed:: 2025-02-08T15:44:53.322Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:20:00.423Z
+	  card-last-reviewed:: 2025-02-13T12:20:00.424Z
 	  card-last-score:: 5
 		- an internal proxy
 		- managing data exiting a network
 	- ### Reverse Proxy #card
 	  background-color:: green
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:43:19.844Z
-	  card-last-reviewed:: 2025-02-08T15:43:19.844Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:19:56.092Z
+	  card-last-reviewed:: 2025-02-13T12:19:56.092Z
 	  card-last-score:: 5
 		- inbound traffic from the internet to youre network
 		- nginx proxy on my network
 	- ### Open Proxy #card
 	  background-color:: blue
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:44:48.519Z
-	  card-last-reviewed:: 2025-02-08T15:44:48.520Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:19:59.212Z
+	  card-last-reviewed:: 2025-02-13T12:19:59.212Z
 	  card-last-score:: 5
 		- third party proxy available to anyone to use
 		- third party can see your data and inject data
 	- ### Active/active load balencing #card
 	  background-color:: green
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:45:15.309Z
-	  card-last-reviewed:: 2025-02-08T15:45:15.309Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:20:17.794Z
+	  card-last-reviewed:: 2025-02-13T12:20:17.794Z
 	  card-last-score:: 5
 		- all servers are active and being used by the load balencer
 		- tcp offload
@@ -328,20 +328,20 @@
 		- QoS prioritization
 	- ### Active/passive load balancing #card
 	  background-color:: red
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:45:05.222Z
-	  card-last-reviewed:: 2025-02-08T15:45:05.222Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:20:06.745Z
+	  card-last-reviewed:: 2025-02-13T12:20:06.746Z
 	  card-last-score:: 5
 		- some servers are being active and others are on standby
 	- ### SIEM #card
 	  background-color:: purple
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.46
-	  card-next-schedule:: 2025-02-12T18:40:51.548Z
-	  card-last-reviewed:: 2025-02-08T15:40:51.549Z
+	  card-last-interval:: 10.6
+	  card-repeats:: 3
+	  card-ease-factor:: 2.56
+	  card-next-schedule:: 2025-02-24T02:15:25.354Z
+	  card-last-reviewed:: 2025-02-13T12:15:25.355Z
 	  card-last-score:: 5
 		- Security information event manager
 		- collects logs from many different sensors on the network
@@ -358,11 +358,11 @@
 - # Video 3.2.5 Firewall Types
 	- ### Network Based Firewalls #card
 	  background-color:: red
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:45:11.942Z
-	  card-last-reviewed:: 2025-02-08T15:45:11.943Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:20:09.983Z
+	  card-last-reviewed:: 2025-02-13T12:20:09.984Z
 	  card-last-score:: 5
 		- OSI layer 4 or newer ones can do 7
 		- VPN
@@ -389,11 +389,11 @@
 		- Layer 4 lower performance
 	- ### NGFW #card
 	  background-color:: green
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:43:14.845Z
-	  card-last-reviewed:: 2025-02-08T15:43:14.846Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:19:50.205Z
+	  card-last-reviewed:: 2025-02-13T12:19:50.206Z
 	  card-last-score:: 5
 		- Next Gen firewall
 		- OSI 7
@@ -413,11 +413,11 @@
 - # Video 3.3.1 Data Types and Classifications
 	- ### Regulated Data #card
 	  background-color:: yellow
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:44:36.389Z
-	  card-last-reviewed:: 2025-02-08T15:44:36.389Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:19:57.407Z
+	  card-last-reviewed:: 2025-02-13T12:19:57.408Z
 	  card-last-score:: 5
 		- managed by third party
 		- credit card stuff
@@ -446,21 +446,21 @@
 - # Video 3.3.2 States of Data
 	- ### GDPR #card
 	  background-color:: yellow
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.46
-	  card-next-schedule:: 2025-02-12T18:40:53.982Z
-	  card-last-reviewed:: 2025-02-08T15:40:53.982Z
+	  card-last-interval:: 10.6
+	  card-repeats:: 3
+	  card-ease-factor:: 2.56
+	  card-next-schedule:: 2025-02-24T02:15:31.307Z
+	  card-last-reviewed:: 2025-02-13T12:15:31.309Z
 	  card-last-score:: 5
 		- General Data Protection Regulation
 		- European data laws any data collected from Europeans must be held in the EU
 	- ### Data Sovereignty #card
 	  background-color:: green
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:43:15.991Z
-	  card-last-reviewed:: 2025-02-08T15:43:15.991Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:19:53.998Z
+	  card-last-reviewed:: 2025-02-13T12:19:53.998Z
 	  card-last-score:: 5
 		- data that resides in a country has to follow its regulations
 - # Video 3.3.3 Protecting Data
@@ -484,22 +484,22 @@
 - # Video 3.4.1 Resiliency
 	- ### HA #card
 	  background-color:: red
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:45:00.251Z
-	  card-last-reviewed:: 2025-02-08T15:45:00.252Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:20:03.812Z
+	  card-last-reviewed:: 2025-02-13T12:20:03.812Z
 	  card-last-score:: 5
 		- High Availability
 		- system running in parallel for if the main one fails
 		- $$$
 	- ### Server Clustering #card
 	  background-color:: pink
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:45:08.338Z
-	  card-last-reviewed:: 2025-02-08T15:45:08.339Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:20:08.503Z
+	  card-last-reviewed:: 2025-02-13T12:20:08.505Z
 	  card-last-score:: 5
 		- combine two or more servers
 		- scalable
@@ -516,20 +516,20 @@
 		- where a whole network is off site when the main one fails
 	- ### Hot site #card
 	  background-color:: green
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:45:16.409Z
-	  card-last-reviewed:: 2025-02-08T15:45:16.410Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:20:28.688Z
+	  card-last-reviewed:: 2025-02-13T12:20:28.688Z
 	  card-last-score:: 5
 		- a data center where are the data is duplicated
 	- ### Cold Site #card
 	  background-color:: blue
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:45:02.776Z
-	  card-last-reviewed:: 2025-02-08T15:45:02.776Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:20:05.130Z
+	  card-last-reviewed:: 2025-02-13T12:20:05.130Z
 	  card-last-score:: 5
 		- Empty Building
 		- bring all data and equipment and people to run the site
@@ -544,29 +544,29 @@
 		- some equipment is on site
 	- ### Geographic dispersion #card
 	  background-color:: red
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:45:19.536Z
-	  card-last-reviewed:: 2025-02-08T15:45:19.537Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:20:30.670Z
+	  card-last-reviewed:: 2025-02-13T12:20:30.670Z
 	  card-last-score:: 5
 		- these sites should be physically different than the organizations primary location
 	- ### Platform Diversity #card
 	  background-color:: pink
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:44:55.067Z
-	  card-last-reviewed:: 2025-02-08T15:44:55.067Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:20:00.957Z
+	  card-last-reviewed:: 2025-02-13T12:20:00.957Z
 	  card-last-score:: 5
 		- keep systems diverse in case one OS has a vulnerability
 	- ### COOP #card
 	  background-color:: blue
-	  card-last-interval:: 4.14
-	  card-repeats:: 2
-	  card-ease-factor:: 2.7
-	  card-next-schedule:: 2025-02-12T18:43:13.599Z
-	  card-last-reviewed:: 2025-02-08T15:43:13.600Z
+	  card-last-interval:: 11.2
+	  card-repeats:: 3
+	  card-ease-factor:: 2.8
+	  card-next-schedule:: 2025-02-24T16:18:59.211Z
+	  card-last-reviewed:: 2025-02-13T12:18:59.211Z
 	  card-last-score:: 5
 		- Continuity of operation planning
 		- in case tech fails how do  we do things manually or differently
