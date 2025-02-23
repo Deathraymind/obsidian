@@ -43,11 +43,11 @@
 				- enable motion detectors
 	- ### Corrective #card
 	  background-color:: green
-	  card-last-interval:: 28.3
-	  card-repeats:: 4
-	  card-ease-factor:: 2.66
-	  card-next-schedule:: 2025-02-17T15:40:06.816Z
-	  card-last-reviewed:: 2025-01-20T08:40:06.817Z
+	  card-last-interval:: 84.1
+	  card-repeats:: 5
+	  card-ease-factor:: 2.76
+	  card-next-schedule:: 2025-05-15T13:05:07.790Z
+	  card-last-reviewed:: 2025-02-20T11:05:07.791Z
 	  card-last-score:: 5
 		- Apply a controller after the event has been enacted, this will mitigate the effects of the attack and create less downtime.
 			- Examples:
@@ -70,11 +70,11 @@
 				- Generator after power outage
 	- ### Directive #card
 	  background-color:: purple
-	  card-last-interval:: 28.3
-	  card-repeats:: 4
-	  card-ease-factor:: 2.66
-	  card-next-schedule:: 2025-02-17T15:40:16.048Z
-	  card-last-reviewed:: 2025-01-20T08:40:16.048Z
+	  card-last-interval:: 84.1
+	  card-repeats:: 5
+	  card-ease-factor:: 2.76
+	  card-next-schedule:: 2025-05-15T13:05:09.943Z
+	  card-last-reviewed:: 2025-02-20T11:05:09.944Z
 	  card-last-score:: 5
 		- Direct a subject towards security compliance, this is a weak security control.
 		- Examples:
@@ -147,11 +147,11 @@
 	  card-last-score:: 5
 		- Demotion
 	- Whats an example of a detective managerial control #card
-	  card-last-interval:: 4
-	  card-repeats:: 2
-	  card-ease-factor:: 2.9
-	  card-next-schedule:: 2025-02-13T16:30:18.924Z
-	  card-last-reviewed:: 2025-02-09T16:30:18.924Z
+	  card-last-interval:: 12
+	  card-repeats:: 3
+	  card-ease-factor:: 3
+	  card-next-schedule:: 2025-02-28T00:15:38.029Z
+	  card-last-reviewed:: 2025-02-16T00:15:38.029Z
 	  card-last-score:: 5
 		- login reports
 	- Whats an example of a corrective managerial control #card
@@ -284,11 +284,11 @@
 		- Availability: Systems and networks must be up and running
 	- ### Confidentiality #card
 	  background-color:: red
-	  card-last-interval:: 28.3
-	  card-repeats:: 4
-	  card-ease-factor:: 2.66
-	  card-next-schedule:: 2025-02-17T15:40:03.487Z
-	  card-last-reviewed:: 2025-01-20T08:40:03.487Z
+	  card-last-interval:: 84.1
+	  card-repeats:: 5
+	  card-ease-factor:: 2.76
+	  card-next-schedule:: 2025-05-15T13:05:03.318Z
+	  card-last-reviewed:: 2025-02-20T11:05:03.318Z
 	  card-last-score:: 5
 		- Certain information should only be known to certain people.
 		- Encryption helps us do this but giving a key to decrypt to a certain person.
@@ -312,11 +312,11 @@
 			- provides proof of integrity and origin.
 	- ### Availability #card
 	  background-color:: green
-	  card-last-interval:: 28.3
-	  card-repeats:: 4
-	  card-ease-factor:: 2.66
-	  card-next-schedule:: 2025-02-17T15:41:23.602Z
-	  card-last-reviewed:: 2025-01-20T08:41:23.602Z
+	  card-last-interval:: 84.1
+	  card-repeats:: 5
+	  card-ease-factor:: 2.76
+	  card-next-schedule:: 2025-05-15T13:05:22.280Z
+	  card-last-reviewed:: 2025-02-20T11:05:22.280Z
 	  card-last-score:: 5
 		- Always running
 		- Fault tolerance
@@ -349,11 +349,11 @@
 		  card-last-score:: 5
 			- Prove you are who you say, identification
 		- Authorization #card
-		  card-last-interval:: 28.3
-		  card-repeats:: 4
-		  card-ease-factor:: 2.66
-		  card-next-schedule:: 2025-02-17T15:39:58.930Z
-		  card-last-reviewed:: 2025-01-20T08:39:58.930Z
+		  card-last-interval:: 84.1
+		  card-repeats:: 5
+		  card-ease-factor:: 2.76
+		  card-next-schedule:: 2025-05-15T13:04:59.990Z
+		  card-last-reviewed:: 2025-02-20T11:04:59.990Z
 		  card-last-score:: 5
 			- Based on youre identification and authentificatio, what accsess do you have
 		- Accounting #card
@@ -378,11 +378,11 @@
 	  background-color:: pink
 		- A computer needs to prove they are allowed to be on the network. We can do this with a certificate
 		- CA #card
-		  card-last-interval:: 28.3
-		  card-repeats:: 4
-		  card-ease-factor:: 2.66
-		  card-next-schedule:: 2025-02-17T15:40:00.439Z
-		  card-last-reviewed:: 2025-01-20T08:40:00.439Z
+		  card-last-interval:: 84.1
+		  card-repeats:: 5
+		  card-ease-factor:: 2.76
+		  card-next-schedule:: 2025-05-15T13:05:00.884Z
+		  card-last-reviewed:: 2025-02-20T11:05:00.885Z
 		  card-last-score:: 5
 			- A certificate authority digitally sighs a certificate with the organizations CA
 			- This certificate can now be included as part of the authentication method
@@ -447,11 +447,11 @@
 		- processing, forwarding, trunking, encrypting, NAT
 	- ### Control Plane #card
 	  background-color:: pink
-	  card-last-interval:: 28.3
-	  card-repeats:: 4
-	  card-ease-factor:: 2.66
-	  card-next-schedule:: 2025-02-17T15:40:05.190Z
-	  card-last-reviewed:: 2025-01-20T08:40:05.190Z
+	  card-last-interval:: 84.1
+	  card-repeats:: 5
+	  card-ease-factor:: 2.76
+	  card-next-schedule:: 2025-05-15T13:05:04.207Z
+	  card-last-reviewed:: 2025-02-20T11:05:04.207Z
 	  card-last-score:: 5
 		- Manages the actions of the data plane
 		- settings polcies rules for what security a device needs to have
@@ -487,11 +487,11 @@
 		- combine **adaptive identity** and a **predefined set of rules** based on the adaptive identity data.
 	- ### PEP #card
 	  background-color:: yellow
-	  card-last-interval:: 28.3
-	  card-repeats:: 4
-	  card-ease-factor:: 2.66
-	  card-next-schedule:: 2025-02-17T15:40:21.661Z
-	  card-last-reviewed:: 2025-01-20T08:40:21.661Z
+	  card-last-interval:: 84.1
+	  card-repeats:: 5
+	  card-ease-factor:: 2.76
+	  card-next-schedule:: 2025-05-15T13:05:21.128Z
+	  card-last-reviewed:: 2025-02-20T11:05:21.128Z
 	  card-last-score:: 5
 		- Policy Enforcement Point
 		- This is the point where users and devices will be evaluated and data will be collected. It does now enforce any security measures, it passes this information to the **PDP**.
@@ -519,11 +519,11 @@
 		- Grant, Deny, or Revoke
 	- ### Policy Administrator #card
 	  background-color:: blue
-	  card-last-interval:: 4
-	  card-repeats:: 2
-	  card-ease-factor:: 2.42
-	  card-next-schedule:: 2025-02-13T16:29:25.047Z
-	  card-last-reviewed:: 2025-02-09T16:29:25.048Z
+	  card-last-interval:: 10.08
+	  card-repeats:: 3
+	  card-ease-factor:: 2.52
+	  card-next-schedule:: 2025-02-26T01:15:36.358Z
+	  card-last-reviewed:: 2025-02-16T00:15:36.359Z
 	  card-last-score:: 5
 		- communicates with the polocy Enforcement Point
 		- Generates access tokens or credentials
@@ -619,11 +619,11 @@
 		- Hash does not say who sent the data
 	- ### Proof of origin #card
 	  background-color:: red
-	  card-last-interval:: 28.3
-	  card-repeats:: 4
-	  card-ease-factor:: 2.66
-	  card-next-schedule:: 2025-02-17T15:40:12.297Z
-	  card-last-reviewed:: 2025-01-20T08:40:12.298Z
+	  card-last-interval:: 84.1
+	  card-repeats:: 5
+	  card-ease-factor:: 2.76
+	  card-next-schedule:: 2025-05-15T13:05:08.821Z
+	  card-last-reviewed:: 2025-02-20T11:05:08.821Z
 	  card-last-score:: 5
 		- Verify who sent the data
 		- authentication
@@ -662,11 +662,11 @@
 		- How to revert change if it goes bad
 	- ### SOP #card
 	  background-color:: pink
-	  card-last-interval:: 11.6
-	  card-repeats:: 3
-	  card-ease-factor:: 2.9
-	  card-next-schedule:: 2025-02-20T05:41:39.337Z
-	  card-last-reviewed:: 2025-02-08T15:41:39.337Z
+	  card-last-interval:: 36
+	  card-repeats:: 4
+	  card-ease-factor:: 3
+	  card-next-schedule:: 2025-03-28T11:09:33.460Z
+	  card-last-reviewed:: 2025-02-20T11:09:33.460Z
 	  card-last-score:: 5
 		- Standard Operating Procedure
 - # Video 1.4.1 Public Key Infrastructure
@@ -757,11 +757,11 @@
 		- Encrypt all database information with a symmetric key
 	- ### Record level encryption #card
 	  background-color:: blue
-	  card-last-interval:: 4
-	  card-repeats:: 2
-	  card-ease-factor:: 2.9
-	  card-next-schedule:: 2025-02-13T16:28:29.150Z
-	  card-last-reviewed:: 2025-02-09T16:28:29.151Z
+	  card-last-interval:: 12
+	  card-repeats:: 3
+	  card-ease-factor:: 3
+	  card-next-schedule:: 2025-02-28T00:15:31.410Z
+	  card-last-reviewed:: 2025-02-16T00:15:31.411Z
 	  card-last-score:: 5
 		- encrypt indavidual columns
 		- use a separate symmetric key for each column
@@ -992,11 +992,11 @@
 			- Provinces scalability of OSCP
 	- ### CRL #card
 	  background-color:: purple
-	  card-last-interval:: 10.64
-	  card-repeats:: 3
-	  card-ease-factor:: 2.66
-	  card-next-schedule:: 2025-02-19T06:41:41.359Z
-	  card-last-reviewed:: 2025-02-08T15:41:41.359Z
+	  card-last-interval:: 30.47
+	  card-repeats:: 4
+	  card-ease-factor:: 2.76
+	  card-next-schedule:: 2025-03-22T22:05:30.307Z
+	  card-last-reviewed:: 2025-02-20T11:05:30.308Z
 	  card-last-score:: 5
 		- Certificate Revocation List
 		- Maintained by the CA
